@@ -15,8 +15,8 @@ inLanguage: it
 app_links: []
 isBasedOnUrl: 'https://www.linkedin.com/pulse/svegliatitalia-claudio-raimondi?trk=mp-author-card'
 title: '#svegliatitalia'
-datePublished: '2016-02-14T20:05:46.709Z'
-dateModified: '2016-02-14T20:04:37.154Z'
+datePublished: '2016-02-14T20:59:58.566Z'
+dateModified: '2016-02-14T20:59:30.684Z'
 sourcePath: _posts/2016-02-14-svegliatitalia.md
 published: true
 inFeed: true
