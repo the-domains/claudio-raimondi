@@ -13,10 +13,10 @@ keywords: []
 description: 'Google è senza dubbio il più conosciuto ed utilizzato motore di ricerca al mondo, con forse la doverosa eccezione della popolosissima Cina e, più in generale, di parte del blocco asiatico.'
 inLanguage: it
 app_links: []
-isBasedOnUrl: 'https://www.linkedin.com/pulse/lamorevole-guerra-fratricida-tra-apple-google-e-samsung-raimondi?trk=mp-reader-card'
+isBasedOnUrl: 'https://www.linkedin.com/pulse/lamorevole-guerra-fratricida-tra-apple-google-e-samsung-raimondi?trk=mp-author-card'
 title: "L'amorevole guerra fratricida tra Apple, Google e Samsung"
-datePublished: '2016-02-14T19:37:10.065Z'
-dateModified: '2016-02-14T19:33:00.929Z'
+datePublished: '2016-02-14T20:05:10.814Z'
+dateModified: '2016-02-14T20:03:42.225Z'
 sourcePath: _posts/2016-02-14-lamorevole-guerra-fratricida-tra-apple-google-e-samsung.md
 published: true
 inFeed: true
