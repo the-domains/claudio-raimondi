@@ -13,10 +13,10 @@ keywords: []
 description: 'Sono giorni importanti per molte persone in Italia. Il dibattito sulle unioni civili, che da tempo anima il Paese, entrerà in Parlamento con la discussione del disegno di legge al Senato tra pochi giorni. Oggi, invece, molte piazze italiane si coloreranno di manifestazioni a sostegno dei diritti della comunità LGBT, al grido di #Svegliatitalia.'
 inLanguage: it
 app_links: []
-isBasedOnUrl: 'https://www.linkedin.com/pulse/svegliatitalia-claudio-raimondi?trk=mp-reader-card'
+isBasedOnUrl: 'https://www.linkedin.com/pulse/svegliatitalia-claudio-raimondi?trk=mp-author-card'
 title: '#svegliatitalia'
-datePublished: '2016-02-14T19:38:03.402Z'
-dateModified: '2016-02-14T19:32:13.236Z'
+datePublished: '2016-02-14T20:05:46.709Z'
+dateModified: '2016-02-14T20:04:37.154Z'
 sourcePath: _posts/2016-02-14-svegliatitalia.md
 published: true
 inFeed: true
