@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Claudio Raimondi Online]]></title>
+        <description><![CDATA[Claudio Raimondi Online]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Feb 2016 19:16:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La rivoluzione Apple di cui nessuno parla]]></title>
+            <description><![CDATA[<article><h1>La rivoluzione Apple di cui nessuno parla</h1><h2>Il futuro della Apple SIM è di sparire</h2><p>Apple, ancora nelle mani di Steve Jobs, è riuscita a mettere in piedi una macchina mediatica senza precedenti. Il lancio dei nuovi prodotti si è trasformato da un evento per specialisti del settore ad un evento quasi consumer. Se fino al 2007 partecipavano al WWDC - WorldwideDevelopers Conference circa tra le 2 e le 3 mila persone, dal 2008 Apple ha dovuto mettere un limite massimo di 5 mila persone, lasciando fuori molti fan. E la richiesta fu talmente forte da obbligare l'azienda a dare in diretta streaming l'evento anche su internet per le migliaia di fan che, in giro per il mondo, volevano seguire la presentazione del CEO. Il Keynote è quindi diventato un modo di comunicare con i propri consumatori più avanzati, gli early adopter e gli enthusiast, fantastici ambasciatori del brand e spesso più efficaci di qualsivoglia spot TV. Una cosa che qualunque azienda sogna e poche hanno.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce7aa53b6d2ef234da3b8daa375fc725639b0cd4.jpg"></article>]]></description>
+            <link>undefinedla-rivoluzione-apple-di-cui-nessuno-parla/index.html</link>
+            <guid isPermaLink="false">6c3b5e77-adfa-4d46-b2e3-9134d9c79788</guid>
+            <pubDate>Sun, 14 Feb 2016 19:16:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
