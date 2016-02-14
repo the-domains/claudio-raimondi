@@ -13,10 +13,10 @@ keywords: []
 description: "Si sente parlare sempre più spesso di auto che si guidano da sole, senza conducente, e di come i giganti del tech mondiale ci stiano lavorando. Si legge di come Google ed Apple stiano lavorando in gran segreto ai veicoli del futuro che rivoluzioneranno - e faranno crollare - l'industria automobilistica per come la conosciamo oggi."
 inLanguage: it
 app_links: []
-isBasedOnUrl: 'https://www.linkedin.com/pulse/perch%C3%A9-il-futuro-dellindustria-automobilistica-%C3%A8-segnato-raimondi?trk=mp-reader-card'
+isBasedOnUrl: 'https://www.linkedin.com/pulse/perch%C3%A9-il-futuro-dellindustria-automobilistica-%C3%A8-segnato-raimondi?trk=mp-author-card'
 title: "Perché il futuro dell'industria automobilistica è segnato e come hanno vinto Apple e Google"
-datePublished: '2016-02-14T19:37:47.689Z'
-dateModified: '2016-02-14T19:34:51.371Z'
+datePublished: '2016-02-14T20:05:35.208Z'
+dateModified: '2016-02-14T20:04:32.855Z'
 sourcePath: _posts/2016-02-14-perche-il-futuro-dellindustria-automobilistica-e-segnato-e.md
 published: true
 inFeed: true
