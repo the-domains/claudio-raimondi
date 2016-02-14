@@ -13,10 +13,10 @@ keywords: []
 description: "In questi giorni si parla tanto dello sbarco in Italia di Netflix, una libreria video che raccoglie migliaia di ore di film e serie TV fruibile tramite internet su qualsiasi device. Netflix è uno dei principali responsabili mondiali del binge-watching (l'abitudine di guardare ininterrottamente molte puntate di una serie TV), una rivoluzione che, per alcuni, potrebbe cambiare il panorama televisivo italiano."
 inLanguage: it
 app_links: []
-isBasedOnUrl: 'https://www.linkedin.com/pulse/i-segreti-della-tv-che-cambier%C3%A0-la-claudio-raimondi?trk=mp-reader-card'
+isBasedOnUrl: 'https://www.linkedin.com/pulse/i-segreti-della-tv-che-cambier%C3%A0-la-claudio-raimondi?trk=mp-author-card'
 title: Lei non sa chi sono io... ma Netflix sì
-datePublished: '2016-02-14T19:37:32.870Z'
-dateModified: '2016-02-14T19:37:19.609Z'
+datePublished: '2016-02-14T20:05:23.253Z'
+dateModified: '2016-02-14T20:04:17.381Z'
 sourcePath: _posts/2016-02-14-lei-non-sa-chi-sono-io-ma-netflix-si.md
 published: true
 inFeed: true
