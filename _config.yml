@@ -1,7 +1,7 @@
 name: Claudio Raimondi
 favicon: null
 layout_spectrum: 0.5849358078557998
-typography_spectrum: 0.632994172628969
+typography_spectrum: 0.48216
 title: Claudio Raimondi Online
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.6129717163275927
+  brandStrength: 0.5
   lightness: 0.8094667168334126
-  saturation: 0.49746371782384813
-  rhythmicContrast: 0.16211988171562552
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
