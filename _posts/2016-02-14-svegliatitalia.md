@@ -1,29 +1,31 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.linkedin.com/pulse/svegliatitalia-claudio-raimondi?trk=mp-author-card'
+inLanguage: it
+starred: false
+keywords: []
+description: 'Sono giorni importanti per molte persone in Italia. Il dibattito sulle unioni civili, che da tempo anima il Paese, entrerà in Parlamento con la discussione del disegno di legge al Senato tra pochi giorni. Oggi, invece, molte piazze italiane si coloreranno di manifestazioni a sostegno dei diritti della comunità LGBT, al grido di #Svegliatitalia.'
+datePublished: '2016-02-14T21:00:29.838Z'
+dateModified: '2016-02-14T21:00:26.400Z'
 author:
   - name: Claudio Raimondi
     url: 'https://www.linkedin.com/in/craimondi?trk=pulse-det-athr_prof-art_hdr'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.linkedin.com'
-  name: LinkedIn Pulse
-  favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
-  domain: www.linkedin.com
-keywords: []
-description: 'Sono giorni importanti per molte persone in Italia. Il dibattito sulle unioni civili, che da tempo anima il Paese, entrerà in Parlamento con la discussione del disegno di legge al Senato tra pochi giorni. Oggi, invece, molte piazze italiane si coloreranno di manifestazioni a sostegno dei diritti della comunità LGBT, al grido di #Svegliatitalia.'
-inLanguage: it
 app_links: []
-isBasedOnUrl: 'https://www.linkedin.com/pulse/svegliatitalia-claudio-raimondi?trk=mp-author-card'
 title: '#svegliatitalia'
-datePublished: '2016-02-14T20:59:58.566Z'
-dateModified: '2016-02-14T20:59:30.684Z'
 sourcePath: _posts/2016-02-14-svegliatitalia.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: LinkedIn Pulse
+  domain: www.linkedin.com
+  url: 'https://www.linkedin.com'
+  favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>&amp;num;svegliatitalia</h1><p>Sono giorni importanti per molte persone in Italia&amp;period; Il dibattito sulle unioni civili&amp;comma; che da tempo anima il Paese&amp;comma; entrerà in Parlamento con la discussione del disegno di legge al Senato tra pochi giorni&amp;period; Oggi&amp;comma; invece&amp;comma; molte piazze italiane si coloreranno di manifestazioni a sostegno dei diritti della comunità LGBT&amp;comma; al grido di &amp;num;Svegliatitalia&amp;period;</p><img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAVcAAAAJGJkYWI0MTAwLTk1ZWEtNGFjNi04MjI4LTliMTExNTI0M2YzYQ.png" /></article>
+<article style=""><h1>#svegliatitalia</h1><p>Sono giorni importanti per molte persone in Italia. Il dibattito sulle unioni civili, che da tempo anima il Paese, entrerà in Parlamento con la discussione del disegno di legge al Senato tra pochi giorni. Oggi, invece, molte piazze italiane si coloreranno di manifestazioni a sostegno dei diritti della comunità LGBT, al grido di #Svegliatitalia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffb2d2072bb2b667295d706dfbdcece2eae97031.png" /></article>
