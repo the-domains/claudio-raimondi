@@ -1,0 +1,28 @@
+name: Claudio Raimondi
+favicon: null
+layout_spectrum: 0.5849358078557998
+typography_spectrum: 0.632994172628969
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6129717163275927
+  lightness: 0.8094667168334126
+  saturation: 0.49746371782384813
+  rhythmicContrast: 0.16211988171562552
+purpose: []
