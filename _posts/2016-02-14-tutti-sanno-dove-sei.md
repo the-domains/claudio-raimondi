@@ -13,10 +13,10 @@ keywords: []
 description: "Negli ultimi anni grazie all'avvento dei Social e degli smartphone è entrato nel nostro vocabolario un nuovo termine: la location, la nostra posizione, dove siamo. Di fatto consiste nell'utilizzare il GPS del nostro smartphone (o la rete cellulare o la geo-localizzazione di un indirizzo IP, o ancora altre tecnologie come beacon, wifi e bluetooth) per condividere su internet a quale latitudine, longitudine e altezza ci troviamo."
 inLanguage: it
 app_links: []
-isBasedOnUrl: 'https://www.linkedin.com/pulse/tutti-sanno-dove-sei-claudio-raimondi?trk=mp-reader-card'
+isBasedOnUrl: 'https://www.linkedin.com/pulse/tutti-sanno-dove-sei-claudio-raimondi?trk=mp-author-card'
 title: Tutti sanno dove sei
-datePublished: '2016-02-14T19:36:58.029Z'
-dateModified: '2016-02-14T19:33:11.922Z'
+datePublished: '2016-02-14T20:05:01.002Z'
+dateModified: '2016-02-14T20:04:04.321Z'
 sourcePath: _posts/2016-02-14-tutti-sanno-dove-sei.md
 published: true
 inFeed: true
