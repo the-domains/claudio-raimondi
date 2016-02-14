@@ -23,7 +23,7 @@ color:
     - '#b8da87'
     - '#adbcde'
   brandStrength: 0
-  lightness: 0.8094667168334126
-  saturation: 1
-  rhythmicContrast: 0.25
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
