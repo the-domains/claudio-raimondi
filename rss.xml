@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Claudio Raimondi Online]]></title>
+        <description><![CDATA[Claudio Raimondi Online]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Feb 2016 19:35:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PMI e ecommerce: da opportunità a rischio]]></title>
+            <description><![CDATA[<article><h1>PMI e ecommerce: da opportunità a rischio</h1><p>Non è un mistero che le vendite al dettaglio in Italia siano ferme, se non in lieve contrazione. L'ultimo dato ISTAT disponibile, settembre, mostra una contrazione di 0.1% rispetto ad agosto e di 0.5% verso l'anno precedente.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc1a8fee7a3ff37d7880e24d78d60d19b68afdb8.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/pmi-e-ecommerce-da-opportunit%C3%A0-rischio-claudio-raimondi?trk=mp-reader-card</link>
+            <guid isPermaLink="false">b0a0e3b2-5e94-483a-9f1b-438cfadd90e8</guid>
+            <pubDate>Sun, 14 Feb 2016 19:35:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
