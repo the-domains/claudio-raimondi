@@ -1,11 +1,8 @@
-analytics:
-  twitter: null
-  google: UA-5050578-6
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Claudio Raimondi
+favicon: null
+layout_spectrum: 0.63885
+typography_spectrum: 0.74931
+title: Home
 collections:
   - index:
       path: /
@@ -18,24 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.63885
-title: Claudio Raimondi Online
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: UA-5050578-6
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0
-  rhythmicContrast: 1
   brandColors:
     - '#f5fafa'
     - '#c1dad6'
     - '#6d929b'
     - '#b7afa3'
     - '#e8d0a9'
+  brandStrength: 0
   lightness: 0.625
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
-favicon: null
-name: Claudio Raimondi
-typography_spectrum: 0.74931
