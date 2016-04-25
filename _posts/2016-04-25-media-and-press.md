@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T09:16:44.516Z'
-dateModified: '2016-04-25T09:16:04.995Z'
-title: 'Media & Press'
+datePublished: '2016-04-25T09:32:57.119Z'
+dateModified: '2016-04-25T09:23:57.392Z'
+title: 'MEDIA & PRESS'
 author:
   - name: ''
     url: ''
@@ -24,4 +24,4 @@ url: media-and-press/index.html
 _type: WebPage
 
 ---
-<article style=""><h1>Media &amp; Press</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/881f00a8dd5bcd62cae12aea3ce519c12555be9c.jpg" /></article>
+<article style=""><h1>MEDIA &amp; PRESS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/881f00a8dd5bcd62cae12aea3ce519c12555be9c.jpg" /></article>
