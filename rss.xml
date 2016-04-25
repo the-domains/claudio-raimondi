@@ -4,8 +4,15 @@
         <description><![CDATA[Home]]></description>
         <link>http://raimondi.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 09:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 09:49:14 GMT</lastBuildDate>
         <atom:link href="http://raimondi.digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Media & Press]]></title>
+            <description><![CDATA[<article><h1>Media & Press</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/881f00a8dd5bcd62cae12aea3ce519c12555be9c.jpg"></article>]]></description>
+            <link>http://press.raimondi.digital</link>
+            <guid isPermaLink="false">3c31c131-f792-4a5f-9933-482335e77c3a</guid>
+            <pubDate>Mon, 25 Apr 2016 09:48:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["eBay adotta L'Aquila": il colosso dell'e-commerce a sostegno dei negozianti]]></title>
             <description><![CDATA[<article><h1>"eBay adotta L'Aquila": il colosso dell'e-commerce a sostegno dei negozianti</h1><p>Roberto Ciuffini</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57ab877fc5b8858460764a2e352192f91fe6d68d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.linkedin.com/pulse/lecommerce-%C3%A8-mobile-ma-non-qual-piuma-al-vento-claudio-raimondi?trk=mp-reader-card</link>
             <guid isPermaLink="false">00c94fbf-eae8-4d8a-a18e-d0b532ac3762</guid>
             <pubDate>Sun, 14 Feb 2016 19:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PMI e ecommerce: da opportunità a rischio]]></title>
-            <description><![CDATA[<article><h1>PMI e ecommerce: da opportunità a rischio</h1><p>Non è un mistero che le vendite al dettaglio in Italia siano ferme, se non in lieve contrazione. L'ultimo dato ISTAT disponibile, settembre, mostra una contrazione di 0.1% rispetto ad agosto e di 0.5% verso l'anno precedente.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa01cf4bb19469f593b84c240c8e0c1d6d388a40.jpg"></article>]]></description>
-            <link>https://www.linkedin.com/pulse/pmi-e-ecommerce-da-opportunit%C3%A0-rischio-claudio-raimondi?trk=mp-reader-card</link>
-            <guid isPermaLink="false">b0a0e3b2-5e94-483a-9f1b-438cfadd90e8</guid>
-            <pubDate>Sun, 14 Feb 2016 19:35:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
