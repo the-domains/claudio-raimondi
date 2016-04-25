@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T08:47:25.154Z'
-dateModified: '2016-04-25T08:47:21.805Z'
+datePublished: '2016-04-25T09:15:57.319Z'
+dateModified: '2016-04-25T08:47:39.154Z'
 title: 'Media & Press'
 author: []
 sourcePath: _posts/2016-04-25-media-and-press.md
