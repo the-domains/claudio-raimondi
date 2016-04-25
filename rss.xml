@@ -1,52 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Media & Press]]></title>
-        <description><![CDATA[Media & Press]]></description>
-        <link>http://press.raimondi.digital/</link>
+        <title><![CDATA[Blog]]></title>
+        <description><![CDATA[Blog]]></description>
+        <link>http://raimondi.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 10:01:36 GMT</lastBuildDate>
-        <atom:link href="http://press.raimondi.digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 18:27:55 GMT</lastBuildDate>
+        <atom:link href="http://raimondi.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[L'Aquila rinasce anche grazie a eBay - Panorama]]></title>
-            <description><![CDATA[<article><h1>L'Aquila rinasce anche grazie a eBay - Panorama</h1><p>In apparenza, non hanno nulla in comune. Dolci Aveja è una pasticceria artigianale, Egar vende prodotti di pelletteria e bigiotteria, L'Aquila Design si occupa di arredamento d'interni, Mr Gadget ha un vasto assortimento di prodotti per bambini e adulti, mentre Oro & Argento, come il nome suggerisce, è una gioielleria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a1db6864525be7338173f954828c3f004164b61.jpg"></article>]]></description>
-            <link>http://www.panorama.it/mytech/laquila-rinasce-anche-grazie-ebay/</link>
-            <guid isPermaLink="false">0fab1618-cac3-43be-be89-6e95bebfb058</guid>
-            <pubDate>Thu, 07 Apr 2016 05:32:23 GMT</pubDate>
+            <title><![CDATA[#svegliatitalia]]></title>
+            <description><![CDATA[<article><h1>#svegliatitalia</h1><p>Sono giorni importanti per molte persone in Italia. Il dibattito sulle unioni civili, che da tempo anima il Paese, entrerà in Parlamento con la discussione del disegno di legge al Senato tra pochi giorni. Oggi, invece, molte piazze italiane si coloreranno di manifestazioni a sostegno dei diritti della comunità LGBT, al grido di #Svegliatitalia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/618b5e6e07cb003b13807b07fcb1a4062246fc4f.png"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/svegliatitalia-claudio-raimondi?trk=mp-author-card</link>
+            <guid isPermaLink="false">d51a7440-a0e9-4446-9373-1d80777df490</guid>
+            <pubDate>Mon, 25 Apr 2016 18:27:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Le 7 regole d'oro di Claudio Raimondi, country manager eBay]]></title>
-            <description><![CDATA[<article><h1>Le 7 regole d'oro di Claudio Raimondi, country manager eBay</h1><p>Con una carriera brillante alle spalle e un ruolo sfidante con cui confrontarsi oggi, Claudio Raimondi è una delle promesse mantenute della nuova generazione di manager italiani. Fattosi le ossa in colossi come Vodafone e Pirelli, Raimondi è successivamente approdato in eBay, rivestendo il ruolo prima di Head of Buyer e poi di Country Manager .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/488afa80c128d812275ecdaece872f45fc7ee9ad.jpg"></article>]]></description>
-            <link>http://www.spiritoleader.it/le-7-regole-doro-di-claudio-raimondi-country-manager-ebay/</link>
-            <guid isPermaLink="false">9c8e534e-60bb-4915-85bd-c390030c7486</guid>
-            <pubDate>Fri, 04 Mar 2016 06:38:12 GMT</pubDate>
+            <title><![CDATA[L'Aquila continua a volare. Online.]]></title>
+            <description><![CDATA[<article><h1>L'Aquila continua a volare. Online.</h1><p>Nel lavoro quotidiano che, assieme al meraviglioso team, porto avanti in eBay abbiamo la fortuna di poterci confrontare con tante PMI italiane che sono alla ricerca di opportunità per far crescere il loro business a livello nazionale e globale, talvolta di riscatto da una realtà contingente che in questi anni è stata per loro particolarmente dura.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68044a9df65e0e92277cde79d8f5df29262ebdd5.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/laquila-continua-volare-anche-online-claudio-raimondi</link>
+            <guid isPermaLink="false">e683f7f7-2bf9-4d9d-8880-37ea714d7ca4</guid>
+            <pubDate>Thu, 07 Apr 2016 05:32:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[#eBayMODA - Intervista a Claudio Raimondi di eBay.it]]></title>
-            <description><![CDATA[<article><h1>#eBayMODA - Intervista a Claudio Raimondi di eBay.it</h1><p>Intervista a Claudio Raimondi - Head of Trading di eBay Italia, Francia e Spagna che ci parla della nuova iniziativa eBayMODA, volta a proporre un vero e proprio iInspired Shopping e presentata con un evento esclusivo a Milano. www.mediacomunicazione.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/881f00a8dd5bcd62cae12aea3ce519c12555be9c.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=fuPTDA0T6vU</link>
-            <guid isPermaLink="false">17e28661-7359-41a8-b38a-f87ee397a818</guid>
-            <pubDate>Fri, 04 Mar 2016 06:28:27 GMT</pubDate>
+            <title><![CDATA[#svegliatitalia]]></title>
+            <description><![CDATA[<article><h1>#svegliatitalia</h1><p>Sono giorni importanti per molte persone in Italia. Il dibattito sulle unioni civili, che da tempo anima il Paese, entrerà in Parlamento con la discussione del disegno di legge al Senato tra pochi giorni. Oggi, invece, molte piazze italiane si coloreranno di manifestazioni a sostegno dei diritti della comunità LGBT, al grido di #Svegliatitalia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6f515b68d16eec518851abb08ab4e9444a9c847.png"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/svegliatitalia-claudio-raimondi?trk=mp-author-card</link>
+            <guid isPermaLink="false">2d9f17d6-9630-4a57-b015-6fb4eff36d7d</guid>
+            <pubDate>Sun, 14 Feb 2016 21:32:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EBay Moda studia da magazine e community]]></title>
-            <description><![CDATA[<article><h1>EBay Moda studia da magazine e community</h1><p>EBay Moda studia da magazine e community from PambiancoTv on Vimeo. EBay diventa un po' magazine e un po' community. Non più solo un portale di e-commerce, infatti, ma anche una piattaforma su cui informarsi e lasciarsi ispirare.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ea3713f5152dd4a31c9f5b6a5694a180d112230.jpg"></article>]]></description>
-            <link>http://tv.pambianconews.com/ebay-moda-studia-da-magazine-e-community/</link>
-            <guid isPermaLink="false">ed519b74-78ca-4db8-aeb1-b5633745b8f2</guid>
-            <pubDate>Tue, 16 Feb 2016 20:23:26 GMT</pubDate>
+            <title><![CDATA[Perché il futuro dell'industria automobilistica è segnato e come hanno vinto Apple e Google]]></title>
+            <description><![CDATA[<article><h1>Perché il futuro dell'industria automobilistica è segnato e come hanno vinto Apple e Google</h1><p>Si sente parlare sempre più spesso di auto che si guidano da sole, senza conducente, e di come i giganti del tech mondiale ci stiano lavorando. Si legge di come Google ed Apple stiano lavorando in gran segreto ai veicoli del futuro che rivoluzioneranno - e faranno crollare - l'industria automobilistica per come la conosciamo oggi.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3941167c516364575bebbb8bbc9ab450cc0bb9dc.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/perch%C3%A9-il-futuro-dellindustria-automobilistica-%C3%A8-segnato-raimondi?trk=mp-author-card</link>
+            <guid isPermaLink="false">f5f5620e-baa4-4f4d-9757-d9144cfccb2a</guid>
+            <pubDate>Sun, 14 Feb 2016 20:05:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[22 ottobre 2015]]></title>
-            <description><![CDATA[<article><h1>22 ottobre 2015</h1><p>E-commerce: Claudio Raimondi, general manager italia di eBay</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21b36775abcd44e2fb3662a97b08e7f4c469a34b.jpg"></article>]]></description>
-            <link>http://www.reteconomy.it/programmi/bookmark/2015/ottobre/22-ottobre-2015/claudio-raimondi-e-commerce.aspx</link>
-            <guid isPermaLink="false">0f298d2e-c374-401b-b192-07b840a4f2a5</guid>
-            <pubDate>Tue, 16 Feb 2016 20:23:02 GMT</pubDate>
+            <title><![CDATA[Lei non sa chi sono io... ma Netflix sì]]></title>
+            <description><![CDATA[<article><h1>Lei non sa chi sono io... ma Netflix sì</h1><p>In questi giorni si parla tanto dello sbarco in Italia di Netflix, una libreria video che raccoglie migliaia di ore di film e serie TV fruibile tramite internet su qualsiasi device. Netflix è uno dei principali responsabili mondiali del binge-watching (l'abitudine di guardare ininterrottamente molte puntate di una serie TV), una rivoluzione che, per alcuni, potrebbe cambiare il panorama televisivo italiano.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5253027e34c365892ab94578a02e960c00b4a96b.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/i-segreti-della-tv-che-cambier%C3%A0-la-claudio-raimondi?trk=mp-author-card</link>
+            <guid isPermaLink="false">2de36c01-d198-4857-96b8-bc779e6b5513</guid>
+            <pubDate>Sun, 14 Feb 2016 20:05:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vendite online, manager Ebay Italia: "E-commerce risorsa per uscire dalla crisi" (video)]]></title>
-            <description><![CDATA[<article><h1>Vendite online, manager Ebay Italia: "E-commerce risorsa per uscire dalla crisi" (video)</h1><p>Le potenzialità dell'e-commerce anche nel nostro Paese e il caso Ebay: Claudio Raimondi, Country Manager Ebay Italia ne parla con Ida Baldi</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2130e4dcc0d373c21e270c831d51c34c34265167.png"></article>]]></description>
-            <link>http://www.rainews.it/dl/rainews/media/Claudio-Raimondi-Manager-Ebay-E-commerce-risorsa-per-uscire-dalla-crisi-07218d6a-8a0d-47f0-9cf7-643e7106c916.html</link>
-            <guid isPermaLink="false">f12be4b4-23b0-4afc-b66e-4a93d3055de1</guid>
-            <pubDate>Tue, 16 Feb 2016 20:23:02 GMT</pubDate>
+            <title><![CDATA[L'amorevole guerra fratricida tra Apple, Google e Samsung]]></title>
+            <description><![CDATA[<article><h1>L'amorevole guerra fratricida tra Apple, Google e Samsung</h1><p>Google è senza dubbio il più conosciuto ed utilizzato motore di ricerca al mondo, con forse la doverosa eccezione della popolosissima Cina e, più in generale, di parte del blocco asiatico.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc4e74f95a3f023b2b794149dcdd1c95236e7c56.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/lamorevole-guerra-fratricida-tra-apple-google-e-samsung-raimondi?trk=mp-author-card</link>
+            <guid isPermaLink="false">1e0e4f9e-2d86-40ee-aa46-b4da86283715</guid>
+            <pubDate>Sun, 14 Feb 2016 20:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tutti sanno dove sei]]></title>
+            <description><![CDATA[<article><h1>Tutti sanno dove sei</h1><p>Negli ultimi anni grazie all'avvento dei Social e degli smartphone è entrato nel nostro vocabolario un nuovo termine: la location, la nostra posizione, dove siamo. Di fatto consiste nell'utilizzare il GPS del nostro smartphone (o la rete cellulare o la geo-localizzazione di un indirizzo IP, o ancora altre tecnologie come beacon, wifi e bluetooth) per condividere su internet a quale latitudine, longitudine e altezza ci troviamo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8243707e2bd6adaa4e5bb834e60e3fee08d7941a.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/tutti-sanno-dove-sei-claudio-raimondi?trk=mp-author-card</link>
+            <guid isPermaLink="false">6797f2ae-009a-48e4-8c6d-288a0498beb5</guid>
+            <pubDate>Sun, 14 Feb 2016 20:05:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La rivoluzione Apple di cui nessuno parla]]></title>
+            <description><![CDATA[<article><h1>La rivoluzione Apple di cui nessuno parla</h1><p>Apple, ancora nelle mani di Steve Jobs, è riuscita a mettere in piedi una macchina mediatica senza precedenti. Il lancio dei nuovi prodotti si è trasformato da un evento per specialisti del settore ad un evento quasi consumer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45d9ffb442de8d86c3861d14f3669f8c86a1a090.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/la-rivoluzione-apple-di-cui-nessuno-parla-claudio-raimondi?trk=mp-author-card</link>
+            <guid isPermaLink="false">34a6f305-3fa1-48d6-84be-51d45154211e</guid>
+            <pubDate>Sun, 14 Feb 2016 20:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[L'ecommerce è Mobile, ma non qual piuma al vento]]></title>
+            <description><![CDATA[<article><h1>L'ecommerce è Mobile, ma non qual piuma al vento</h1><p>L'ecommerce è sempre più mobile in Italia. Lo vive ognuno di noi, tutti i giorni, quando prende in mano lo smartphone per controllare il prezzo di questo o quel prodotto, cercarne maggiori informazioni o comprarlo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e49251969fda9b511544352d93c38d65244a14b7.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/lecommerce-%C3%A8-mobile-ma-non-qual-piuma-al-vento-claudio-raimondi?trk=mp-reader-card</link>
+            <guid isPermaLink="false">00c94fbf-eae8-4d8a-a18e-d0b532ac3762</guid>
+            <pubDate>Sun, 14 Feb 2016 19:35:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
