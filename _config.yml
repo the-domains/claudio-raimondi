@@ -2,7 +2,7 @@ name: Claudio Raimond
 favicon: null
 layout_spectrum: 0.63885
 typography_spectrum: 0.82017
-title: Blog
+title: Claudio Raimondi
 collections:
   - index:
       path: /
