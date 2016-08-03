@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T22:40:02.759Z'
+datePublished: '2016-08-03T22:41:54.502Z'
 isBasedOnUrl: 'https://www.linkedin.com/in/craimondi'
 keywords:
   - claudio
@@ -15,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-03T22:40:02.183Z'
+dateModified: '2016-08-03T22:41:53.404Z'
 title: Claudio Raimondi | LinkedIn
 app_links: []
 publisher:
@@ -28,7 +28,7 @@ description: >-
   issues of corporate governance
 inLanguage: en
 sourcePath: _posts/2016-08-03-claudio-raimondi-or-linkedin.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
