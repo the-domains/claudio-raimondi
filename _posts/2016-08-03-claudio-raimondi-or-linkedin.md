@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T22:39:08.126Z'
+datePublished: '2016-08-03T22:40:02.759Z'
 isBasedOnUrl: 'https://www.linkedin.com/in/craimondi'
 keywords:
   - claudio
@@ -15,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-03T22:38:50.274Z'
+dateModified: '2016-08-03T22:40:02.183Z'
 title: Claudio Raimondi | LinkedIn
 app_links: []
 publisher:
@@ -27,8 +27,8 @@ description: >-
   Providing non-binding informed guidance and serving as a savvy ally in complex
   issues of corporate governance
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-08-03-claudio-raimondi-or-linkedin.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
