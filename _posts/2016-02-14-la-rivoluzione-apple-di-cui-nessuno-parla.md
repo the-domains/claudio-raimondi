@@ -1,24 +1,30 @@
 ---
+datePublished: '2016-08-03T22:55:49.413Z'
+sourcePath: _posts/2016-02-14-la-rivoluzione-apple-di-cui-nessuno-parla.md
+isBasedOnUrl: >-
+  https://www.linkedin.com/pulse/la-rivoluzione-apple-di-cui-nessuno-parla-claudio-raimondi?trk=mp-author-card
+keywords: []
+related: []
 author:
   - name: Claudio Raimondi
     url: 'https://www.linkedin.com/in/craimondi?trk=pulse-det-athr_prof-art_hdr'
     avatar: {}
-related: []
+dateModified: '2016-08-03T22:55:48.105Z'
+title: La rivoluzione Apple di cui nessuno parla
+app_links: []
 publisher:
   url: 'https://www.linkedin.com'
   name: LinkedIn Pulse
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
   domain: www.linkedin.com
-keywords: []
-description: 'Apple, ancora nelle mani di Steve Jobs, è riuscita a mettere in piedi una macchina mediatica senza precedenti. Il lancio dei nuovi prodotti si è trasformato da un evento per specialisti del settore ad un evento quasi consumer.'
+description: >-
+  Apple, ancora nelle mani di Steve Jobs, è riuscita a mettere in piedi una
+  macchina mediatica senza precedenti. Il lancio dei nuovi prodotti si è
+  trasformato da un evento per specialisti del settore ad un evento quasi
+  consumer.
 inLanguage: it
-app_links: []
-isBasedOnUrl: 'https://www.linkedin.com/pulse/la-rivoluzione-apple-di-cui-nessuno-parla-claudio-raimondi?trk=mp-author-card'
-title: La rivoluzione Apple di cui nessuno parla
-datePublished: '2016-02-14T20:04:48.786Z'
-dateModified: '2016-02-14T20:03:31.991Z'
-sourcePath: _posts/2016-02-14-la-rivoluzione-apple-di-cui-nessuno-parla.md
-published: true
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -26,4 +32,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>La rivoluzione Apple di cui nessuno parla</h1><p>Apple&amp;comma; ancora nelle mani di Steve Jobs&amp;comma; è riuscita a mettere in piedi una macchina mediatica senza precedenti&amp;period; Il lancio dei nuovi prodotti si è trasformato da un evento per specialisti del settore ad un evento quasi consumer&amp;period;</p><img src="https://media.licdn.com/mpr/mpr/p/1/005/0aa/296/0be52e9.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b331e3d1621a28d2bdd62cf74fa86da556e174c5.jpg" /><h1>La rivoluzione Apple di cui nessuno parla</h1><p>Apple, ancora nelle mani di Steve Jobs, è riuscita a mettere in piedi una macchina mediatica senza precedenti. Il lancio dei nuovi prodotti si è trasformato da un evento per specialisti del settore ad un evento quasi consumer.</p></article>
