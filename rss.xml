@@ -4,15 +4,8 @@
         <description><![CDATA[Blog]]></description>
         <link>http://raimondi.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 22:55:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 22:55:45 GMT</lastBuildDate>
         <atom:link href="http://raimondi.digital/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[L'Aquila continua a volare. Online.]]></title>
-            <description><![CDATA[<article><h1>L'Aquila continua a volare. Online.</h1><p>Nel lavoro quotidiano che, assieme al meraviglioso team, porto avanti in eBay abbiamo la fortuna di poterci confrontare con tante PMI italiane che sono alla ricerca di opportunità per far crescere il loro business a livello nazionale e globale, talvolta di riscatto da una realtà contingente che in questi anni è stata per loro particolarmente dura.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68044a9df65e0e92277cde79d8f5df29262ebdd5.jpg"></article>]]></description>
-            <link>https://www.linkedin.com/pulse/laquila-continua-volare-anche-online-claudio-raimondi</link>
-            <guid isPermaLink="false">e683f7f7-2bf9-4d9d-8880-37ea714d7ca4</guid>
-            <pubDate>Wed, 03 Aug 2016 22:55:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[L'ecommerce è Mobile, ma non qual piuma al vento]]></title>
             <description><![CDATA[<article><h1>L'ecommerce è Mobile, ma non qual piuma al vento</h1><p>L'ecommerce è sempre più mobile in Italia. Lo vive ognuno di noi, tutti i giorni, quando prende in mano lo smartphone per controllare il prezzo di questo o quel prodotto, cercarne maggiori informazioni o comprarlo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a011e18d10295856958128074b48de218cbb4615.jpg"></article>]]></description>
@@ -61,6 +54,13 @@
             <link>https://www.linkedin.com/pulse/svegliatitalia-claudio-raimondi?trk=mp-author-card</link>
             <guid isPermaLink="false">2d9f17d6-9630-4a57-b015-6fb4eff36d7d</guid>
             <pubDate>Wed, 03 Aug 2016 22:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[L'Aquila continua a volare. Online.]]></title>
+            <description><![CDATA[<article><h1>L'Aquila continua a volare. Online.</h1><p>Nel lavoro quotidiano che, assieme al meraviglioso team, porto avanti in eBay abbiamo la fortuna di poterci confrontare con tante PMI italiane che sono alla ricerca di opportunità per far crescere il loro business a livello nazionale e globale, talvolta di riscatto da una realtà contingente che in questi anni è stata per loro particolarmente dura.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68044a9df65e0e92277cde79d8f5df29262ebdd5.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/laquila-continua-volare-anche-online-claudio-raimondi</link>
+            <guid isPermaLink="false">e683f7f7-2bf9-4d9d-8880-37ea714d7ca4</guid>
+            <pubDate>Thu, 07 Apr 2016 05:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
