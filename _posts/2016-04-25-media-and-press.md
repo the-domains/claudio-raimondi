@@ -5,14 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T17:38:31.536Z'
-dateModified: '2016-04-25T16:55:40.213Z'
-title: 'PRESS & MEDIA'
+datePublished: '2016-08-03T15:59:07.453Z'
+dateModified: '2016-04-25T17:38:40.422Z'
+title: PRESS & MEDIA
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-25-media-and-press.md
-published: true
 authors: []
 publisher:
   name: null
