@@ -1,20 +1,20 @@
-typography_spectrum: 0.82017
+typography_spectrum: 0.40211535687558353
 color:
   brandColors:
-    - '#f9cb40'
-    - '#ff715b'
-    - '#4c5b5c'
-    - '#bced09'
-    - '#8fbc4c'
-  brandStrength: 0.0625
-  lightness: 0.5625
-  saturation: 0.5625
-  rhythmicContrast: 0
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+  brandStrength: 0.2577422200702131
+  lightness: 0.09443324571475387
+  saturation: 0.4885132201015949
+  rhythmicContrast: 0.8636579839512706
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.63885
+layout_spectrum: 0.46042799740098417
 analytics:
   google: UA-5050578-6
   facebook: null
@@ -37,6 +37,18 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Claudio Raimondi
+title: Blog
 description: TEST
 purpose: []
+author:
+  name: Claudio Raimondi
+navigation:
+  - name: LinkedIn
+    url: 'http://linkedin.com/in/craimondi'
+    type: external
+  - name: Twitter
+    url: 'http://www.twitter.com/ClaudioRaimondi'
+    type: external
+  - name: BIOGRAFIA
+    id: 9a310db8-471e-475d-8ab1-52b7af6069d1
+    type: content
