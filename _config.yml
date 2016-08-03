@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: LinkedIn
+    url: 'http://linkedin.com/in/craimondi'
+    type: external
 favicon: null
 collections:
   - index:
