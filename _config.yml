@@ -19,23 +19,11 @@ analytics:
   google: UA-5050578-6
   facebook: null
   twitter: null
-author:
-  name: Claudio Raimondi
 name: Claudio Raimondi
 cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: LinkedIn
-    url: 'http://linkedin.com/in/craimondi'
-    type: external
-  - name: Twitter
-    url: 'http://www.twitter.com/ClaudioRaimondi'
-    type: external
-  - name: BIOGRAFIA
-    id: 9a310db8-471e-475d-8ab1-52b7af6069d1
-    type: content
 favicon: null
 collections:
   - index:
@@ -49,6 +37,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Blog
+title: Claudio Raimondi
 description: TEST
 purpose: []
