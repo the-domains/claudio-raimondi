@@ -19,15 +19,13 @@ analytics:
   google: UA-5050578-6
   facebook: null
   twitter: null
+author:
+  name: Claudio Raimondi
 name: Claudio Raimondi
 cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: BIO
-    id: 9a310db8-471e-475d-8ab1-52b7af6069d1
-    type: content
 favicon: null
 collections:
   - index:
