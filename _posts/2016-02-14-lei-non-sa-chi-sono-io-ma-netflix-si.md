@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T22:54:53.241Z'
+datePublished: '2016-08-04T05:29:36.236Z'
 sourcePath: _posts/2016-02-14-lei-non-sa-chi-sono-io-ma-netflix-si.md
 isBasedOnUrl: >-
   https://www.linkedin.com/pulse/i-segreti-della-tv-che-cambier%C3%A0-la-claudio-raimondi?trk=mp-author-card
@@ -9,7 +9,8 @@ author:
   - name: Claudio Raimondi
     url: 'https://www.linkedin.com/in/craimondi?trk=pulse-det-athr_prof-art_hdr'
     avatar: {}
-dateModified: '2016-08-03T22:54:52.674Z'
+via: {}
+dateModified: '2016-08-04T05:29:35.552Z'
 title: Lei non sa chi sono io... ma Netflix sì
 app_links: []
 publisher:
@@ -25,7 +26,6 @@ description: >-
   ininterrottamente molte puntate di una serie TV), una rivoluzione che, per
   alcuni, potrebbe cambiare il panorama televisivo italiano.
 inLanguage: it
-via: {}
 starred: false
 inFeed: true
 hasPage: false
