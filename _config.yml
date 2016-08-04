@@ -34,6 +34,9 @@ navigation:
   - name: Twitter
     url: 'http://www.twitter.com/ClaudioRaimondi'
     type: external
+  - name: ITALIANO
+    url: 'http://it.ClaudioRaimondi.com'
+    type: external
 favicon: null
 collections:
   - index:
