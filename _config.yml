@@ -21,7 +21,7 @@ analytics:
   twitter: null
 author:
   name: Claudio Raimondi
-name: Claudio Raimondi
+name: 'Claudio Raimondi, General Manager at eBay in Italy'
 cta:
   domain: null
   bucket: null
@@ -46,6 +46,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Claudio Raimondi - General Manager at eBay in Italy
+title: Claudio Raimondi
 description: HUB
 purpose: []
