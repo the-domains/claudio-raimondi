@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T22:54:06.209Z'
+datePublished: '2016-08-04T05:29:59.507Z'
 sourcePath: _posts/2016-02-14-svegliatitalia.md
 inFeed: true
 isBasedOnUrl: >-
@@ -13,7 +13,7 @@ author:
     url: 'https://www.linkedin.com/in/craimondi?trk=pulse-det-athr_prof-art_hdr'
     avatar: {}
 via: {}
-dateModified: '2016-08-03T22:54:05.604Z'
+dateModified: '2016-08-04T05:29:58.927Z'
 title: '#svegliatitalia'
 app_links: []
 publisher:
