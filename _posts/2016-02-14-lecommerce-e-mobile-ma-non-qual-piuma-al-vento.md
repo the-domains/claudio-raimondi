@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T22:55:29.107Z'
+datePublished: '2016-08-04T05:28:51.481Z'
 sourcePath: _posts/2016-02-14-lecommerce-e-mobile-ma-non-qual-piuma-al-vento.md
 isBasedOnUrl: >-
   https://www.linkedin.com/pulse/lecommerce-%C3%A8-mobile-ma-non-qual-piuma-al-vento-claudio-raimondi?trk=mp-reader-card
@@ -9,7 +9,8 @@ author:
   - name: Claudio Raimondi
     url: 'https://www.linkedin.com/in/craimondi?trk=pulse-det-athr_prof-art_hdr'
     avatar: {}
-dateModified: '2016-08-03T22:55:28.299Z'
+via: {}
+dateModified: '2016-08-04T05:28:50.817Z'
 title: 'L''ecommerce è Mobile, ma non qual piuma al vento'
 app_links: []
 publisher:
@@ -22,7 +23,6 @@ description: >-
   giorni, quando prende in mano lo smartphone per controllare il prezzo di
   questo o quel prodotto, cercarne maggiori informazioni o comprarlo.
 inLanguage: it
-via: {}
 starred: false
 inFeed: true
 hasPage: false
