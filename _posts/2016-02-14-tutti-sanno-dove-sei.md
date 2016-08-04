@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T22:54:33.530Z'
+datePublished: '2016-08-04T05:29:19.822Z'
 sourcePath: _posts/2016-02-14-tutti-sanno-dove-sei.md
 isBasedOnUrl: >-
   https://www.linkedin.com/pulse/tutti-sanno-dove-sei-claudio-raimondi?trk=mp-author-card
@@ -9,7 +9,8 @@ author:
   - name: Claudio Raimondi
     url: 'https://www.linkedin.com/in/craimondi?trk=pulse-det-athr_prof-art_hdr'
     avatar: {}
-dateModified: '2016-08-03T22:54:32.842Z'
+via: {}
+dateModified: '2016-08-04T05:29:19.326Z'
 title: Tutti sanno dove sei
 app_links: []
 publisher:
@@ -25,7 +26,6 @@ description: >-
   tecnologie come beacon, wifi e bluetooth) per condividere su internet a quale
   latitudine, longitudine e altezza ci troviamo.
 inLanguage: it
-via: {}
 starred: false
 inFeed: true
 hasPage: false
