@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T22:55:49.413Z'
+datePublished: '2016-08-04T05:29:03.954Z'
 sourcePath: _posts/2016-02-14-la-rivoluzione-apple-di-cui-nessuno-parla.md
 isBasedOnUrl: >-
   https://www.linkedin.com/pulse/la-rivoluzione-apple-di-cui-nessuno-parla-claudio-raimondi?trk=mp-author-card
@@ -9,7 +9,8 @@ author:
   - name: Claudio Raimondi
     url: 'https://www.linkedin.com/in/craimondi?trk=pulse-det-athr_prof-art_hdr'
     avatar: {}
-dateModified: '2016-08-03T22:55:48.105Z'
+via: {}
+dateModified: '2016-08-04T05:29:03.505Z'
 title: La rivoluzione Apple di cui nessuno parla
 app_links: []
 publisher:
@@ -23,7 +24,6 @@ description: >-
   trasformato da un evento per specialisti del settore ad un evento quasi
   consumer.
 inLanguage: it
-via: {}
 starred: false
 inFeed: true
 hasPage: false
