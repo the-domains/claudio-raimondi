@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T22:55:03.675Z'
+datePublished: '2016-08-04T05:29:47.827Z'
 sourcePath: >-
   _posts/2016-02-14-perche-il-futuro-dellindustria-automobilistica-e-segnato-e.md
 inFeed: true
@@ -13,7 +13,8 @@ author:
   - name: Claudio Raimondi
     url: 'https://www.linkedin.com/in/craimondi?trk=pulse-det-athr_prof-art_hdr'
     avatar: {}
-dateModified: '2016-08-03T22:55:02.853Z'
+via: {}
+dateModified: '2016-08-04T05:29:47.428Z'
 title: >-
   Perché il futuro dell'industria automobilistica è segnato e come hanno vinto
   Apple e Google
@@ -31,7 +32,6 @@ description: >-
   per come la conosciamo oggi.
 inLanguage: it
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
