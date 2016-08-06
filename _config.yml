@@ -1,6 +1,20 @@
-typography_spectrum: 0.271229604491964
+title: CR
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: HUB
 color:
-  saturation: 0.32940182089805603
+  saturation: 0.329401820898056
   brandStrength: 0.6348021302837878
   rhythmicContrast: 0.08330193627625704
   brandColors:
@@ -10,25 +24,6 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
   lightness: 0.5631286830175668
-opengraph:
-  image: null
-  type: null
-  appId: '288651771490588'
-layout_spectrum: 0.7168219231534749
-analytics:
-  twitter: >-
-    !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
-    a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
-    t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
-    s.parentNode.insertBefore(t,s))}(window,document,'script'); // Insert
-    Twitter Pixel ID and Standard Event data below twq('init','nvaic');
-    twq('track','PageView');
-  google: UA-5050578-6
-  facebook: '260942680957678'
-author:
-  name: Claudio Raimondi
-  url: www.ClaudioRaimondi.com
-name: 'Claudio Raimondi, General Manager at eBay in Italy'
 cta:
   bucket: null
   version: null
@@ -41,18 +36,23 @@ navigation:
     url: 'http://www.twitter.com/ClaudioRaimondi'
     type: external
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: CR
-description: HUB
-purpose: []
+name: 'Claudio Raimondi, General Manager at eBay in Italy'
+author:
+  name: Claudio Raimondi
+  url: www.ClaudioRaimondi.com
+opengraph:
+  image: null
+  type: null
+  appId: '288651771490588'
+analytics:
+  twitter: >-
+    !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+    a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+    t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+    s.parentNode.insertBefore(t,s))}(window,document,'script'); // Insert
+    Twitter Pixel ID and Standard Event data below twq('init','nvaic');
+    twq('track','PageView');
+  google: UA-5050578-6
+  facebook: '260942680957678'
+typography_spectrum: 0.4570354
+layout_spectrum: 0.7168219231534749
