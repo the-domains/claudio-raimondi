@@ -5,12 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ciaos
-datePublished: '2016-08-06T18:34:25.760Z'
-dateModified: '2016-08-06T18:34:09.065Z'
+datePublished: '2016-08-06T18:34:05.823Z'
+dateModified: '2016-08-06T18:33:53.892Z'
 title: PROVA DI ESEMPIO
 author: []
 via: {}
-sourcePath: _posts/2016-08-06-prova-di-esempio.md
 authors: []
 publisher:
   name: null
@@ -18,6 +17,7 @@ publisher:
   url: null
   favicon: null
 starred: false
+sourcePath: _posts/2016-08-06-prova-di-esempio.md
 url: prova-di-esempio/index.html
 _type: Article
 
