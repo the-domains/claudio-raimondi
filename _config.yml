@@ -9,7 +9,7 @@ analytics:
     twq('track','PageView');
   google: UA-5050578-6
   facebook: '260942680957678'
-typography_spectrum: 0.3271779399365187
+typography_spectrum: 0.30362391960807145
 opengraph:
   image: null
   type: null
@@ -29,20 +29,20 @@ collections:
 author:
   name: Claudio Raimondi
   url: www.ClaudioRaimondi.com
-layout_spectrum: 0.6651331465691328
+layout_spectrum: 0.3463849008549005
 title: Claudio Raimondi
 purpose: []
 color:
-  saturation: 0.4495167
-  brandStrength: 0.9444367690011859
-  rhythmicContrast: 0.9022503
+  saturation: 0.40668370737694204
+  brandStrength: 0.5094936999958009
+  rhythmicContrast: 0.450174558442086
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  lightness: 0.8501611
+  lightness: 0.21599466376937926
 cta:
   bucket: null
   version: null
