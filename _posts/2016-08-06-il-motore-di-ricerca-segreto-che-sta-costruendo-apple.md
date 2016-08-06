@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-06T18:47:01.201Z'
+datePublished: '2016-08-06T18:47:51.613Z'
 sourcePath: _posts/2016-08-06-il-motore-di-ricerca-segreto-che-sta-costruendo-apple.md
 inFeed: true
 authors: []
@@ -8,10 +8,10 @@ keywords: []
 author:
   - name: Apple Keynote
 via: {}
-dateModified: '2016-08-06T18:47:00.237Z'
+dateModified: '2016-08-06T18:47:50.272Z'
 title: Il motore di ricerca “segreto” che sta costruendo Apple
 publisher: {}
-description: 'Il rapporto tra il più grande motore di ricerca al mondo, Google, e '
+description: 'Il rapporto tra il più grande motore di ricerca al mondo, Google, e'
 inLanguage: null
 inNav: false
 starred: false
@@ -23,6 +23,6 @@ _type: Article
 
 # Il motore di ricerca "segreto" che sta costruendo Apple
 
-Il rapporto tra il più grande motore di ricerca al mondo, Google, e 
+Il rapporto tra il più grande motore di ricerca al mondo, Google, e
 
 ss
