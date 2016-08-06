@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T17:05:13.020Z'
+datePublished: '2016-08-06T10:16:29.260Z'
 sourcePath: _posts/2016-04-07-laquila-continua-a-volare-online.md
 isBasedOnUrl: >-
   https://www.linkedin.com/pulse/laquila-continua-volare-anche-online-claudio-raimondi
@@ -10,7 +10,7 @@ author:
     url: 'https://www.linkedin.com/in/craimondi?trk=pulse-det-athr_prof-art_hdr'
     avatar: {}
 via: {}
-dateModified: '2016-08-04T17:05:12.208Z'
+dateModified: '2016-08-06T10:16:28.762Z'
 title: L'Aquila continua a volare. Online
 app_links: []
 publisher:
