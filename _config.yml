@@ -1,52 +1,4 @@
-title: Claudio Raimondi
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 description: HUB
-color:
-  saturation: 0.4495167
-  brandStrength: 0.9444367690011859
-  lightness: 0.8501611
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0.9022503
-cta:
-  bucket: null
-  version: null
-  domain: null
-navigation:
-  - name: LinkedIn
-    url: 'http://linkedin.com/in/craimondi'
-    type: external
-  - name: Twitter
-    url: 'http://www.twitter.com/ClaudioRaimondi'
-    type: external
-  - name: ABOUT ME
-    id: ee174928-3e58-4027-a3d8-6660b54d22b9
-    type: content
-favicon: null
-name: 'Claudio Raimondi, General Manager at eBay in Italy'
-author:
-  name: Claudio Raimondi
-  url: www.ClaudioRaimondi.com
-opengraph:
-  image: null
-  type: null
-  appId: '288651771490588'
 analytics:
   twitter: >-
     !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
@@ -58,4 +10,52 @@ analytics:
   google: UA-5050578-6
   facebook: '260942680957678'
 typography_spectrum: 0.3271779399365187
+opengraph:
+  image: null
+  type: null
+  appId: '288651771490588'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+author:
+  name: Claudio Raimondi
+  url: www.ClaudioRaimondi.com
 layout_spectrum: 0.6651331465691328
+title: Claudio Raimondi
+purpose: []
+color:
+  saturation: 0.4495167
+  brandStrength: 0.9444367690011859
+  rhythmicContrast: 0.9022503
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.8501611
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: 'Claudio Raimondi, General Manager at eBay in Italy'
+navigation:
+  - name: LinkedIn
+    url: 'http://linkedin.com/in/craimondi'
+    type: external
+  - name: Twitter
+    url: 'http://www.twitter.com/ClaudioRaimondi'
+    type: external
+  - name: ABOUT ME
+    id: ee174928-3e58-4027-a3d8-6660b54d22b9
+    type: content
