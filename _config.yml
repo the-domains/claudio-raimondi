@@ -1,38 +1,33 @@
-typography_spectrum: 0.32717793993651867
+title: Claudio Raimondi
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: HUB
 color:
+  saturation: 0.4495167
+  brandStrength: 0.9444367690011859
+  lightness: 0.8501611
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  brandStrength: 0.9444367690011859
-  lightness: 0.1176471917424351
-  saturation: 0.40394093515351415
-  rhythmicContrast: 0.9022502826992422
-opengraph:
-  image: null
-  type: null
-  appId: '288651771490588'
-layout_spectrum: 0.6651331465691328
-analytics:
-  google: UA-5050578-6
-  facebook: '260942680957678'
-  twitter: >-
-    !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
-    a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
-    t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
-    s.parentNode.insertBefore(t,s))}(window,document,'script'); // Insert
-    Twitter Pixel ID and Standard Event data below twq('init','nvaic');
-    twq('track','PageView');
-author:
-  name: Claudio Raimondi
-  url: www.ClaudioRaimondi.com
-name: 'Claudio Raimondi, General Manager at eBay in Italy'
+  rhythmicContrast: 0.9022503
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 navigation:
   - name: LinkedIn
     url: 'http://linkedin.com/in/craimondi'
@@ -44,18 +39,23 @@ navigation:
     id: ee174928-3e58-4027-a3d8-6660b54d22b9
     type: content
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: Claudio Raimondi
-description: HUB
-purpose: []
+name: 'Claudio Raimondi, General Manager at eBay in Italy'
+author:
+  name: Claudio Raimondi
+  url: www.ClaudioRaimondi.com
+opengraph:
+  image: null
+  type: null
+  appId: '288651771490588'
+analytics:
+  twitter: >-
+    !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+    a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+    t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+    s.parentNode.insertBefore(t,s))}(window,document,'script'); // Insert
+    Twitter Pixel ID and Standard Event data below twq('init','nvaic');
+    twq('track','PageView');
+  google: UA-5050578-6
+  facebook: '260942680957678'
+typography_spectrum: 0.3271779399365187
+layout_spectrum: 0.6651331465691328
