@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-06T18:23:14.724Z'
+datePublished: '2016-08-06T18:24:50.811Z'
 sourcePath: _posts/2016-08-06-il-motore-di-ricerca-segreto-che-sta-costruendo-apple.md
 author: []
 via: {}
-dateModified: '2016-08-06T18:23:14.060Z'
+dateModified: '2016-08-06T18:24:50.247Z'
 title: Il motore di ricerca “segreto” che sta costruendo Apple
 publisher: {}
-description: Test di prova
+description: Test di prova ca
 starred: false
 inFeed: true
 hasPage: false
@@ -14,7 +14,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![Test di prova](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3334d4a0-37a4-471d-b730-cce9790fb662.jpg)
+![Test di prova ca](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3334d4a0-37a4-471d-b730-cce9790fb662.jpg)
 
 # Il motore di ricerca "segreto" che sta costruendo Apple
 
