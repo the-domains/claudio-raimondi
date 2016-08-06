@@ -38,11 +38,11 @@ analytics:
     twq('track','PageView');
   google: UA-5050578-6
   facebook: '260942680957678'
-name: 'Claudio Raimondi, General Manager at eBay in Italy'
+favicon: null
 author:
   name: Claudio Raimondi
   url: www.ClaudioRaimondi.com
-favicon: null
+name: 'Claudio Raimondi, General Manager at eBay in Italy'
 opengraph:
   image: null
   type: null
@@ -55,4 +55,4 @@ navigation:
     url: 'http://www.twitter.com/ClaudioRaimondi'
     type: external
 typography_spectrum: 0.4570354
-layout_spectrum: 0.2765843
+layout_spectrum: 0.4677766
