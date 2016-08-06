@@ -14,16 +14,16 @@ collections:
       number: 10
 description: HUB
 color:
-  saturation: 0.329401820898056
+  saturation: 0.6106337
   brandStrength: 0.6348021302837878
-  rhythmicContrast: 0.08330193627625704
+  lightness: 0.7116004
   brandColors:
     - '#000000'
     - '#404040'
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-  lightness: 0.5631286830175668
+  rhythmicContrast: 0.358217
 cta:
   bucket: null
   version: null
@@ -36,10 +36,10 @@ navigation:
     url: 'http://www.twitter.com/ClaudioRaimondi'
     type: external
 favicon: null
-name: 'Claudio Raimondi, General Manager at eBay in Italy'
 author:
   name: Claudio Raimondi
   url: www.ClaudioRaimondi.com
+name: 'Claudio Raimondi, General Manager at eBay in Italy'
 opengraph:
   image: null
   type: null
