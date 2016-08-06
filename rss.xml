@@ -4,14 +4,21 @@
         <description><![CDATA[Claudio Raimondi]]></description>
         <link>http://claudioraimondi.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 18:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 18:34:36 GMT</lastBuildDate>
         <atom:link href="http://claudioraimondi.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PROVA DI ESEMPIO]]></title>
             <description><![CDATA[<article><h1>PROVA DI ESEMPIO</h1><p>ciaos</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dcdfcab-d04a-462d-8935-c54fc7beb02e.jpg"></article>]]></description>
             <link>http://claudioraimondi.com/prova-di-esempio/index.html</link>
             <guid isPermaLink="false">ab745eb9-b574-4172-9d8d-0827dfd83eb8</guid>
-            <pubDate>Sat, 06 Aug 2016 18:34:05 GMT</pubDate>
+            <pubDate>Sat, 06 Aug 2016 18:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Di cui nessuno parla]]></title>
+            <description><![CDATA[<article><h1>Di cui nessuno parla</h1><p>sdadsa</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab6deaed-5462-4359-a006-d8004ce52186.png"></article>]]></description>
+            <link>http://claudioraimondi.com/di-cui-nessuno-parla/index.html</link>
+            <guid isPermaLink="false">a555121b-ce25-41f1-9b6c-4509ec708ed8</guid>
+            <pubDate>Sat, 06 Aug 2016 18:32:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[L'Aquila continua a volare. Online]]></title>
