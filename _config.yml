@@ -40,6 +40,9 @@ navigation:
   - name: Twitter
     url: 'http://www.twitter.com/ClaudioRaimondi'
     type: external
+  - name: ABOUT ME
+    id: ee174928-3e58-4027-a3d8-6660b54d22b9
+    type: content
 favicon: null
 collections:
   - index:
