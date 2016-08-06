@@ -4,14 +4,14 @@
         <description><![CDATA[Claudio Raimondi]]></description>
         <link>http://claudioraimondi.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 18:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 18:35:13 GMT</lastBuildDate>
         <atom:link href="http://claudioraimondi.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Di cui nessuno parla]]></title>
-            <description><![CDATA[<article><h1>Di cui nessuno parla</h1><p>sdadsa</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab6deaed-5462-4359-a006-d8004ce52186.png"></article>]]></description>
-            <link>http://claudioraimondi.com/di-cui-nessuno-parla/index.html</link>
-            <guid isPermaLink="false">a555121b-ce25-41f1-9b6c-4509ec708ed8</guid>
-            <pubDate>Sat, 06 Aug 2016 18:32:44 GMT</pubDate>
+            <title><![CDATA[PROVA DI ESEMPIO]]></title>
+            <description><![CDATA[<article><h1>PROVA DI ESEMPIO</h1><p>ciaos</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dcdfcab-d04a-462d-8935-c54fc7beb02e.jpg"></article>]]></description>
+            <link>http://claudioraimondi.com/prova-di-esempio/index.html</link>
+            <guid isPermaLink="false">ab745eb9-b574-4172-9d8d-0827dfd83eb8</guid>
+            <pubDate>Sat, 06 Aug 2016 18:34:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[L'Aquila continua a volare. Online]]></title>
@@ -68,13 +68,6 @@
             <link>https://www.linkedin.com/pulse/lecommerce-%C3%A8-mobile-ma-non-qual-piuma-al-vento-claudio-raimondi?trk=mp-reader-card</link>
             <guid isPermaLink="false">00c94fbf-eae8-4d8a-a18e-d0b532ac3762</guid>
             <pubDate>Thu, 04 Aug 2016 05:28:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PMI e ecommerce: da opportunità a rischio]]></title>
-            <description><![CDATA[<article><h1>PMI e ecommerce: da opportunità a rischio</h1><p>Non è un mistero che le vendite al dettaglio in Italia siano ferme, se non in lieve contrazione. L'ultimo dato ISTAT disponibile, settembre, mostra una contrazione di 0.1% rispetto ad agosto e di 0.5% verso l'anno precedente.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc1a8fee7a3ff37d7880e24d78d60d19b68afdb8.jpg"></article>]]></description>
-            <link>https://www.linkedin.com/pulse/pmi-e-ecommerce-da-opportunit%C3%A0-rischio-claudio-raimondi?trk=mp-reader-card</link>
-            <guid isPermaLink="false">b0a0e3b2-5e94-483a-9f1b-438cfadd90e8</guid>
-            <pubDate>Thu, 04 Aug 2016 05:28:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
