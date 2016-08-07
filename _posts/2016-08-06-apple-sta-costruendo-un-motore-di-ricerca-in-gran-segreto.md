@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T07:00:42.299Z'
+datePublished: '2016-08-07T07:07:11.390Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T07:00:41.208Z'
+dateModified: '2016-08-07T07:07:10.233Z'
 title: Apple sta costruendo un motore di ricerca in "gran segreto"
 publisher: {}
 description: >-
@@ -33,13 +33,15 @@ Da sempre, o quasi, Apple e Google sono al contempo partner e competitor. Il lor
 
 Apple _ospita,_ dagli albori dell'iPhone, Google come motore di ricerca predefinito. Lo ospita per mutua convenienza, quella di Apple di offrire ai propri consumatori un motore di ricerca che è un _standard del web_ e quella di Google che si assicura che gli utenti iPhone non provino motori di ricerca diversi. È talmente convenite anche per Google da pagare ad Apple [1 miliardo all'anno][0] per rimanerci.
 
-Ma il pungiglione dello scorpione - che interpretano a turno - è già pronto a sferrare l'attacco. Google lancia Android entrando a piè pari nel campo della mela morsicata, Apple dichiara guerra, _[termonucleare][1]_per usare le parole di Steve Jobs, al gigante della ricerca. Il tutto mentre collaborano e si aiutano l'un l'altra ad attraversare il fiume. Seppure né Apple né Google sembrano poter fare la fine degli sventurati animali, è nella loro natura essere rivali. In fondo i loro prodotti, a ben guardare, soddisfano sempre più bisogni simili dei consumatori. 
+Ma il pungiglione dello scorpione - che interpretano a turno - è già pronto a sferrare l'attacco. Google lancia Android entrando a piè pari nel campo della mela morsicata, Apple dichiara guerra, _[termonucleare][1]_per usare le parole di Steve Jobs, al gigante della ricerca. Il tutto mentre collaborano e si aiutano l'un l'altra ad attraversare il fiume. Seppure né Apple né Google sembrano poter fare la fine degli sventurati animali, è nella loro natura essere rivali. In fondo i loro prodotti, a ben guardare, soddisfano sempre più bisogni simili dei consumatori.
+
+Apple ha iniziato la sua guerra termonucleare lanciando Apple Maps, a dispetto di Google Maps, qualche anno fa. Le ha chiamate con lo stesso nome nella speranza che i propri utenti, fedeli a Google Maps, si sbagliassero ed iniziassero ad utilizzare quelle Apple. Gli utenti iPhone che utilizzano i servizi Google sono clienti Apple o clienti Google? Sembra una domanda filosofica ma nasconde dietro molte strategie di loyalty del consumatore. Il potere di chi _garantisce l'accesso_ è che può toglierlo.
 
 ## Prima maps, ora search?
 
-Apple ha iniziato la sua guerra termonucleare lanciando Apple Maps, a dispetto di Google Maps, qualche anno fa. Le ha chiamate con lo stesso nome nella speranza che i propri utenti, fedeli a Google Maps, si sbagliassero ed iniziassero ad utilizzare quelle Apple. Gli utenti iPhone che utilizzano i servizi Google sono clienti Apple o clienti Google? Sembra una domanda filosofica ma nasconde dietro molte strategie di loyalty del consumatore. Il potere di chi _garantisce l'accesso_ è che può toglierlo. 
+Apple da qualche tempo ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19bbd1d2-7b61-460e-ab5f-8e9823cbfff0.png)
 
-FINALE 
+FINALE
 
 Apple sta costruendo un motore di ricerca. E come il migliore dei prestigiatori, lo sta facendo sotto ai nostri occhi.
 
