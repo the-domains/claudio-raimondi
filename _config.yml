@@ -34,6 +34,9 @@ cta:
   version: null
   domain: null
 navigation:
+  - name: BLOG
+    url: 'http://www.ClaudioRaimondi.com'
+    type: external
   - name: LinkedIn
     url: 'http://linkedin.com/in/craimondi'
     type: external
@@ -43,9 +46,6 @@ navigation:
   - name: Claudio Raimondi
     id: 9a310db8-471e-475d-8ab1-52b7af6069d1
     type: content
-  - name: BLOG
-    url: 'http://www.ClaudioRaimondi.com'
-    type: external
 favicon: null
 collections:
   - index:
