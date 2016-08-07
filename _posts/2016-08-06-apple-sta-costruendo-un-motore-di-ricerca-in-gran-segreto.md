@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T16:29:16.064Z'
+datePublished: '2016-08-07T16:29:35.118Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T16:29:15.548Z'
+dateModified: '2016-08-07T16:29:34.135Z'
 title: Apple sta costruendo un motore di ricerca in "gran segreto"
 publisher: {}
 description: >-
@@ -45,7 +45,7 @@ Nel 2004 Apple ha lanciato Spotlight, il modo per cercare i file sul proprio Mac
 Siri, oltre che ad essere il modo per accedere ad informazioni presenti sull'iPhone, come ad esempio chiamare un dato contatto in rubrica, è anche nato come interfaccia a linguaggio naturale che potesse rispondere a bisogni ben definiti: recensioni e prenotazioni di ristoranti, informazioni sui concerti, recensioni e programmazione cinematografica fino a risposte più fattive come, ad esempio, conoscere la capitale del Kongo o il significato della vita - "42" citando il film _Guida Galattica per Autostoppisti_. Successivamente è venuta l'integrazione con WikiPedia, poi Apple Maps e tanti altri.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19bbd1d2-7b61-460e-ab5f-8e9823cbfff0.png)
 
-Oggi Siri è in grado di rispondere a molte domande di ogni giorno, dal meteo al risultato di una data partita. Ed è solo l'inizio. Con il rilascio di iOS10, a Settembre, Siri diventerà ancora più "intelligente", passando da essere un sistema chiuso ad uno aperto: se fino ad oggi Siri si integrava solo con alcune decine di servizi, con iOS10 Apple apre Siri a tutte le app, rendendolo molto più efficace e utile per i consumatori ma riducendo anche, sempre più, la necessità di cercare altrove, su Google, informazioni che l'assistente virtuale potrà trovare per noi in tutta comodità. 
+Oggi Siri è in grado di rispondere a molte domande di ogni giorno, dal meteo al risultato di una data partita. Ed è solo l'inizio. Con il rilascio di iOS10, a Settembre, Siri diventerà ancora più "intelligente", passando da essere un sistema chiuso ad uno aperto: se fino ad oggi Siri si integrava solo con alcune decine di servizi, con iOS10 Apple apre Siri a tutte le app, rendendolo molto più efficace e utile per i consumatori ma riducendo anche, sempre più, la necessità di cercare altrove, su Google, informazioni che l'assistente virtuale potrà trovare per noi in tutta comodità.
 
 Il fatto che Siri non abbia un'interfaccia grafica, cioè una pagina web dove recarsi per far la ricerca, poco importa. Il futuro, probabilmente, sono motori di ricerca senza interfaccia grafica. Motori di ricerca con cui conversiamo in linguaggio naturale. Proprio come Siri, Google Now o Alexa. E mentre _quel_ futuro si avvicina, più velocemente di quanto pensiamo, Apple si prepara a governarlo, arricchendo il suo Siri di dati e fonti che lo rendano sempre più ricco, sempre più utile, sempre più indispensabile, affinché Google lo sia un po' meno.
 
