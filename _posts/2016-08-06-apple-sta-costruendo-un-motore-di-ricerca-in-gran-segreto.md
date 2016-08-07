@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T14:29:59.092Z'
+datePublished: '2016-08-07T16:29:16.064Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T14:29:58.071Z'
+dateModified: '2016-08-07T16:29:15.548Z'
 title: Apple sta costruendo un motore di ricerca in "gran segreto"
 publisher: {}
 description: >-
@@ -42,16 +42,18 @@ Apple ha iniziato la sua guerra termonucleare lanciando Apple Maps, a dispetto d
 
 Nel 2004 Apple ha lanciato Spotlight, il modo per cercare i file sul proprio Mac. Per quasi 10 anni l'hanno lasciato invariato, dedicato ad un ruolo quasi marginale, seppur funzionale, del sistema operativo. Nei vari rilasci di iOS ha iniziato a prendere un ruolo sempre più importante, anche se mai in primo piano, fino ad essere stato volutamente confuso con Siri in iOS9\. Oggi il suo nome è Siri Assistant e fa molto di più di ciò che siamo abituati a conoscere di Siri - originariamente un nome che altro non era che i comandi vocali dell'iPhone.
 
-Siri, oltre che ad essere il modo per accedere ad informazioni presenti sull'iPhone, come ad esempio chiamare un dato contatto in rubrica, è anche nato come interfaccia a linguaggio naturale che potesse rispondere a bisogni ben definiti: recensioni e prenotazioni di ristoranti, informazioni sui concerti, recensioni e programmazione cinematografica fino a risposte più fattive come, ad esempio, conoscere la capitale del Kongo o il significato della vita - "42" citando il film _Guida Galattica per Autostoppisti_. Successivamente è venuta l'integrazione con WikiPedia, poi Apple Maps.
+Siri, oltre che ad essere il modo per accedere ad informazioni presenti sull'iPhone, come ad esempio chiamare un dato contatto in rubrica, è anche nato come interfaccia a linguaggio naturale che potesse rispondere a bisogni ben definiti: recensioni e prenotazioni di ristoranti, informazioni sui concerti, recensioni e programmazione cinematografica fino a risposte più fattive come, ad esempio, conoscere la capitale del Kongo o il significato della vita - "42" citando il film _Guida Galattica per Autostoppisti_. Successivamente è venuta l'integrazione con WikiPedia, poi Apple Maps e tanti altri.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19bbd1d2-7b61-460e-ab5f-8e9823cbfff0.png)
 
-FINALE
+Oggi Siri è in grado di rispondere a molte domande di ogni giorno, dal meteo al risultato di una data partita. Ed è solo l'inizio. Con il rilascio di iOS10, a Settembre, Siri diventerà ancora più "intelligente", passando da essere un sistema chiuso ad uno aperto: se fino ad oggi Siri si integrava solo con alcune decine di servizi, con iOS10 Apple apre Siri a tutte le app, rendendolo molto più efficace e utile per i consumatori ma riducendo anche, sempre più, la necessità di cercare altrove, su Google, informazioni che l'assistente virtuale potrà trovare per noi in tutta comodità. 
+
+Il fatto che Siri non abbia un'interfaccia grafica, cioè una pagina web dove recarsi per far la ricerca, poco importa. Il futuro, probabilmente, sono motori di ricerca senza interfaccia grafica. Motori di ricerca con cui conversiamo in linguaggio naturale. Proprio come Siri, Google Now o Alexa. E mentre _quel_ futuro si avvicina, più velocemente di quanto pensiamo, Apple si prepara a governarlo, arricchendo il suo Siri di dati e fonti che lo rendano sempre più ricco, sempre più utile, sempre più indispensabile, affinché Google lo sia un po' meno.
 
 Apple sta costruendo un motore di ricerca. E come il migliore dei prestigiatori, lo sta facendo sotto ai nostri occhi.
 
 **Claudio Raimondi**
 
-    <script src="//s7.addthis.com/js/300/addthis_widget.js??#pubid=ra-57a713d36b8b127f"></script>
+    <script src="//s7.addthis.com/js/300/addthis_widget.js???#pubid=ra-57a713d36b8b127f"></script>
 
 
 
