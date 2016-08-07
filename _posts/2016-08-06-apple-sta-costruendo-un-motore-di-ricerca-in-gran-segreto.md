@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T16:54:10.462Z'
+datePublished: '2016-08-07T17:14:45.836Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T16:54:09.175Z'
-title: Apple sta costruendo un motore di ricerca in "gran segreto"
+dateModified: '2016-08-07T17:14:44.090Z'
+title: Apple sta costruendo un motore di ricerca in gran segreto
 publisher: {}
 description: >-
   Da sempre, o quasi, Apple e Google sono al contempo partner e competitor. Il
@@ -26,14 +26,14 @@ url: apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto/index.html
 _type: Article
 
 ---
-# Apple sta costruendo un motore di ricerca in "gran segreto"
+# Apple sta costruendo un motore di ricerca in gran segreto
 
 Da sempre, o quasi, Apple e Google sono al contempo partner e competitor. Il loro ricorda il rapporto tra la rana e lo scorpione nella favola di Esopo: uno scorpione deve attraversare un fiume e chiede un passaggio ad una rana, lì vicina. La rana, controvoglia e impaurita, offre un passaggio allo scorpione persuasa dal fatto che sarebbe stato contro lo stesso interesse dello scorpione pungerla ma, a metà strada tra le due rive, lo scorpione la attacca condannando entrambi a morte. La rana chiede allo scorpione il perché di tale gesto e l'animale, con una semplicità aberrante, risponde: "È la mia natura"
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33c69b9d-5c87-496d-bdc4-551231b49c9c.jpg)
 
 Apple _ospita,_ dagli albori di iPhone, Google come motore di ricerca predefinito. Lo ospita per mutua convenienza, quella di Apple di offrire ai propri consumatori un motore di ricerca che è uno _standard del web_ e quella di Google che si assicura che gli utenti iPhone non provino motori di ricerca diversi. È talmente conveniente anche per Google da pagare ad Apple [1 miliardo all'anno di dollari][0] per rimanerci.
 
-Ma il pungiglione dello scorpione - che interpretano a turno - è già pronto a sferrare l'attacco. Google lancia Android entrando a piè pari nel campo della mela morsicata, Apple dichiara guerra, _[termonucleare][1]_per usare le parole di Steve Jobs, al gigante della ricerca. Il tutto mentre collaborano e si aiutano l'un l'altra ad attraversare il fiume. Seppure né Apple né Google sembrano poter fare la fine degli sventurati animali, è nella loro natura essere rivali. In fondo i loro prodotti, a ben guardare, soddisfano sempre più bisogni simili dei consumatori.
+Ma il pungiglione dello scorpione - che interpretano a turno - è già pronto a sferrare l'attacco. Google lancia Android entrando a piè pari nel campo della mela morsicata, Apple dichiara guerra, _[termonucleare][1]_ per usare le parole di Steve Jobs, al gigante della ricerca. Il tutto mentre collaborano e si aiutano l'un l'altra ad attraversare il fiume. Seppure né Apple né Google sembrano poter fare la fine degli sventurati animali, è nella loro natura essere rivali. In fondo i loro prodotti, a ben guardare, soddisfano sempre più bisogni simili dei consumatori.
 
 Apple ha iniziato la sua guerra termonucleare lanciando Apple Maps, a dispetto di Google Maps, qualche anno fa. Le ha chiamate con lo stesso nome nella speranza che i propri utenti, fedeli a Google Maps, si sbagliassero ed iniziassero ad utilizzare quelle Apple. Gli utenti iPhone che utilizzano i servizi Google sono clienti Apple o clienti Google? Sembra una domanda filosofica ma nasconde dietro molte strategie di loyalty del consumatore. Il potere di chi _garantisce l'accesso_ è che può ostacolarlo, impedirlo o, in maniera più redditizia, studiare i comportamenti di accesso per poi replicare il servizio.
 
