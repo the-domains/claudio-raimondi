@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T16:38:49.372Z'
+datePublished: '2016-08-07T16:44:07.309Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T16:38:48.373Z'
+dateModified: '2016-08-07T16:43:59.459Z'
 title: Apple sta costruendo un motore di ricerca in "gran segreto"
 publisher: {}
 description: >-
@@ -29,9 +29,9 @@ _type: Article
 # Apple sta costruendo un motore di ricerca in "gran segreto"
 
 Da sempre, o quasi, Apple e Google sono al contempo partner e competitor. Il loro ricorda il rapporto tra la rana e lo scorpione nella favola di Esopo: uno scorpione deve attraversare un fiume e chiede un passaggio ad una rana, lì vicina. La rana, controvoglia e impaurita, offre un passaggio allo scorpione persuasa dal fatto che sarebbe stato contro lo stesso interesse dello scorpione pungerla ma, a metà strada tra le due rive, lo scorpione la attacca condannando entrambi a morte. La rana chiede allo scorpione il perché di tale gesto e l'animale, con una semplicità aberrante, risponde: "È la mia natura"
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c73b4b97-c779-4af4-a949-01a6ab699402.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33c69b9d-5c87-496d-bdc4-551231b49c9c.jpg)
 
-Apple _ospita,_ dagli albori dell'iPhone, Google come motore di ricerca predefinito. Lo ospita per mutua convenienza, quella di Apple di offrire ai propri consumatori un motore di ricerca che è uno _standard del web_ e quella di Google che si assicura che gli utenti iPhone non provino motori di ricerca diversi. È talmente conveniente anche per Google da pagare ad Apple [1 miliardo all'anno di dollari][0] per rimanerci.
+Apple _ospita,_ dagli albori di iPhone, Google come motore di ricerca predefinito. Lo ospita per mutua convenienza, quella di Apple di offrire ai propri consumatori un motore di ricerca che è uno _standard del web_ e quella di Google che si assicura che gli utenti iPhone non provino motori di ricerca diversi. È talmente conveniente anche per Google da pagare ad Apple [1 miliardo all'anno di dollari][0] per rimanerci.
 
 Ma il pungiglione dello scorpione - che interpretano a turno - è già pronto a sferrare l'attacco. Google lancia Android entrando a piè pari nel campo della mela morsicata, Apple dichiara guerra, _[termonucleare][1]_per usare le parole di Steve Jobs, al gigante della ricerca. Il tutto mentre collaborano e si aiutano l'un l'altra ad attraversare il fiume. Seppure né Apple né Google sembrano poter fare la fine degli sventurati animali, è nella loro natura essere rivali. In fondo i loro prodotti, a ben guardare, soddisfano sempre più bisogni simili dei consumatori.
 
@@ -46,7 +46,7 @@ Siri, oltre ad essere il modo per accedere ad informazioni presenti sull'iPhone,
 
 Oggi Siri è in grado di rispondere a molte domande di ogni giorno, dal meteo al risultato di una data partita. Ed è solo l'inizio. Con il rilascio di iOS10, a Settembre, Siri diventerà ancora più "intelligente", passando da essere un sistema chiuso ad uno aperto: se fino ad oggi Siri si integrava solo con alcune decine di servizi, con iOS10 Apple apre Siri a tutte le app, rendendolo molto più efficace e utile per i consumatori ma riducendo anche, sempre più, la necessità di cercare altrove, su Google, informazioni che l'assistente virtuale potrà trovare per noi in tutta comodità.
 
-Il fatto che Siri non abbia un'interfaccia grafica, cioè una pagina web dove recarsi per far la ricerca, poco importa. Il futuro sono motori di ricerca con cui conversiamo in linguaggio naturale. Proprio come Siri, Google Now o Alexa. E mentre _quel_ futuro si avvicina, più velocemente di quanto pensiamo, Apple si prepara a governarlo, arricchendo il suo Siri di dati e fonti che lo rendono sempre più ricco, sempre più utile, sempre più indispensabile, cosicché Google lo sia un po' meno.
+Il fatto che Siri non abbia un'interfaccia grafica, cioè una pagina web dove recarsi per far la ricerca, poco importa. Il futuro sono motori di ricerca con cui conversiamo in linguaggio naturale. Proprio come Siri, che è già presente su iPhone, AppleTV e Apple Watch e a breve arriverà anche su Mac, Google Now o Alexa. E mentre _quel_ futuro si avvicina, più velocemente di quanto pensiamo, Apple si prepara a governarlo, arricchendo il suo Siri di dati e fonti che lo rendono sempre più ricco, sempre più utile, sempre più indispensabile, cosicché Google lo sia un po' meno.
 
 Apple sta costruendo un motore di ricerca. E come il migliore dei prestigiatori, lo sta facendo sotto al nostro naso.
 
