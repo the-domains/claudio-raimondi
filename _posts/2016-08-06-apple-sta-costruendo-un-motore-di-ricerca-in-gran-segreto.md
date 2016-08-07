@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T14:11:49.446Z'
+datePublished: '2016-08-07T14:29:59.092Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T14:11:46.301Z'
+dateModified: '2016-08-07T14:29:58.071Z'
 title: Apple sta costruendo un motore di ricerca in "gran segreto"
 publisher: {}
 description: >-
@@ -40,7 +40,9 @@ Apple ha iniziato la sua guerra termonucleare lanciando Apple Maps, a dispetto d
 
 ### Prima maps, ora search?
 
-L'hanno prima chiamato Spolight, poi nascosto sotto il nome di Siri, ma il motore di ricerca che Apple sta costruendo è già qui. Anche se non tutti se ne sono accorti.
+Nel 2004 Apple ha lanciato Spotlight, il modo per cercare i file sul proprio Mac. Per quasi 10 anni l'hanno lasciato invariato, dedicato ad un ruolo quasi marginale, seppur funzionale, del sistema operativo. Nei vari rilasci di iOS ha iniziato a prendere un ruolo sempre più importante, anche se mai in primo piano, fino ad essere stato volutamente confuso con Siri in iOS9\. Oggi il suo nome è Siri Assistant e fa molto di più di ciò che siamo abituati a conoscere di Siri - originariamente un nome che altro non era che i comandi vocali dell'iPhone.
+
+Siri, oltre che ad essere il modo per accedere ad informazioni presenti sull'iPhone, come ad esempio chiamare un dato contatto in rubrica, è anche nato come interfaccia a linguaggio naturale che potesse rispondere a bisogni ben definiti: recensioni e prenotazioni di ristoranti, informazioni sui concerti, recensioni e programmazione cinematografica fino a risposte più fattive come, ad esempio, conoscere la capitale del Kongo o il significato della vita - "42" citando il film _Guida Galattica per Autostoppisti_. Successivamente è venuta l'integrazione con WikiPedia, poi Apple Maps.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19bbd1d2-7b61-460e-ab5f-8e9823cbfff0.png)
 
 FINALE
