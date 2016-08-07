@@ -46,6 +46,9 @@ navigation:
   - name: Twitter
     url: 'http://www.twitter.com/ClaudioRaimondi'
     type: external
+  - name: PRESS
+    url: 'http://press.ClaudioRaimondi.com'
+    type: external
 favicon: null
 collections:
   - index:
