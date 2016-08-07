@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T12:15:22.248Z'
+datePublished: '2016-08-07T12:16:17.544Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T12:15:21.624Z'
+dateModified: '2016-08-07T12:16:16.548Z'
 title: Apple sta costruendo un motore di ricerca in "gran segreto"
 publisher: {}
 description: >-
@@ -47,9 +47,11 @@ FINALE
 
 Apple sta costruendo un motore di ricerca. E come il migliore dei prestigiatori, lo sta facendo sotto ai nostri occhi.
 
+    <span align="right" style="align:right" class="addthis_sharing_toolbox"></div>
+
 **Claudio Raimondi**
 
-    <span class="addthis_inline_follow_toolbox"></span> <span align="right" style="align:right" class="addthis_sharing_toolbox"></span> <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57a713d36b8b127f"></script>
+    <div class="addthis_inline_follow_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57a713d36b8b127f"></script>
 
 
 
