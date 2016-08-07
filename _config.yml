@@ -34,7 +34,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: BLOG
+  - name: BOG
     url: 'http://www.ClaudioRaimondi.com'
     type: external
   - name: Claudio Raimondi
