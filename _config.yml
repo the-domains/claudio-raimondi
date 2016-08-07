@@ -40,14 +40,14 @@ navigation:
   - name: Claudio Raimondi
     id: 9a310db8-471e-475d-8ab1-52b7af6069d1
     type: content
+  - name: PRESS
+    url: 'http://press.ClaudioRaimondi.com'
+    type: external
   - name: LinkedIn
     url: 'http://linkedin.com/in/craimondi'
     type: external
   - name: Twitter
     url: 'http://www.twitter.com/ClaudioRaimondi'
-    type: external
-  - name: PRESS
-    url: 'http://press.ClaudioRaimondi.com'
     type: external
 favicon: null
 collections:
