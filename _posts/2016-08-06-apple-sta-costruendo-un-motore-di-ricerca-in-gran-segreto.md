@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T11:19:41.401Z'
+datePublished: '2016-08-07T11:25:03.398Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,11 +7,11 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T11:19:40.485Z'
+dateModified: '2016-08-07T11:25:02.948Z'
 title: Apple sta costruendo un motore di ricerca in "gran segreto"
 publisher: {}
 description: >-
-  aDa sempre, o quasi, Apple e Google sono al contempo partner e competitor. Il
+  Da sempre, o quasi, Apple e Google sono al contempo partner e competitor. Il
   loro ricorda il rapporto quello tra la rana e lo scorpione nella favola di
   Esopo: uno scorpione deve attraversare un fiume e chiede un passaggio ad una
   rana, lì vicina. La rana, controvoglia e impaurita, offre un passaggio allo
@@ -29,7 +29,7 @@ _type: Article
 ---
 # Apple sta costruendo un motore di ricerca in "gran segreto"
 
-aDa sempre, o quasi, Apple e Google sono al contempo partner e competitor. Il loro ricorda il rapporto quello tra la rana e lo scorpione nella favola di Esopo: uno scorpione deve attraversare un fiume e chiede un passaggio ad una rana, lì vicina. La rana, controvoglia e impaurita, offre un passaggio allo scorpione persuasa dal fatto che sarebbe stato contro lo stesso interesse dello scorpione pungerla ma, a metà strada tra le due rive, lo scorpione la attacca condannando entrambi a morte. La rana chiede allo scorpione il perché di tale gesto e l'animale, con una semplicità aberrante, risponde: "È la mia natura"
+Da sempre, o quasi, Apple e Google sono al contempo partner e competitor. Il loro ricorda il rapporto quello tra la rana e lo scorpione nella favola di Esopo: uno scorpione deve attraversare un fiume e chiede un passaggio ad una rana, lì vicina. La rana, controvoglia e impaurita, offre un passaggio allo scorpione persuasa dal fatto che sarebbe stato contro lo stesso interesse dello scorpione pungerla ma, a metà strada tra le due rive, lo scorpione la attacca condannando entrambi a morte. La rana chiede allo scorpione il perché di tale gesto e l'animale, con una semplicità aberrante, risponde: "È la mia natura"
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c73b4b97-c779-4af4-a949-01a6ab699402.png)
 
 Apple _ospita,_ dagli albori dell'iPhone, Google come motore di ricerca predefinito. Lo ospita per mutua convenienza, quella di Apple di offrire ai propri consumatori un motore di ricerca che è un _standard del web_ e quella di Google che si assicura che gli utenti iPhone non provino motori di ricerca diversi. È talmente convenite anche per Google da pagare ad Apple [1 miliardo all'anno][0] per rimanerci.
@@ -47,7 +47,7 @@ FINALE
 
 Apple sta costruendo un motore di ricerca. E come il migliore dei prestigiatori, lo sta facendo sotto ai nostri occhi.
 
-    <script type="text/javascript" src="" />
+    <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57a713d36b8b127f"></script>
 
 **Claudio Raimondi**
 
