@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T09:42:16.576Z'
+datePublished: '2016-08-07T09:46:27.639Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T09:42:15.593Z'
+dateModified: '2016-08-07T09:46:26.889Z'
 title: Apple sta costruendo un motore di ricerca in "gran segreto"
 publisher: {}
 description: >-
@@ -47,8 +47,7 @@ FINALE
 
 Apple sta costruendo un motore di ricerca. E come il migliore dei prestigiatori, lo sta facendo sotto ai nostri occhi.
 
-**[Claudio Raimondi][2]**
+**Claudio Raimondi**
 
 [0]: http://www.bloomberg.com/news/articles/2016-01-22/google-paid-apple-1-billion-to-keep-search-bar-on-iphone
 [1]: http://mashable.com/2012/04/05/steve-jobs-larry-page/#o9gSm7vnnPqF
-[2]: http://about-me/ "Claudio Raimondi"
