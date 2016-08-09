@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-09T18:39:02.573Z'
+datePublished: '2016-08-09T19:11:20.822Z'
 sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
 author: []
 via: {}
-dateModified: '2016-08-09T18:39:02.063Z'
+dateModified: '2016-08-09T19:11:19.786Z'
 title: La rivoluzione Apple di cui nessuno parla
 publisher: {}
 description: >-
@@ -58,9 +58,5 @@ Oggi la Apple SIM è disponibile solo per i clienti dei carrier AT&T, Sprint e T
 E se una volta si pensava che il vero rischio per le Telco fosse il WiFi pubblico, che avrebbe portato via traffico e profitti agli operatori mobili, oggi si scopre che il rischio sono gli OTT, veri e propri ecosistemi in cui utilizzare i nostri smartphone e tablet.
 
 **Claudio Raimondi**
-
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div><script src="//s7.addthis.com/js/300/addthis_widget.js??????????????????????#pubid=ra-57a713d36b8b127f"></script>
-
-
 
 [0]: http://raimondi.link/1EHWgtP
