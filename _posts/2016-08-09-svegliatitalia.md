@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T20:57:58.327Z'
+datePublished: '2016-08-09T20:59:14.023Z'
 sourcePath: _posts/2016-08-09-svegliatitalia.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T20:57:57.942Z'
+dateModified: '2016-08-09T20:59:13.577Z'
 title: '#svegliatitalia'
 publisher: {}
 description: >-
@@ -26,7 +26,7 @@ _type: Article
 # \#svegliatitalia
 
 Sono giorni importanti per molte persone in Italia. Il dibattito sulle unioni civili, che da tempo anima il Paese, entrerà in Parlamento con la discussione del disegno di legge al Senato tra pochi giorni. Oggi, invece, molte piazze italiane si coloreranno di manifestazioni a sostegno dei diritti della comunità LGBT, al grido di \#Svegliatitalia.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/09beba4bffa4d7d5cc50dcbec464bd65/croprotate.png?cropheight=270&cropwidth=698&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3f5ca65e-adde-4f19-a4de-2f15f4835c94.png&x=0&y=64)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b765726-dd0f-4616-a583-1bb78875fa97.png)
 
 Noi di eBay siamo da sempre in prima linea per il sostegno ai diritti della comunità LGBT e da sempre consideriamo la tutela delle diversità e l'inclusione nostre priorità. Per questo **eBay ha deciso di rendere pubblica la propria posizione in favore della libertà di amare e del riconoscimento di uguali diritti per tutte le coppie.**
 
