@@ -8,14 +8,18 @@ description: >-
   Non è un mistero che le vendite al dettaglio in Italia siano ferme, se non in
   lieve contrazione. L'ultimo dato ISTAT disponibile, settembre, mostra una
   contrazione di 0.1% rispetto ad agosto e di 0.5% verso l'anno precedente.
-datePublished: '2016-08-09T19:50:25.573Z'
-dateModified: '2016-08-09T19:50:18.918Z'
+datePublished: '2016-08-09T19:51:07.008Z'
+dateModified: '2016-08-09T19:51:02.721Z'
 title: 'PMI e ecommerce: da opportunità a rischio'
 author: []
 via: {}
 sourcePath: _posts/2016-08-09-pmi-e-ecommerce-da-opportunita-a-rischio.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: pmi-e-ecommerce-da-opportunita-a-rischio/index.html
 _type: Article
