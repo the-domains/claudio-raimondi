@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T20:58:13.265Z'
+datePublished: '2016-08-09T20:58:39.960Z'
 sourcePath: >-
   _posts/2016-08-09-perche-il-futuro-dellindustria-automobilistica-e-segnato-e.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T20:58:07.768Z'
+dateModified: '2016-08-09T20:58:39.116Z'
 title: >-
   Perché il futuro dell'industria automobilistica è segnato e come hanno vinto
   Apple e Google
@@ -56,7 +56,7 @@ Se anche Apple o Google non dovessero lanciare sul mercato un'automobile tutta l
 
 **Claudio Raimondi**
 
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js?????????????????????????????????????????????#pubid=ra-57a713d36b8b127f"></script>
+    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js??????????????????????????????????????????????????#pubid=ra-57a713d36b8b127f"></script>
 
 
 
