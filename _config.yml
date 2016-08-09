@@ -49,6 +49,9 @@ navigation:
   - name: Twitter
     url: 'http://www.twitter.com/ClaudioRaimondi'
     type: external
+  - name: LATEST
+    id: 0ecfb312-1f5b-4cd2-bfce-f04cdad091dd
+    type: content
 favicon: null
 collections:
   - index:
