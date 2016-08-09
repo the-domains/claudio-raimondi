@@ -16,13 +16,7 @@ opengraph:
   appId: '288651771490588'
 layout_spectrum: 0.679377
 analytics:
-  twitter: >-
-    !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
-    a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
-    t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
-    s.parentNode.insertBefore(t,s))}(window,document,'script'); // Insert
-    Twitter Pixel ID and Standard Event data below twq('init','nvaic');
-    twq('track','PageView');
+  twitter: null
   google: UA-5050578-6
   facebook: '260942680957678'
 author:
