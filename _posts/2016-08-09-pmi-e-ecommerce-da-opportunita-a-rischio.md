@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T19:54:18.175Z'
+datePublished: '2016-08-09T19:54:57.042Z'
 sourcePath: _posts/2016-08-09-pmi-e-ecommerce-da-opportunita-a-rischio.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T19:54:17.548Z'
+dateModified: '2016-08-09T19:54:56.454Z'
 title: 'PMI e ecommerce: da opportunità a rischio'
 publisher: {}
 description: >-
@@ -44,7 +44,7 @@ L'ecommerce oggi rappresenta un rischio per le PMI italiane. **Il rischio è que
 
 **Claudio Raimondi**
 
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div><script src="//s7.addthis.com/js/300/addthis_widget.js????????&&&&&#pubid=ra-57a713d36b8b127f"></script>
+    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js?????????????????#pubid=ra-57a713d36b8b127f"></script>
 
 
 
