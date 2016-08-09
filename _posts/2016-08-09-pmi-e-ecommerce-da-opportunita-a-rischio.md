@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T20:09:53.547Z'
+datePublished: '2016-08-09T20:13:43.429Z'
 sourcePath: _posts/2016-08-09-pmi-e-ecommerce-da-opportunita-a-rischio.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T20:09:52.421Z'
+dateModified: '2016-08-09T20:13:42.695Z'
 title: 'PMI e ecommerce: da opportunità a rischio'
 publisher: {}
 description: >-
@@ -43,5 +43,9 @@ Solo nella stagione natalizia, i venditori italiani che vendono su [eBay.it][0] 
 L'ecommerce oggi rappresenta un rischio per le PMI italiane. **Il rischio è quello di non esserci**.
 
 **Claudio Raimondi**
+
+    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js?????????????????????????#pubid=ra-57a713d36b8b127f"></script>
+
+
 
 [0]: http://www.ebay.it/
