@@ -43,9 +43,6 @@ navigation:
   - name: LinkedIn
     url: 'http://linkedin.com/in/craimondi'
     type: external
-  - name: Twitter
-    url: 'http://www.twitter.com/ClaudioRaimondi'
-    type: external
 favicon: null
 collections:
   - index:
