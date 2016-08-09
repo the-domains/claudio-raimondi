@@ -37,9 +37,6 @@ navigation:
   - name: BLOG
     url: 'http://www.ClaudioRaimondi.com'
     type: external
-  - name: Claudio Raimondi
-    id: 9a310db8-471e-475d-8ab1-52b7af6069d1
-    type: content
   - name: PRESS
     url: 'http://press.ClaudioRaimondi.com'
     type: external
@@ -49,9 +46,6 @@ navigation:
   - name: Twitter
     url: 'http://www.twitter.com/ClaudioRaimondi'
     type: external
-  - name: LATEST
-    id: 0ecfb312-1f5b-4cd2-bfce-f04cdad091dd
-    type: content
 favicon: null
 collections:
   - index:
