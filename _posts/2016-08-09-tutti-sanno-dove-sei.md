@@ -1,4 +1,9 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   Negli ultimi anni grazie all'avvento dei Social e degli smartphone è entrato
   nel nostro vocabolario un nuovo termine: la location, la nostra posizione,
@@ -7,18 +12,21 @@ description: >-
   tecnologie come beacon, wifi e bluetooth) per condividere su internet a quale
   latitudine, longitudine e altezza ci troviamo. Tutto questo in maniera
   passiva, chiedendo all'utente lo sforzo minimo possibile, cioè nulla.
-dateModified: '2016-08-09T20:26:02.509Z'
-datePublished: '2016-08-09T20:26:14.655Z'
+datePublished: '2016-08-09T20:27:10.004Z'
+dateModified: '2016-08-09T20:26:55.827Z'
 title: Tutti sanno dove sei
 author: []
-publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-09-tutti-sanno-dove-sei.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: tutti-sanno-dove-sei/index.html
+_type: Article
 
 ---
 # Tutti sanno dove sei
