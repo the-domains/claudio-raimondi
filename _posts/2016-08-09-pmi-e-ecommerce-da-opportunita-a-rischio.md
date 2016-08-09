@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T19:54:57.042Z'
+datePublished: '2016-08-09T19:57:55.209Z'
 sourcePath: _posts/2016-08-09-pmi-e-ecommerce-da-opportunita-a-rischio.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T19:54:56.454Z'
+dateModified: '2016-08-09T19:57:32.529Z'
 title: 'PMI e ecommerce: da opportunità a rischio'
 publisher: {}
 description: >-
