@@ -1,4 +1,9 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   L'ecommerce è sempre più mobile in Italia. Lo vive ognuno di noi, tutti i
   giorni, quando prende in mano lo smartphone per controllare il prezzo di
@@ -7,18 +12,17 @@ description: >-
   omnicanalità) meriti più attenzione di quanto le imprese italiane stiano
   dedicando loro, quando si parla di ecommerce mobile si parla solo di una
   parte, cioè tutte quelle transazioni che si concludono online.
-dateModified: '2016-08-09T20:08:21.650Z'
-datePublished: '2016-08-09T20:08:44.622Z'
+datePublished: '2016-08-09T20:14:51.110Z'
+dateModified: '2016-08-09T20:14:41.716Z'
 title: 'L''ecommerce è Mobile, ma non qual piuma al vento'
 author: []
-publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-09-lecommerce-e-mobile-ma-non-qual-piuma-al-vento.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: {}
+starred: false
+url: lecommerce-e-mobile-ma-non-qual-piuma-al-vento/index.html
+_type: Article
 
 ---
 # L'ecommerce è Mobile, ma non qual piuma al vento
