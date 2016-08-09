@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-09T20:46:16.463Z'
-sourcePath: _posts/2016-08-09-lei-non-sa-chi-sono-io-ma-netflix-si.md
-author: []
-via: {}
-dateModified: '2016-08-09T20:46:15.662Z'
-title: Lei non sa chi sono io... ma Netflix sì
-publisher: {}
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   In questi giorni si parla tanto dello sbarco in Italia di Netflix, una
   libreria video che raccoglie migliaia di ore di film e serie TV fruibile
@@ -13,11 +11,21 @@ description: >-
   responsabili mondiali del binge-watching (l'abitudine di guardare
   ininterrottamente molte puntate di una serie TV), una rivoluzione che, per
   alcuni, potrebbe cambiare il panorama televisivo italiano.
+datePublished: '2016-08-09T20:47:18.962Z'
+dateModified: '2016-08-09T20:47:14.446Z'
+sourcePath: _posts/2016-08-09-lei-non-sa-chi-sono-io-ma-netflix-si.md
+author: []
+via: {}
+title: Lei non sa chi sono io... ma Netflix sì
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: lei-non-sa-chi-sono-io-ma-netflix-si/index.html
+_type: Article
 
 ---
 # Lei non sa chi sono io... ma Netflix sì
