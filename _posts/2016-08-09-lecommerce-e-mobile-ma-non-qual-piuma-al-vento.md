@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T20:16:58.087Z'
+datePublished: '2016-08-09T20:17:20.385Z'
 sourcePath: _posts/2016-08-09-lecommerce-e-mobile-ma-non-qual-piuma-al-vento.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T20:16:57.280Z'
+dateModified: '2016-08-09T20:17:19.635Z'
 title: 'L''ecommerce è Mobile, ma non qual piuma al vento'
 publisher: {}
 description: >-
@@ -44,7 +44,7 @@ L'm-commerce italiano da smartphone e tablet rappresenta già oggi il 20% dell'e
 
 **Claudio Raimondi**
 
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js?????????????????????????#pubid=ra-57a713d36b8b127f"></script>
+    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js?????????????????????????????#pubid=ra-57a713d36b8b127f"></script>
 
 
 
