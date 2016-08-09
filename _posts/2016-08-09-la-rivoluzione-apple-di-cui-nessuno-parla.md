@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T19:33:06.502Z'
+datePublished: '2016-08-09T19:35:35.901Z'
 sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T19:33:05.771Z'
+dateModified: '2016-08-09T19:35:35.158Z'
 title: La rivoluzione Apple di cui nessuno parla
 publisher: {}
 description: >-
@@ -19,10 +19,7 @@ description: >-
   mettere un limite massimo di 5 mila persone, lasciando fuori molti fan. E la
   richiesta fu talmente forte da obbligare l'azienda a dare in diretta streaming
   l'evento anche su internet per le migliaia di fan che, in giro per il mondo,
-  volevano seguire la presentazione del CEO. Il Keynote è quindi diventato un
-  modo di comunicare con i propri consumatori più avanzati, gli early adopter e
-  gli enthusiast, fantastici ambasciatori del brand e spesso più efficaci di
-  qualsivoglia spot TV. Una cosa che qualunque azienda sogna e poche hanno.
+  volevano seguire la presentazione del CEO.
 inLanguage: null
 inNav: false
 starred: false
@@ -31,9 +28,11 @@ _type: Article
 
 ---
 # La rivoluzione Apple di cui nessuno parla
+
+Apple, ancora nelle mani di Steve Jobs, è riuscita a mettere in piedi una macchina mediatica senza precedenti. Il lancio dei nuovi prodotti si è trasformato da un evento per specialisti del settore ad un evento quasi consumer. Se fino al 2007 partecipavano al _WWDC - Worldwide Developers Conference _circa tra le 2 e le 3 mila persone, dal 2008 Apple ha dovuto mettere un limite massimo di 5 mila persone, lasciando fuori molti fan. E la richiesta fu talmente forte da obbligare l'azienda a dare in diretta streaming l'evento anche su internet per le migliaia di fan che, in giro per il mondo, volevano seguire la presentazione del CEO.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e464585-4ba8-4503-92fc-e3d1b73a96f6.jpg)
 
-Apple, ancora nelle mani di Steve Jobs, è riuscita a mettere in piedi una macchina mediatica senza precedenti. Il lancio dei nuovi prodotti si è trasformato da un evento per specialisti del settore ad un evento quasi consumer. Se fino al 2007 partecipavano al _WWDC - Worldwide Developers Conference _circa tra le 2 e le 3 mila persone, dal 2008 Apple ha dovuto mettere un limite massimo di 5 mila persone, lasciando fuori molti fan. E la richiesta fu talmente forte da obbligare l'azienda a dare in diretta streaming l'evento anche su internet per le migliaia di fan che, in giro per il mondo, volevano seguire la presentazione del CEO. Il Keynote è quindi diventato un modo di comunicare con i propri consumatori più avanzati, gli _early adopter_ e gli _enthusiast_, fantastici ambasciatori del brand e spesso più efficaci di qualsivoglia spot TV. Una cosa che qualunque azienda sogna e poche hanno.
+Il Keynote è quindi diventato un modo di comunicare con i propri consumatori più avanzati, gli _early adopter_ e gli _enthusiast_, fantastici ambasciatori del brand e spesso più efficaci di qualsivoglia spot TV. Una cosa che qualunque azienda sogna e poche hanno.
 
 Nel [Keynote][0] di Ottobre, quello in cui il CEO di Apple Tim Cook ha presentato gli ultimi prodotti, nel battage mediatico attorno ai nuovi iPhone 6 e 6+ e al futuro Apple Watch (non ancora in distribuzione) è passata quasi silenziosa un'innovazione che nessuno aveva mai osato prima: la chiamano Apple SIM e la maggioranza del grande pubblico non sa, ad oggi ma presto le cose cambieranno, nemmeno che esista.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/132f8696-4a8a-42c1-be18-aa9b0e7b8fd9.jpg)
@@ -53,7 +52,6 @@ Un enorme risparmio che renderà sicuramente felici gli utenti ma probabilmente 
 Non è la prima volta che Apple _rompe le uova nel paniere_ alle Telco. Qualche anno fa il lancio di iMessage costò alle compagnie telefoniche svariati miliardi di fatturato, riducendo in un lampo il volume di SMS che transitano sulla loro rete.
 
 Aziende come _Apple_ o _Google con Android -_ i cosiddetti OTT, Over The Top - preoccupano da tempo le aziende di telecomunicazioni che dal loro avvento si sono trovate a dover sostenere grandi investimenti per le proprie reti _perdendo de facto _i propri clienti, che oggi si sentono clienti Apple o Android più che di questa o quella compagnia telefonica e a cui affidano la propria carta di credito e i propri dati in cloud. La rete telefonica degli operatori, nonostante i tentativi, sta diventando per il consumatore sempre più una utility al pari della rete elettrica o di quella di distribuzione del gas. Indifferenziata.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5adc655a-5639-4317-9215-caa9f3ae672a.jpg)
 
 ### Il futuro della Apple SIM è di sparire
 
@@ -63,7 +61,7 @@ E se una volta si pensava che il vero rischio per le Telco fosse il WiFi pubblic
 
 **Claudio Raimondi**
 
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div><script src="//s7.addthis.com/js/300/addthis_widget.js???????????????????????????#pubid=ra-57a713d36b8b127f"></script>
+    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js???????????????????????????&&&&&&&&#pubid=ra-57a713d36b8b127f"></script>
 
 
 
