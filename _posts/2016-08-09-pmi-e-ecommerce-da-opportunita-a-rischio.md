@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T20:06:44.935Z'
+datePublished: '2016-08-09T20:09:53.547Z'
 sourcePath: _posts/2016-08-09-pmi-e-ecommerce-da-opportunita-a-rischio.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T20:06:44.252Z'
+dateModified: '2016-08-09T20:09:52.421Z'
 title: 'PMI e ecommerce: da opportunità a rischio'
 publisher: {}
 description: >-
@@ -21,13 +21,12 @@ url: pmi-e-ecommerce-da-opportunita-a-rischio/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c485868-aa12-47e2-9c68-cd49bd18f156.jpg)
-
 # PMI e ecommerce: da opportunità a rischio
 
 Non è un mistero che le vendite al dettaglio in Italia siano ferme, se non in lieve contrazione. L'ultimo dato ISTAT disponibile, settembre, mostra una contrazione di 0.1% rispetto ad agosto e di 0.5% verso l'anno precedente.
 
 L'ecommerce in Italia è ormai una realtà importante che nel 2014 vale 14.6 miliardi di euro, in fortissima crescita: negli ultimi sette anni è cresciuto del 15-20% ogni singolo anno. I consumatori italiani hanno spostato (e continuano a spostare) parte della propria capacità di spesa online, a dispetto del più tradizionale commercio offline.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e43b937-f01b-4fdf-8dc4-f98f9752b5ca.jpg)
 
 I motivi per cui i consumatori italiani acquistano sempre più online sono sono molti e non sono da ricercare solo nella convenienza economica, comunque importante come in qualsiasi transazione commerciale. La convenienza di acquistare online passa anche dalla **comodità di fare acquisti in tempi morti o quando passa loro per la mente** invece di aggiungere quegli acquisti alla lista di cose da fare, **la completezza delle informazioni sul prodotto** che non sempre si riescono ad ottenere in punto vendita, **la ridotta capacità di accesso al prodotto** specie nelle aree rurali, nelle città minori o all'estero e la **varietà di scelta e completezza di gamma, **immensamente più ampia online.
 
