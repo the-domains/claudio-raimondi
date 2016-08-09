@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T19:32:29.190Z'
+datePublished: '2016-08-09T19:33:06.502Z'
 sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T19:32:28.401Z'
+dateModified: '2016-08-09T19:33:05.771Z'
 title: La rivoluzione Apple di cui nessuno parla
 publisher: {}
 description: >-
@@ -63,7 +63,7 @@ E se una volta si pensava che il vero rischio per le Telco fosse il WiFi pubblic
 
 **Claudio Raimondi**
 
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div><script src="//s7.addthis.com/js/300/addthis_widget.js????????&&&&&#pubid=ra-57a713d36b8b127f"></script>
+    <br/>&nbsp;<div class="addthis_native_toolbox"></div><script src="//s7.addthis.com/js/300/addthis_widget.js???????????????????????????#pubid=ra-57a713d36b8b127f"></script>
 
 
 
