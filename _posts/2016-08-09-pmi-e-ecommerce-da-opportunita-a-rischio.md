@@ -1,21 +1,25 @@
 ---
-datePublished: '2016-08-09T19:57:55.209Z'
-sourcePath: _posts/2016-08-09-pmi-e-ecommerce-da-opportunita-a-rischio.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
-author: []
-via: {}
-dateModified: '2016-08-09T19:57:32.529Z'
-title: 'PMI e ecommerce: da opportunità a rischio'
-publisher: {}
 description: >-
   Non è un mistero che le vendite al dettaglio in Italia siano ferme, se non in
   lieve contrazione. L'ultimo dato ISTAT disponibile, settembre, mostra una
   contrazione di 0.1% rispetto ad agosto e di 0.5% verso l'anno precedente.
-inLanguage: null
-inNav: false
+datePublished: '2016-08-09T19:58:51.312Z'
+dateModified: '2016-08-09T19:58:44.324Z'
+title: 'PMI e ecommerce: da opportunità a rischio'
+author: []
+via: {}
+sourcePath: _posts/2016-08-09-pmi-e-ecommerce-da-opportunita-a-rischio.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: pmi-e-ecommerce-da-opportunita-a-rischio/index.html
 _type: Article
