@@ -1,4 +1,13 @@
 ---
+datePublished: '2016-08-09T18:22:41.586Z'
+sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
+author:
+  - name: Apple.com
+    url: 'http://www.apple.com'
+via: {}
+dateModified: '2016-08-09T18:22:40.874Z'
+title: La rivoluzione Apple di cui nessuno parla
+publisher: {}
 description: >-
   Apple, ancora nelle mani di Steve Jobs, è riuscita a mettere in piedi una
   macchina mediatica senza precedenti. Il lancio dei nuovi prodotti si è
@@ -12,16 +21,7 @@ description: >-
   modo di comunicare con i propri consumatori più avanzati, gli early adopter e
   gli enthusiast, fantastici ambasciatori del brand e spesso più efficaci di
   qualsivoglia spot TV. Una cosa che qualunque azienda sogna e poche hanno.
-dateModified: '2016-08-09T18:21:49.580Z'
-datePublished: '2016-08-09T18:21:57.437Z'
-title: La rivoluzione Apple di cui nessuno parla
-author:
-  - name: Apple.com
-    url: 'http://www.apple.com'
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -61,7 +61,7 @@ E se una volta si pensava che il vero rischio per le Telco fosse il WiFi pubblic
 
 **Claudio Raimondi**
 
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div><script src="//s7.addthis.com/js/300/addthis_widget.js????????&&&&&#pubid=ra-57a713d36b8b127f"></script>
+    <br/>&nbsp;<div class="addthis_native_toolbox"></div><script src="//s7.addthis.com/js/300/addthis_widget.js?????????????????&&&&&#pubid=ra-57a713d36b8b127f"></script>
 
 
 
