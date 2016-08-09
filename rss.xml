@@ -4,7 +4,7 @@
         <description><![CDATA[Claudio Raimondi]]></description>
         <link>http://claudioraimondi.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 21:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 21:07:39 GMT</lastBuildDate>
         <atom:link href="http://claudioraimondi.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Apple sta costruendo un motore di ricerca in gran segreto]]></title>
@@ -12,6 +12,13 @@
             <link>http://claudioraimondi.com/apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto/index.html</link>
             <guid isPermaLink="false">0ecfb312-1f5b-4cd2-bfce-f04cdad091dd</guid>
             <pubDate>Tue, 09 Aug 2016 19:44:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[L'Aquila continua a volare. Online.]]></title>
+            <description><![CDATA[<article><h1>L'Aquila continua a volare. Online.</h1><p>Nel lavoro quotidiano che, assieme al meraviglioso team, porto avanti in eBay abbiamo la fortuna di poterci confrontare con tante PMI italiane che sono alla ricerca di opportunità per far crescere il loro business a livello nazionale e globale, talvolta di riscatto da una realtà contingente che in questi anni è stata per loro particolarmente dura. Alcune per un'economia che ha faticato a crescere a tassi floridi, altre a causa di eventi esterni che non hanno fatto altro che complicare una situazione già non facile.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb6631d2-8d70-4c56-846d-260ed2c7a200.jpg"></article>]]></description>
+            <link>http://claudioraimondi.com/laquila-continua-a-volare-online/index.html</link>
+            <guid isPermaLink="false">78acc127-dc1d-4fef-a9ec-efa8fec17288</guid>
+            <pubDate>Tue, 09 Aug 2016 21:07:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#svegliatitalia]]></title>
@@ -68,13 +75,6 @@
             <link>http://claudioraimondi.com/pmi-e-ecommerce-da-opportunita-a-rischio/index.html</link>
             <guid isPermaLink="false">8dfb8047-4566-4c31-ae7e-c43b0fa5cd59</guid>
             <pubDate>Tue, 09 Aug 2016 20:13:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[L'Aquila continua a volare. Online]]></title>
-            <description><![CDATA[<article><h1>L'Aquila continua a volare. Online</h1><p>Nel lavoro quotidiano che, assieme al meraviglioso team, porto avanti in eBay abbiamo la fortuna di poterci confrontare con tante PMI italiane che sono alla ricerca di opportunità per far crescere il loro business a livello nazionale e globale, talvolta di riscatto da una realtà contingente che in questi anni è stata per loro particolarmente dura.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68044a9df65e0e92277cde79d8f5df29262ebdd5.jpg"></article>]]></description>
-            <link>https://www.linkedin.com/pulse/laquila-continua-volare-anche-online-claudio-raimondi</link>
-            <guid isPermaLink="false">e683f7f7-2bf9-4d9d-8880-37ea714d7ca4</guid>
-            <pubDate>Sat, 06 Aug 2016 10:16:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
