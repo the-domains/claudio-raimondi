@@ -27,7 +27,10 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation: []
+navigation:
+  - name: BLOG
+    url: 'http://www.ClaudioRaimondi.com'
+    type: external
 favicon: null
 collections:
   - index:
