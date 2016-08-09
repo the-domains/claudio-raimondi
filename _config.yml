@@ -1,4 +1,4 @@
-typography_spectrum: 0.7250336036086082
+typography_spectrum: 0.7173909267876297
 color:
   saturation: 0.5774366860277951
   brandStrength: 0.5742788293864578
@@ -34,6 +34,9 @@ navigation:
   - name: PRESS
     url: 'http://press.ClaudioRaimondi.com'
     type: external
+  - name: CLAUDIO RAIMONDI
+    id: 9a310db8-471e-475d-8ab1-52b7af6069d1
+    type: content
 favicon: null
 collections:
   - index:
