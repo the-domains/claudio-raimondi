@@ -1,9 +1,15 @@
 ---
+datePublished: '2016-08-09T19:30:39.882Z'
+sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-09T19:30:38.957Z'
+title: La rivoluzione Apple di cui nessuno parla
+publisher: {}
 description: >-
   Apple, ancora nelle mani di Steve Jobs, è riuscita a mettere in piedi una
   macchina mediatica senza precedenti. Il lancio dei nuovi prodotti si è
@@ -17,18 +23,8 @@ description: >-
   modo di comunicare con i propri consumatori più avanzati, gli early adopter e
   gli enthusiast, fantastici ambasciatori del brand e spesso più efficaci di
   qualsivoglia spot TV. Una cosa che qualunque azienda sogna e poche hanno.
-datePublished: '2016-08-09T19:27:23.866Z'
-dateModified: '2016-08-09T19:26:42.664Z'
-sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
-author: []
-via: {}
-title: La rivoluzione Apple di cui nessuno parla
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+inLanguage: null
+inNav: false
 starred: false
 url: la-rivoluzione-apple-di-cui-nessuno-parla/index.html
 _type: Article
@@ -66,5 +62,9 @@ Oggi la Apple SIM è disponibile solo per i clienti dei carrier AT&T, Sprint e T
 E se una volta si pensava che il vero rischio per le Telco fosse il WiFi pubblico, che avrebbe portato via traffico e profitti agli operatori mobili, oggi si scopre che il rischio sono gli OTT, veri e propri ecosistemi in cui utilizzare i nostri smartphone e tablet.
 
 **Claudio Raimondi**
+
+    <br/>&nbsp;<div class="addthis_native_toolbox"></div><script src="//s7.addthis.com/js/300/addthis_widget.js????????&&&&&#pubid=ra-57a713d36b8b127f"></script>
+
+
 
 [0]: http://raimondi.link/1EHWgtP
