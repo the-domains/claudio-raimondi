@@ -1,9 +1,15 @@
 ---
+datePublished: '2016-08-09T20:16:58.087Z'
+sourcePath: _posts/2016-08-09-lecommerce-e-mobile-ma-non-qual-piuma-al-vento.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-09T20:16:57.280Z'
+title: 'L''ecommerce è Mobile, ma non qual piuma al vento'
+publisher: {}
 description: >-
   L'ecommerce è sempre più mobile in Italia. Lo vive ognuno di noi, tutti i
   giorni, quando prende in mano lo smartphone per controllare il prezzo di
@@ -12,14 +18,8 @@ description: >-
   omnicanalità) meriti più attenzione di quanto le imprese italiane stiano
   dedicando loro, quando si parla di ecommerce mobile si parla solo di una
   parte, cioè tutte quelle transazioni che si concludono online.
-datePublished: '2016-08-09T20:14:51.110Z'
-dateModified: '2016-08-09T20:14:41.716Z'
-title: 'L''ecommerce è Mobile, ma non qual piuma al vento'
-author: []
-via: {}
-sourcePath: _posts/2016-08-09-lecommerce-e-mobile-ma-non-qual-piuma-al-vento.md
-authors: []
-publisher: {}
+inLanguage: null
+inNav: false
 starred: false
 url: lecommerce-e-mobile-ma-non-qual-piuma-al-vento/index.html
 _type: Article
@@ -43,6 +43,10 @@ Un aiuto in questo senso lo offrono i marketplace internazionali, come ad esempi
 L'm-commerce italiano da smartphone e tablet rappresenta già oggi il 20% dell'ecommerce e continua a crescere: non può essere sottovalutato. Non muta d'accento, né di pensier.
 
 **Claudio Raimondi**
+
+    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js?????????????????????????#pubid=ra-57a713d36b8b127f"></script>
+
+
 
 [0]: http://raimondi.link/1wSE4Zc
 [1]: http://raimondi.link/1AXaEu3
