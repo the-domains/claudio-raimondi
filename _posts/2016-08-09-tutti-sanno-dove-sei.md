@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T20:31:00.797Z'
+datePublished: '2016-08-09T20:34:03.914Z'
 sourcePath: _posts/2016-08-09-tutti-sanno-dove-sei.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T20:31:00.146Z'
+dateModified: '2016-08-09T20:34:02.866Z'
 title: Tutti sanno dove sei
 publisher: {}
 description: >-
@@ -49,9 +49,9 @@ Le possibilità che si aprono sono incredibili sia per gli utenti che per le azi
 Grazie alla nostra posizione geografica e a quella dei componenti della nostra famiglia una startup europea, [Tado°][3], permette di controllare il riscaldamento ed i condizionatori di casa in maniera intelligente tramite un'app sul nostro smartphone (che è l'unica interfaccia utente).
 
 Ciò che lo rende interessante e diverso dal più conosciuto (e non disponibile in Italia) [Google Nest][4] è la logica, semplice ma potente, che ne sta dietro: Tado° regola autonomamente la temperatura in base alla distanza dell'utente da casa. Così d'inverno quando l'ultimo familiare uscirà la mattina per andare a lavorare il riscaldamento verrà spento per poi riaccendersi quando uno qualsiasi dei familiari si incamminerà verso casa. Il tutto accadrà in maniera automatica adattandosi allo stile di vita ed agli orari sempre meno regolari di tutti noi, favorendo qualche risparmio sul riscaldamento se, ad esempio, una sera decideremo di restare fuori a cena.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb143886-01f6-4318-9c57-b43ed807f50b.jpg)
 
 Piccoli accorgimenti che, secondo il produttore, possono far risparmiare il 30% dei consumi.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/788b0495-4a45-4d9f-9f8d-757fb10290a0.jpg)
 
 Se i prodotti che nasceranno saranno o meno a pagamento e le implicazioni sulla privacy degli utenti dipenderanno principalmente da come evolverà l'offerta: che in futuro siano i consumatori disposti a pagare per acceder a questi servizi o che sia la pubblicità a pagarli per loro come è avvenuto con l'account e-mail, l'utilizzo della _location_ di massa è solo all'inizio e permeerà il nostro modo di vivere.
 
