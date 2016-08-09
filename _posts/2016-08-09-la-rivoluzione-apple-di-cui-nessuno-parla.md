@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
@@ -18,8 +17,8 @@ description: >-
   modo di comunicare con i propri consumatori più avanzati, gli early adopter e
   gli enthusiast, fantastici ambasciatori del brand e spesso più efficaci di
   qualsivoglia spot TV. Una cosa che qualunque azienda sogna e poche hanno.
-datePublished: '2016-08-09T19:24:22.426Z'
-dateModified: '2016-08-09T19:23:55.065Z'
+datePublished: '2016-08-09T19:27:23.866Z'
+dateModified: '2016-08-09T19:26:42.664Z'
 sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
 author: []
 via: {}
@@ -31,7 +30,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: la-rivoluzione-apple-di-cui-nessuno-parla/index.html
+_type: Article
 
 ---
 # La rivoluzione Apple di cui nessuno parla
