@@ -34,9 +34,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: PRESS
-    url: 'http://press.ClaudioRaimondi.com'
-    type: external
   - name: LinkedIn
     url: 'http://linkedin.com/in/craimondi'
     type: external
