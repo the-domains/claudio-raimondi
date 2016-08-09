@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-09T19:11:20.822Z'
-sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
-author: []
-via: {}
-dateModified: '2016-08-09T19:11:19.786Z'
-title: La rivoluzione Apple di cui nessuno parla
-publisher: {}
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
 description: >-
   Apple, ancora nelle mani di Steve Jobs, è riuscita a mettere in piedi una
   macchina mediatica senza precedenti. Il lancio dei nuovi prodotti si è
@@ -19,11 +18,20 @@ description: >-
   modo di comunicare con i propri consumatori più avanzati, gli early adopter e
   gli enthusiast, fantastici ambasciatori del brand e spesso più efficaci di
   qualsivoglia spot TV. Una cosa che qualunque azienda sogna e poche hanno.
+datePublished: '2016-08-09T19:23:46.204Z'
+dateModified: '2016-08-09T19:23:29.831Z'
+sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
+author: []
+via: {}
+title: La rivoluzione Apple di cui nessuno parla
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 # La rivoluzione Apple di cui nessuno parla
