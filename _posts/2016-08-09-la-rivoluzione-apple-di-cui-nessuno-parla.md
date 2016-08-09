@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-09T18:23:09.143Z'
+datePublished: '2016-08-09T18:28:53.882Z'
 sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
 author:
   - name: Apple.com
     url: 'http://www.apple.com'
 via: {}
-dateModified: '2016-08-09T18:23:08.289Z'
+dateModified: '2016-08-09T18:28:53.231Z'
 title: La rivoluzione Apple di cui nessuno parla
 publisher: {}
 description: >-
@@ -29,9 +29,9 @@ _type: MediaObject
 
 ---
 # La rivoluzione Apple di cui nessuno parla
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e464585-4ba8-4503-92fc-e3d1b73a96f6.jpg)
 
 Apple, ancora nelle mani di Steve Jobs, è riuscita a mettere in piedi una macchina mediatica senza precedenti. Il lancio dei nuovi prodotti si è trasformato da un evento per specialisti del settore ad un evento quasi consumer. Se fino al 2007 partecipavano al _WWDC - Worldwide Developers Conference _circa tra le 2 e le 3 mila persone, dal 2008 Apple ha dovuto mettere un limite massimo di 5 mila persone, lasciando fuori molti fan. E la richiesta fu talmente forte da obbligare l'azienda a dare in diretta streaming l'evento anche su internet per le migliaia di fan che, in giro per il mondo, volevano seguire la presentazione del CEO. Il Keynote è quindi diventato un modo di comunicare con i propri consumatori più avanzati, gli _early adopter_ e gli _enthusiast_, fantastici ambasciatori del brand e spesso più efficaci di qualsivoglia spot TV. Una cosa che qualunque azienda sogna e poche hanno.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e464585-4ba8-4503-92fc-e3d1b73a96f6.jpg)
 
 Nel [Keynote][0] di Ottobre, quello in cui il CEO di Apple Tim Cook ha presentato gli ultimi prodotti, nel battage mediatico attorno ai nuovi iPhone 6 e 6+ e al futuro Apple Watch (non ancora in distribuzione) è passata quasi silenziosa un'innovazione che nessuno aveva mai osato prima: la chiamano Apple SIM e la maggioranza del grande pubblico non sa, ad oggi ma presto le cose cambieranno, nemmeno che esista.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/132f8696-4a8a-42c1-be18-aa9b0e7b8fd9.jpg)
