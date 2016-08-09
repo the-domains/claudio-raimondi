@@ -34,6 +34,9 @@ navigation:
   - name: PRESS
     url: 'http://press.ClaudioRaimondi.com'
     type: external
+  - name: ABOUT ME
+    id: 9a310db8-471e-475d-8ab1-52b7af6069d1
+    type: content
 favicon: null
 collections:
   - index:
