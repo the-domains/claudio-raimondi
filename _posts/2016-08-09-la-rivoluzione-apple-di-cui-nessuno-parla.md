@@ -1,15 +1,9 @@
 ---
-datePublished: '2016-08-09T19:38:06.690Z'
-sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
-author: []
-via: {}
-dateModified: '2016-08-09T19:38:06.136Z'
-title: La rivoluzione Apple di cui nessuno parla
-publisher: {}
 description: >-
   Apple, ancora nelle mani di Steve Jobs, è riuscita a mettere in piedi una
   macchina mediatica senza precedenti. Il lancio dei nuovi prodotti si è
@@ -20,8 +14,18 @@ description: >-
   richiesta fu talmente forte da obbligare l'azienda a dare in diretta streaming
   l'evento anche su internet per le migliaia di fan che, in giro per il mondo,
   volevano seguire la presentazione del CEO.
-inLanguage: null
-inNav: false
+datePublished: '2016-08-09T19:57:09.978Z'
+dateModified: '2016-08-09T19:57:02.835Z'
+sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
+author: []
+via: {}
+title: La rivoluzione Apple di cui nessuno parla
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: la-rivoluzione-apple-di-cui-nessuno-parla/index.html
 _type: Article
