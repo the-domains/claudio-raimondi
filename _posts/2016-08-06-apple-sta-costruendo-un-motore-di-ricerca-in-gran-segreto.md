@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T15:03:03.477Z'
+datePublished: '2016-08-09T18:15:33.383Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T15:03:02.661Z'
+dateModified: '2016-08-09T18:15:32.618Z'
 title: Apple sta costruendo un motore di ricerca in gran segreto
 publisher: {}
 description: >-
@@ -21,7 +21,7 @@ description: >-
   gesto e l’animale, con una semplicità aberrante, risponde: “È la mia natura”
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto/index.html
 _type: Article
 
