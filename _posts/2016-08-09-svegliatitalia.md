@@ -1,19 +1,24 @@
 ---
+datePublished: '2016-08-09T20:57:58.327Z'
+sourcePath: _posts/2016-08-09-svegliatitalia.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-09T20:55:50.552Z'
-dateModified: '2016-08-09T20:55:49.819Z'
-title: '#svegliatitalia'
 author: []
 via: {}
-authors: []
+dateModified: '2016-08-09T20:57:57.942Z'
+title: '#svegliatitalia'
 publisher: {}
+description: >-
+  Sono giorni importanti per molte persone in Italia. Il dibattito sulle unioni
+  civili, che da tempo anima il Paese, entrerà in Parlamento con la discussione
+  del disegno di legge al Senato tra pochi giorni. Oggi, invece, molte piazze
+  italiane si coloreranno di manifestazioni a sostegno dei diritti della
+  comunità LGBT, al grido di #Svegliatitalia.
+inLanguage: null
+inNav: false
 starred: false
-sourcePath: _posts/2016-08-09-svegliatitalia.md
 url: svegliatitalia/index.html
 _type: Article
 
@@ -21,3 +26,23 @@ _type: Article
 # \#svegliatitalia
 
 Sono giorni importanti per molte persone in Italia. Il dibattito sulle unioni civili, che da tempo anima il Paese, entrerà in Parlamento con la discussione del disegno di legge al Senato tra pochi giorni. Oggi, invece, molte piazze italiane si coloreranno di manifestazioni a sostegno dei diritti della comunità LGBT, al grido di \#Svegliatitalia.
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/09beba4bffa4d7d5cc50dcbec464bd65/croprotate.png?cropheight=270&cropwidth=698&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3f5ca65e-adde-4f19-a4de-2f15f4835c94.png&x=0&y=64)
+
+Noi di eBay siamo da sempre in prima linea per il sostegno ai diritti della comunità LGBT e da sempre consideriamo la tutela delle diversità e l'inclusione nostre priorità. Per questo **eBay ha deciso di rendere pubblica la propria posizione in favore della libertà di amare e del riconoscimento di uguali diritti per tutte le coppie.**
+
+Sentiamo la responsabilità che deriva dal nostro DNA globale e dall'essere leader dell'e-commerce. La tecnologia è strumento di democratizzazione del commercio e, per noi, si deve porre come obiettivo la creazione di maggiori opportunità per tutti. Nessuno escluso. Inclusione per eBay significa un impegno continuo e convinto per la tutela della diversità, nelle scelte di politica aziendale come nella vita di tutti i giorni: crediamo che l'attenzione di ciascuno di noi sul tema della diversità possa fare concretamente la differenza per la vita di tutti. Con questa scelta vogliamo esprimere pubblicamente il nostro sostegno alla comunità LGBT e il nostro impegno a sconfiggere le ineguaglianze nei confronti delle coppie dello stesso sesso in Italia.
+
+A partire da oggi e fino al voto in Senato, dipingeremo l'homepage di [eBay.it][0] e i nostri canali [Twitter][1] e [Facebook][2] dei colori dell'arcobaleno: [\#Svegliatitalia][3].
+
+Stamattina, come e più di ogni giorno, sono orgoglioso di far parte della grande community di eBay.
+
+**Claudio Raimondi**
+
+    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js????????????????????????????????????#pubid=ra-57a713d36b8b127f"></script>
+
+
+
+[0]: https://www.ebay.it/
+[1]: http://twitter.com/ebay_italia
+[2]: http://www.facebook.com/ebay.it
+[3]: https://twitter.com/hashtag/svegliatitalia
