@@ -1,15 +1,9 @@
 ---
-datePublished: '2016-08-09T20:28:08.106Z'
-sourcePath: _posts/2016-08-09-tutti-sanno-dove-sei.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
-author: []
-via: {}
-dateModified: '2016-08-09T20:28:07.207Z'
-title: Tutti sanno dove sei
-publisher: {}
 description: >-
   Negli ultimi anni grazie all'avvento dei Social e degli smartphone è entrato
   nel nostro vocabolario un nuovo termine: la location, la nostra posizione,
@@ -18,8 +12,18 @@ description: >-
   tecnologie come beacon, wifi e bluetooth) per condividere su internet a quale
   latitudine, longitudine e altezza ci troviamo. Tutto questo in maniera
   passiva, chiedendo all'utente lo sforzo minimo possibile, cioè nulla.
-inLanguage: null
-inNav: false
+datePublished: '2016-08-09T20:30:27.814Z'
+dateModified: '2016-08-09T20:30:21.833Z'
+title: Tutti sanno dove sei
+author: []
+via: {}
+sourcePath: _posts/2016-08-09-tutti-sanno-dove-sei.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: tutti-sanno-dove-sei/index.html
 _type: Article
