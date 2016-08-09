@@ -1,4 +1,9 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   Google è senza dubbio il più conosciuto ed utilizzato motore di ricerca al
   mondo, con forse la doverosa eccezione della popolosissima Cina e, più in
@@ -8,18 +13,17 @@ description: >-
   l'esito degli esami medici per redigere il nostro referto ancora prima di aver
   incontrato lo specialista (spesso generando inutile terrorismo e prendendo
   inguaribili cantonate).
-dateModified: '2016-08-09T20:37:16.585Z'
-datePublished: '2016-08-09T20:37:28.826Z'
+datePublished: '2016-08-09T20:41:42.013Z'
+dateModified: '2016-08-09T20:41:27.564Z'
 title: 'L''amorevole guerra fratricida tra Apple, Google e Samsung'
 author: []
-publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-09-lamorevole-guerra-fratricida-tra-apple-google-e-samsung.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: {}
+starred: false
+url: lamorevole-guerra-fratricida-tra-apple-google-e-samsung/index.html
+_type: Article
 
 ---
 # L'amorevole guerra fratricida tra Apple, Google e Samsung
