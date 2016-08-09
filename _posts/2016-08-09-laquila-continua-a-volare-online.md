@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-08-09T21:05:50.991Z'
+datePublished: '2016-08-09T21:06:12.237Z'
+sourcePath: _posts/2016-08-09-laquila-continua-a-volare-online.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T21:05:20.221Z'
+dateModified: '2016-08-09T21:06:11.676Z'
 title: L'Aquila continua a volare. Online.
 publisher: {}
 description: >-
@@ -20,7 +21,6 @@ description: >-
 inLanguage: null
 inNav: false
 starred: false
-sourcePath: _posts/2016-08-09-laquila-continua-a-volare-online.md
 url: laquila-continua-a-volare-online/index.html
 _type: Article
 
@@ -40,7 +40,7 @@ Credo fermamente che ci sia ancora molto da fare per la digitalizzazione e la di
 
 **Claudio Raimondi**
 
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js????????????????????????????????????????????#pubid=ra-57a713d36b8b127f"></script>
+    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js???????????????????????????????????????????????#pubid=ra-57a713d36b8b127f"></script>
 
 
 
