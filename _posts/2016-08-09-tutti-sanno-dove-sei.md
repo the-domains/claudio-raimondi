@@ -1,9 +1,15 @@
 ---
+datePublished: '2016-08-09T20:27:45.958Z'
+sourcePath: _posts/2016-08-09-tutti-sanno-dove-sei.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-09T20:27:45.393Z'
+title: Tutti sanno dove sei
+publisher: {}
 description: >-
   Negli ultimi anni grazie all'avvento dei Social e degli smartphone è entrato
   nel nostro vocabolario un nuovo termine: la location, la nostra posizione,
@@ -12,18 +18,8 @@ description: >-
   tecnologie come beacon, wifi e bluetooth) per condividere su internet a quale
   latitudine, longitudine e altezza ci troviamo. Tutto questo in maniera
   passiva, chiedendo all'utente lo sforzo minimo possibile, cioè nulla.
-datePublished: '2016-08-09T20:27:10.004Z'
-dateModified: '2016-08-09T20:26:55.827Z'
-title: Tutti sanno dove sei
-author: []
-via: {}
-sourcePath: _posts/2016-08-09-tutti-sanno-dove-sei.md
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+inLanguage: null
+inNav: false
 starred: false
 url: tutti-sanno-dove-sei/index.html
 _type: Article
@@ -42,7 +38,7 @@ Oggi qualcosa è cambiato. Con l'avvento del web tutto è diverso: ci siamo grad
 
 Uno degli utilizzi più immediati e comodi della nostra location è aggiungere un promemoria che preveda una notifica non ad un determinato orario ma in un determinato luogo. Ad esempio, _"ricordami di chiamare Anna quando esco dall'ufficio". _Ma Google Android e Apple iOS si spingono oltre. Dal momento che registra la propria posizione costantemente, dopo qualche giorno di utilizzo il nostro smartphone è in grado di sapere quale strada percorreremo quella mattina e avvisarci se troveremo traffico in maniera tale da sceglierne un'altra. Rispettivamente Google ed Apple lo fanno già oggi con con [Google Now][0] o il Centro Notifiche di Apple Today e, con [Location History][1] e [Frequent Locations][2], sono in grado di mostrare i nostri percorsi abituali e con che frequenza visitiamo certi luoghi.
 
-Avere traccia del nostro percorso giornaliero, cioè quando visitiamo quali luoghi, permette di determinare dove lavoriamo e dove viviamo banalmente, analizzando i posti che frequentiamo abitualmente di giorno e dove di notte. E con un volume ampio di utenti, queste informazioni possono portare ad identificare chi sono i nostri colleghi, i nostri familiari e amici. La nostra rete sociale reale, non il _social__network_, e le relative relazioni che intercorrono tra i membri.
+Avere traccia del nostro percorso giornaliero, cioè quando visitiamo quali luoghi, permette di determinare dove lavoriamo e dove viviamo banalmente, analizzando i posti che frequentiamo abitualmente di giorno e dove di notte. E con un volume ampio di utenti, queste informazioni possono portare ad identificare chi sono i nostri colleghi, i nostri familiari e amici. La nostra rete sociale reale, non il _socialnetwork_, e le relative relazioni che intercorrono tra i membri.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FpPqliPzHYyc%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpPqliPzHYyc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpPqliPzHYyc%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
@@ -63,7 +59,7 @@ Presto ci dimenticheremo di come una volta eravamo soliti dire: "_sto arrivando,
 
 **Claudio Raimondi**
 
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js????????????????????????????????#pubid=ra-57a713d36b8b127f"></script>
+    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js????????????????????????????????????#pubid=ra-57a713d36b8b127f"></script>
 
 
 
