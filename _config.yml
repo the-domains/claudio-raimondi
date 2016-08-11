@@ -1,32 +1,10 @@
-typography_spectrum: 0.7173909267876297
-color:
-  saturation: 0.5774366860277951
-  brandStrength: 0.5742788293864578
-  lightness: 0.18678110023029149
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  rhythmicContrast: 0.9897940631490201
-opengraph:
-  image: null
-  type: null
-  appId: '288651771490588'
+name: 'Claudio Raimondi, General Manager at eBay in Italy'
+favicon: null
 layout_spectrum: 0.679377
-analytics:
-  twitter: null
-  google: UA-5050578-6
-  facebook: '260942680957678'
+typography_spectrum: 0.48934
 author:
   name: Claudio Raimondi
   url: www.ClaudioRaimondi.com
-name: 'Claudio Raimondi, General Manager at eBay in Italy'
-cta:
-  bucket: null
-  version: null
-  domain: null
 navigation:
   - name: BLOG
     url: 'http://www.ClaudioRaimondi.com'
@@ -37,7 +15,6 @@ navigation:
   - name: ABOUT ME
     id: 9a310db8-471e-475d-8ab1-52b7af6069d1
     type: content
-favicon: null
 collections:
   - index:
       path: /
@@ -52,4 +29,27 @@ collections:
       path: '/:title/'
 title: Claudio Raimondi
 description: HUB
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-5050578-6
+  facebook: '260942680957678'
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: '288651771490588'
+color:
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.5742788293864578
+  lightness: 0.18678110023029149
+  saturation: 0.5774366860277951
+  rhythmicContrast: 0.9897940631490201
 purpose: []
