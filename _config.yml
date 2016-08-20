@@ -37,6 +37,9 @@ navigation:
   - name: CLAUDIO RAIMONDI
     id: 9a310db8-471e-475d-8ab1-52b7af6069d1
     type: content
+  - name: on Twitter
+    url: 'http://www.twitter.com/ClaudioRaimondi'
+    type: external
 favicon: null
 collections:
   - index:
