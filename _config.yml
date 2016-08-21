@@ -1,4 +1,3 @@
-layout_spectrum: 0.18838254176080227
 typography_spectrum: 0.33121613319963217
 color:
   brandColors:
@@ -12,9 +11,11 @@ color:
   saturation: 0.24435307760722935
   rhythmicContrast: 0.5848044478334486
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/589045e1-797f-4222-b7b2-e03ae0966097.jpg
   type: null
   appId: '288651771490588'
+layout_spectrum: 0.18838254176080227
 analytics:
   google: UA-5050578-6
   facebook: '260942680957678'
