@@ -18,7 +18,7 @@ opengraph:
 layout_spectrum: 0.08576470706611872
 analytics:
   google: UA-5050578-6
-  facebook: '260942680957678'
+  facebook: null
   twitter: null
 author:
   name: Claudio Raimondi
