@@ -25,7 +25,7 @@ author:
   url: www.ClaudioRaimondi.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a49c81-c304-436f-a3ca-2500b22a0665.jpg
-name: Blog
+name: Claudio Raimondi
 cta:
   domain: null
   bucket: null
@@ -60,6 +60,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Claudio Raimondi
+title: BLOG
 description: 'Claudio Raimondi, General Manager at eBay in Italy'
 purpose: []
