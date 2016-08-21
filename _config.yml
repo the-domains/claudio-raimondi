@@ -28,7 +28,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: BLOG
+  - name: blog
     url: 'http://www.ClaudioRaimondi.com'
     type: external
   - name: press
