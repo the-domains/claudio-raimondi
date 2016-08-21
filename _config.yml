@@ -1,4 +1,3 @@
-layout_spectrum: 0.679377
 typography_spectrum: 0.3620376877952367
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: '288651771490588'
+layout_spectrum: 0.679377
 analytics:
   google: UA-5050578-6
   facebook: '260942680957678'
@@ -34,7 +34,7 @@ navigation:
   - name: PRESS
     url: 'http://press.ClaudioRaimondi.com'
     type: external
-  - name: ABOUT ME
+  - name: about me
     id: 9a310db8-471e-475d-8ab1-52b7af6069d1
     type: content
   - name: on Twitter
