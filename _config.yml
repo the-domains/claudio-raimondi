@@ -37,12 +37,12 @@ navigation:
   - name: press
     url: 'http://press.ClaudioRaimondi.com'
     type: external
-  - name: on Twitter
-    url: 'http://www.twitter.com/ClaudioRaimondi'
-    type: external
   - name: about  me
     id: 9a310db8-471e-475d-8ab1-52b7af6069d1
     type: content
+  - name: on Twitter
+    url: 'http://www.twitter.com/ClaudioRaimondi'
+    type: external
   - name: on LinkedIn
     url: 'https://www.linkedin.com/in/craimondi'
     type: external
