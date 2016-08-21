@@ -22,6 +22,8 @@ analytics:
 author:
   name: Claudio Raimondi
   url: www.ClaudioRaimondi.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a49c81-c304-436f-a3ca-2500b22a0665.jpg
 name: 'Claudio Raimondi, General Manager at eBay in Italy'
 cta:
   domain: null
@@ -40,7 +42,8 @@ navigation:
   - name: on Twitter
     url: 'http://www.twitter.com/ClaudioRaimondi'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e9da336-8579-432a-adcc-304b541551c5.jpg
 collections:
   - index:
       path: /
