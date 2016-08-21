@@ -31,7 +31,7 @@ navigation:
   - name: BLOG
     url: 'http://www.ClaudioRaimondi.com'
     type: external
-  - name: PRESS
+  - name: press
     url: 'http://press.ClaudioRaimondi.com'
     type: external
   - name: about me
