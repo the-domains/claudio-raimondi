@@ -37,15 +37,15 @@ navigation:
   - name: press
     url: 'http://press.ClaudioRaimondi.com'
     type: external
+  - name: about me
+    id: 0ddfb149-be62-49bb-a17c-56a2dc5c6417
+    type: content
   - name: on Twitter
     url: 'http://www.twitter.com/ClaudioRaimondi'
     type: external
   - name: on LinkedIn
     url: 'https://www.linkedin.com/in/craimondi'
     type: external
-  - name: about me
-    id: 0ddfb149-be62-49bb-a17c-56a2dc5c6417
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e9da336-8579-432a-adcc-304b541551c5.jpg
 collections:
