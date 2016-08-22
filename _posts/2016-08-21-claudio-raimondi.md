@@ -10,18 +10,14 @@ description: >-
   behind human relationships. Strong advocate of innovation and lateral
   thinking, I am fascinated by how these allow individuals and organizations to
   shape tomorrow’s world whilst addressing today’s challenges.
-datePublished: '2016-08-21T22:56:16.072Z'
-dateModified: '2016-08-21T22:56:01.723Z'
+datePublished: '2016-08-21T22:57:18.917Z'
+dateModified: '2016-08-21T22:57:18.302Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-21-claudio-raimondi.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: claudio-raimondi/index.html
 _type: Blurb
