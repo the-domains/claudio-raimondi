@@ -1,7 +1,21 @@
-typography_spectrum: 0.3979592
+title: BLOG
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: 'Claudio Raimondi, General Manager at eBay in Italy'
 color:
   saturation: 0.6084855
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.1680988
   brandColors:
     - '#FFFFFF'
@@ -10,26 +24,6 @@ color:
     - '#4D4D4D'
     - '#333333'
   rhythmicContrast: 0
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/589045e1-797f-4222-b7b2-e03ae0966097.jpg
-  type: null
-  appId: '288651771490588'
-layout_spectrum: 0.6719118407927454
-analytics:
-  twitter: null
-  google: UA-5050578-6
-  facebook: null
-author:
-  name: Claudio Raimondi
-  url: www.ClaudioRaimondi.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a49c81-c304-436f-a3ca-2500b22a0665.jpg
-name: Claudio Raimondi
-cta:
-  bucket: null
-  version: null
-  domain: null
 navigation:
   - name: blog
     url: 'http://www.ClaudioRaimondi.com'
@@ -43,23 +37,26 @@ navigation:
   - name: on LinkedIn
     url: 'https://www.linkedin.com/in/craimondi'
     type: external
-  - name: about me
-    id: fc9f93df-c3a9-4529-9d34-315dcaebf070
-    type: content
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Claudio Raimondi
+author:
+  name: Claudio Raimondi
+  url: www.ClaudioRaimondi.com
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e9da336-8579-432a-adcc-304b541551c5.jpg
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: BLOG
-description: 'Claudio Raimondi, General Manager at eBay in Italy'
-purpose: []
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/589045e1-797f-4222-b7b2-e03ae0966097.jpg
+  type: null
+  appId: '288651771490588'
+analytics:
+  twitter: null
+  google: UA-5050578-6
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a49c81-c304-436f-a3ca-2500b22a0665.jpg
+typography_spectrum: 0.3979592
+layout_spectrum: 0.3012889
