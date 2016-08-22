@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T21:07:37.331Z'
+datePublished: '2016-08-21T22:25:11.445Z'
 sourcePath: _posts/2016-08-09-laquila-continua-a-volare-online.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T21:07:36.591Z'
+dateModified: '2016-08-21T22:25:10.895Z'
 title: L'Aquila continua a volare. Online.
 publisher: {}
 description: >-
@@ -39,9 +39,5 @@ Credo fortemente che l'online non si debba sostituire ma, anzi, affiancare al co
 Credo fermamente che ci sia ancora molto da fare per la digitalizzazione e la diffusione dell'e-commerce, ma sono altrettanto convinto che questa iniziativa potrà costituire un volàno importante per l'economia aquilana così come già lo è per oltre 30 mila imprese italiane che ci onorano ogni giorno di aver scelto eBay. Una convinzione che, ancora una volta, arriva dalla voce e lo sguardo dei tanti imprenditori aquilani che hanno già sposato con entusiasmo questa iniziativa e che mi ospiteranno nel loro territorio venerdì. A loro va il mio accorato ringraziamento per essersi messi in gioco ancora una volta e il mio più sincero _n'bocca à ju lupe \[in bocca al lupo\]_.
 
 **Claudio Raimondi**
-
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js???????????????????????????????????????????????????????????#pubid=ra-57a713d36b8b127f"></script>
-
-
 
 [0]: http://www.ebay.it/laquila
