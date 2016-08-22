@@ -14,7 +14,7 @@ collections:
       path: '/:title/'
 description: 'Claudio Raimondi, General Manager at eBay in Italy'
 color:
-  saturation: 0.9672395
+  saturation: 0.4280344
   brandStrength: 0.8372717
   lightness: 0.1809882
   brandColors:
@@ -59,4 +59,4 @@ analytics:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a49c81-c304-436f-a3ca-2500b22a0665.jpg
 typography_spectrum: 0.3979592
-layout_spectrum: 0.3012889
+layout_spectrum: 0.03705691
