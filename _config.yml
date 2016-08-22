@@ -43,6 +43,9 @@ navigation:
   - name: on LinkedIn
     url: 'https://www.linkedin.com/in/craimondi'
     type: external
+  - name: about me
+    id: fc9f93df-c3a9-4529-9d34-315dcaebf070
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e9da336-8579-432a-adcc-304b541551c5.jpg
 collections:
