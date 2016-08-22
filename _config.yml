@@ -23,7 +23,7 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 navigation:
   - name: blog
     url: 'http://www.ClaudioRaimondi.com'
