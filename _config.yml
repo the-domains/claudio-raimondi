@@ -1,22 +1,35 @@
-name: Claudio Raimondi
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e9da336-8579-432a-adcc-304b541551c5.jpg
-layout_spectrum: 0.33138
 typography_spectrum: 0.3144528514239937
-title: BLOG
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-description: 'Claudio Raimondi, General Manager at eBay in Italy'
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 1
+  lightness: 0.25
+  saturation: 0.5625
+  rhythmicContrast: 0.25
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/589045e1-797f-4222-b7b2-e03ae0966097.jpg
+  type: null
+  appId: '288651771490588'
+layout_spectrum: 0.33138
+analytics:
+  google: UA-5050578-6
+  facebook: null
+  twitter: null
+author:
+  name: Claudio Raimondi
+  url: www.ClaudioRaimondi.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a49c81-c304-436f-a3ca-2500b22a0665.jpg
+name: Claudio Raimondi
+cta:
+  domain: null
+  bucket: null
+  version: null
 navigation:
   - name: blog
     url: 'http://www.ClaudioRaimondi.com'
@@ -30,33 +43,23 @@ navigation:
   - name: on LinkedIn
     url: 'https://www.linkedin.com/in/craimondi'
     type: external
-author:
-  name: Claudio Raimondi
-  url: www.ClaudioRaimondi.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a49c81-c304-436f-a3ca-2500b22a0665.jpg
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-5050578-6
-  facebook: null
-  twitter: null
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/589045e1-797f-4222-b7b2-e03ae0966097.jpg
-  type: null
-  appId: '288651771490588'
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 1
-  lightness: 0.25
-  saturation: 0.5625
-  rhythmicContrast: 0.25
+  - name: about me
+    id: 0ddfb149-be62-49bb-a17c-56a2dc5c6417
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e9da336-8579-432a-adcc-304b541551c5.jpg
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: BLOG
+description: 'Claudio Raimondi, General Manager at eBay in Italy'
 purpose: []
