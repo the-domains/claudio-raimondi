@@ -1,5 +1,50 @@
-title: BLOG
-purpose: []
+typography_spectrum: 0.3979592
+color:
+  saturation: 0.6084855
+  brandStrength: 1
+  lightness: 0.1680988
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/589045e1-797f-4222-b7b2-e03ae0966097.jpg
+  type: null
+  appId: '288651771490588'
+layout_spectrum: 0.6719118407927454
+analytics:
+  twitter: null
+  google: UA-5050578-6
+  facebook: null
+author:
+  name: Claudio Raimondi
+  url: www.ClaudioRaimondi.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a49c81-c304-436f-a3ca-2500b22a0665.jpg
+name: Claudio Raimondi
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: blog
+    url: 'http://www.ClaudioRaimondi.com'
+    type: external
+  - name: press
+    url: 'http://press.ClaudioRaimondi.com'
+    type: external
+  - name: on Twitter
+    url: 'http://www.twitter.com/ClaudioRaimondi'
+    type: external
+  - name: on LinkedIn
+    url: 'https://www.linkedin.com/in/craimondi'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e9da336-8579-432a-adcc-304b541551c5.jpg
 collections:
   - index:
       path: /
@@ -12,54 +57,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: BLOG
 description: 'Claudio Raimondi, General Manager at eBay in Italy'
-color:
-  saturation: 0.6084855
-  brandStrength: 1
-  lightness: 0.1680988
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0
-navigation:
-  - name: blog
-    url: 'http://www.ClaudioRaimondi.com'
-    type: external
-  - name: press
-    url: 'http://press.ClaudioRaimondi.com'
-    type: external
-  - name: about me
-    id: 9a310db8-471e-475d-8ab1-52b7af6069d1
-    type: content
-  - name: on Twitter
-    url: 'http://www.twitter.com/ClaudioRaimondi'
-    type: external
-  - name: on LinkedIn
-    url: 'https://www.linkedin.com/in/craimondi'
-    type: external
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: Claudio Raimondi
-author:
-  name: Claudio Raimondi
-  url: www.ClaudioRaimondi.com
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e9da336-8579-432a-adcc-304b541551c5.jpg
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/589045e1-797f-4222-b7b2-e03ae0966097.jpg
-  type: null
-  appId: '288651771490588'
-analytics:
-  twitter: null
-  google: UA-5050578-6
-  facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a49c81-c304-436f-a3ca-2500b22a0665.jpg
-typography_spectrum: 0.3979592
-layout_spectrum: 0.6719118407927454
+purpose: []
