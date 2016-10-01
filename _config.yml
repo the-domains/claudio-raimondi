@@ -23,7 +23,8 @@ analytics:
   twitter: null
 author:
   name: Claudio Raimondi
-  url: www.ClaudioRaimondi.com
+  url: 'http://www.ClaudioRaimondi.com'
+  email: prova@prova.it
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a49c81-c304-436f-a3ca-2500b22a0665.jpg
 name: BLOG - Claudio Raimondi
