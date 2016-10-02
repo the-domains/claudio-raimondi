@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:25:05.893Z'
+datePublished: '2016-10-02T16:31:53.564Z'
 sourcePath: _posts/2016-08-09-laquila-continua-a-volare-online.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:25:05.365Z'
+dateModified: '2016-10-02T16:31:52.909Z'
 title: L'Aquila continua a volare. Online.
 publisher: {}
 description: >-
@@ -39,7 +39,7 @@ Credo fermamente che ci sia ancora molto da fare per la digitalizzazione e la di
 
 **Claudio Raimondi**
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNUk1P4zAQvedXjHpJoiXOfUmLgFaiKwQrUYkjmsRTMsixg-0EoYX_vpO0RStO64Nlz7yZ9-aj0jwC6-VCc3gdwlNsPaFerKpSHKukCo3nPq6SZEQPR0zj7J6fYQn7wTaRnYUshz8JyIktB9XjM6nBG0GkbYz9z7JsDA6anUfunNWsGteVBl8HNlhIush2wAKL0Rn0VDhr2FJ6_i0laxLknslPmf8n_vM8SbKTykkklCWs7-_SHWzW2x1cbW7vH2F3s32A2-3dZuabCxUC7ZqhE8IzCNNPNdKYSBtDkzFLD41J84PIoIJvZlXfSxV5nTo0bq6aupq0egnpVyDFyxg910OkLNUYsYjcUYjY9ekZ_LD0BmthzvIjV6ZVKzOCjw9RVTv9nivse7L6umWjsyCwzzyTuypP06usOz5_G8JAQBZrQ_ALR3yYHRAdjCxUsSWoEGQN9svFNL0g4_tH_4U4nk7pFisxTf0I0Ls38qShfof1AV2VKGv0xfwXgwrN7w" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNUlFr2zAQfvevOLIH27S2HweNk7EtgaaUdtBAH8tZOsfaZMmVZJew5r_v7Lil9GkWGEn33X3f3afSh6OmdVRZeYS_EfBXofhzcLY3MhNWW3cFX-qv41pGp6gs5oSolGoAJVcLqfxz759C4wjlYl0WHFhHpRdOdYGBAzqYMcKaWh1gBXVvRFDWQJLOrKFRPu_wQHnvNCPiJoTuqiiExl4q61C11kiVC9sWGp97pZHlmaBMjxlmg9XoKLNGK0Px8lNJJYmRtSI3Vv6f_NMyipI3laNIKArY3N_Fe9hudnv4sb29f4T99e4Bbnd324lvapQJpBV9y4SX4MdTLngwgbaaxsskPg8mTs8ife6dmFR9bpXltfl5cFPX1FYk898-fk-k8D0Ep6o-UBJLDJgF1ZIP2HbxJVwYeoENMyfpzJXIvGGP4PWVVY2Opzl2HRn5s1FaJp5hpzThP7s8u1caO29_aUJPQAYrTXCDAz5MAQgWBsVUoSEoEfgZ1KvF6J5n-z7o_8aBp7dyizVfjfPw0NkXciShOsLmjC4L5Gf0zvwPKEvf8Q" height="244" style=""></iframe>
 
 
 
