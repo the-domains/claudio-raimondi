@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:27:20.239Z'
+datePublished: '2016-10-02T16:33:08.746Z'
 sourcePath: _posts/2016-08-09-pmi-e-ecommerce-da-opportunita-a-rischio.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:27:19.760Z'
+dateModified: '2016-10-02T16:33:08.185Z'
 title: 'PMI e ecommerce: da opportunità a rischio'
 publisher: {}
 description: >-
@@ -43,7 +43,7 @@ L'ecommerce oggi rappresenta un rischio per le PMI italiane. **Il rischio è que
 
 **Claudio Raimondi**
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUsFu2zAMvfsriFxsY7V8X50U2xJgGYp2QAP0WMgSU3OwJU2iUxRr_320kxRDL0N5ECiR4nvkY2PpAGSXC0vp95geuIuo7WLV1BJYZU0ykQKvsuygI5xyjHd7eoQl7EdnmLyDooQ_GYhxR0kF_YhqjL1k5B1z-FzXptejJR81Dd5ZUsYPdRiowgrFHTAarKyufAg-8uiIdaWrSMl05PPLd6XJomPaE8YJ4SN1Xi-zrDiznkhDXcP69ibfwWa93cHXzfXtPey-b-_genuzmXHnxgXIejMOAnwBabopI4Ni3PQ4PRb5cVB5eSSbVIpmZve-9Up4quMg5yng0KJVv1L-9hH5C3OkdmQscqulBaYBE-sh5BfwyeETrAW5KE9YhVWdaAYvL8Kq9fa5VDoEdPZbR70tkqS9loWcTX1Ws3H-5P7sUScEdLrtEX7og76bA8AeDiRQ3CE0GmQt9svFpGYSOf_hfyWBh3O5xWpWwXGC4J8wooX2GdbH7KbWslZvyDP3_9lfNMzYKQ" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUlFr2zAQfvevOLIH26y2HweNk7EtgWWUdtBAH4ssnePbbMmTzilhzX_f2XHL6MuYDELWfbrvu_uuDHxqcR1VzpzgdwSyKqV_HrwbrMm0a52_hnf1h_FbRueoLOYHUWnoCGRWC0Ph1xAeufGozGJdFhJYR2XQnnoW4FF5mDHa2ZoOsIJ6sJrJWUjSmZUbCnmvDpgPvhVE3DD310WhWzUYcl5R56yhXLuu6DvKMEM5dug1ZkZlru-d58ESq0xlnoJuyMXLN6nJoGWqCf3I8D95zssoSl5Uj6KhKGBzdxvvYbvZ7eHz9ubuAfZfd_dws7vdTrxT4UJknB46Ib6CMP7lWhrFuG1xvEziS6Pi9CI25MHrSd3b0sWNLr80cuoCdhWa_EeIXx8if2L2VA2MSWyUlMDUYWDV9fEVvLf4BBthTtKZKzF5I57B87OoGicgzVXfozVfGmpNEgR2ThPZxfXZzdK6-fi9RRUQ0KqqRfimjup-CgA7OJJQcYNQKpCxqFeL0c0gdv6l_6MEHl_SLdaTC5YD9O4JPRqoTrC5oMtCyVi9Mk_a_7X-AJSk6is" height="244" style=""></iframe>
 
 
 
