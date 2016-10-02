@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:32:02.366Z'
+datePublished: '2016-10-02T18:36:15.818Z'
 sourcePath: _posts/2016-08-09-svegliatitalia.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:32:01.776Z'
+dateModified: '2016-10-02T18:36:15.300Z'
 title: '#svegliatitalia'
 publisher: {}
 description: >-
@@ -37,7 +37,7 @@ Stamattina, come e più di ogni giorno, sono orgoglioso di far parte della grand
 
 **Claudio Raimondi**
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyFUl1vm0AQfOdXrJwHQE3gsVKMHbW1pbqKkkqxlMfouFvMtnBH7xYiq_F_74JJVKUPPSQ-budmZncoAh8bXEelM0f4HYGsUumfB-96a660a5y_hovq43gto1NU5POBqDA0AJnVwlD41Ycnrj0qs1gXuRTWURG0p44FOCgPM0Y7W9EBVlD1VjM5C0k6q3JNIevUAbPeN4KIa-buOs91o3pDzitqnTWUadfmYcBDQ4qJlTzi5TsCMmiZKkI_8vyLPi2jKHl1MBqAPIfN_V28h-1mt4fP29v7R9h_3T3A7e5uO7FPTQidcbpvhf4SwviVaWmacdvguJnE56bj9GwpZMHrycP7NmSybXYeytQRtiWa7EeI3w4if2L2VPaMSWwUqyumFgOrtosv4YPFZ9iIcpLOWonJapk_vLyIqzHNNFNdh9Z8qakxSRDYKU3kLgnOyRTWza_fG1QBAa0qG4RvalAPUwHYwUAixTVCoUAirlaLMZkg0fzl_0YKT690i7VsjfMI0Lln9GigPMLmjC5yJb_Im_Lk_X_rD_Sp10c" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyFUsFu2zAMvfsriPRgB2vt44DGydAuAZahaAckwI6FLNExN1vyJNpFsObfRztuMeRSGbBs8ol8fE954GONq6hw5gh_I5BVKP374F1nzY12tfO3cFV-Hp5FdIrybDoQ5YZ6ILOcGQp_uvDMlUdlZqs8k8QqyoP21LIAe-VhwmhnSzrAEsrOaiZnIZlPXbmikLbqgGnna0HEFXN7m2W6Vp0h5xU1zhpKtWuy0OOhJsXESrZ4cVGADFqmktAPdT5CS7zGAXi1uwSeFlGUvFEdmEKWwfrpMd7DZr3dw_3m4ekn7L9td_CwfdyMhcdppZxxumuExzWE4S_Vog7jpsYhmMRndeL5mU1Ig9cj2ct5xYImPas3jo5NgSb9FeL3g8h3zJ6KjjGJjWJ1w9RgYNW08TV8svgCa-mczKdeiUkrMQpeX4XVYPs8VW2L1nytqDZJENhpnshbrJ4szK2bPn_UqAICWlWIaN9Vr3ZjAthBT9KKK4RcgdyFcjkbLAzi4X_8v0ji-a3cbCWhQY8ArXtBjwaKI6zP6DxTcpfeO4_cP1r_AG-w5IA" height="244" style=""></iframe>
 
 
 
