@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-01T20:17:20.751Z'
+datePublished: '2016-10-02T09:57:25.747Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-01T20:17:19.965Z'
+dateModified: '2016-10-02T09:57:04.722Z'
 title: Apple sta costruendo un motore di ricerca in gran segreto
 publisher: {}
 description: >-
@@ -50,6 +50,10 @@ Il fatto che Siri non abbia un'interfaccia grafica, cioè una pagina web dove re
 Apple sta costruendo un motore di ricerca. E come il migliore dei prestigiatori, lo sta facendo sotto al nostro naso.
 
 **Claudio Raimondi**
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUT1vwjAQ3fkVVipBImEHKBQoCQNSBxYmtqqqjH0JhsSOzg4qqvrfe0AqdfP5nt-XM20uzOg8Kg4cnQvROkvpat3LvELThHVctFYF42ysh8wPCZuw7x5jF4nsRHNx8ixnWpQQ3iqowQa_ue5luZM1xD55H32sCG0KFv_HbK5bHRNVwhBCi_aG6YgUggzQ4YhhRQthNO2MfsCER0VjlKbKWQsqiEIqODh3FhZCasLndp96fRYn__RVHOoqH_cvgJ5C5JeJmPdl02x1Pp5PR8vn2fJlNJouFpPoRk5pRCORlHdOgzDWA4YNFA4h7tImq95PrJ1qb_6GbPDoaUCnPxf85El9kCSrLO1a7GW3nlUlvb9XrVx9rypiWgbJjwhFHh1DaF4pVCVbbRxKUzurjSBsSo4r4J6gyvmALVjteGt57QJZ49pwNApQSW4sL1Fa7qGkal0nYNu6oYckPvv74V_xeKjT" height="244" style=""></iframe>
+
+
 
 [0]: http://www.bloomberg.com/news/articles/2016-01-22/google-paid-apple-1-billion-to-keep-search-bar-on-iphone
 [1]: http://mashable.com/2012/04/05/steve-jobs-larry-page/#o9gSm7vnnPqF
