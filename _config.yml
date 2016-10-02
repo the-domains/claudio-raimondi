@@ -27,15 +27,12 @@ author:
   email: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a49c81-c304-436f-a3ca-2500b22a0665.jpg
-name: BLOG - Claudio Raimondi
+name: Blog
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
-  - name: blog
-    url: 'http://www.ClaudioRaimondi.com'
-    type: external
   - name: press
     url: 'http://press.ClaudioRaimondi.com'
     type: external
