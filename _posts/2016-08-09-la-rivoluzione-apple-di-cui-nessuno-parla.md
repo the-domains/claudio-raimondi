@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:12:06.740Z'
+datePublished: '2016-10-02T16:14:21.885Z'
 sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:12:06.174Z'
+dateModified: '2016-10-02T16:14:21.361Z'
 title: La rivoluzione Apple di cui nessuno parla
 publisher: {}
 description: >-
