@@ -27,7 +27,7 @@ author:
   email: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a49c81-c304-436f-a3ca-2500b22a0665.jpg
-name: sxblog
+name: blog
 cta:
   domain: null
   bucket: null
@@ -59,6 +59,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Claudio Raimondi
+title: CLAUDIO RAIMONDI
 description: Blog
 purpose: []
