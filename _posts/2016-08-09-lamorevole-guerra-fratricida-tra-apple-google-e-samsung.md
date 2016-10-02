@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T18:48:57.337Z'
+datePublished: '2016-10-02T18:49:19.283Z'
 sourcePath: _posts/2016-08-09-lamorevole-guerra-fratricida-tra-apple-google-e-samsung.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T18:48:56.870Z'
+dateModified: '2016-10-02T18:49:18.724Z'
 title: 'L''amorevole guerra fratricida tra Apple, Google e Samsung'
 publisher: {}
 description: >-
