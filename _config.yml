@@ -60,5 +60,5 @@ collections:
     permalink:
       path: '/:title/'
 title: BLOG
-description: BLOG
+description: 'Claudio Raimondi, General Manager'
 purpose: []
