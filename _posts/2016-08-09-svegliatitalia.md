@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:11:07.211Z'
+datePublished: '2016-10-02T16:19:55.812Z'
 sourcePath: _posts/2016-08-09-svegliatitalia.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:11:06.817Z'
+dateModified: '2016-10-02T16:19:55.268Z'
 title: '#svegliatitalia'
 publisher: {}
 description: >-
@@ -37,7 +37,7 @@ Stamattina, come e più di ogni giorno, sono orgoglioso di far parte della grand
 
 **Claudio Raimondi**
 
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js????????????????????????????????????????#pubid=ra-57a713d36b8b127f"></script>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="244" style=""></iframe>
 
 
 
