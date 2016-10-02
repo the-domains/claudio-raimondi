@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T20:58:39.960Z'
+datePublished: '2016-10-02T16:11:07.221Z'
 sourcePath: >-
   _posts/2016-08-09-perche-il-futuro-dellindustria-automobilistica-e-segnato-e.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T20:58:39.116Z'
+dateModified: '2016-10-02T16:11:06.817Z'
 title: >-
   Perché il futuro dell'industria automobilistica è segnato e come hanno vinto
   Apple e Google
@@ -20,7 +20,6 @@ description: >-
   futuro che rivoluzioneranno - e faranno crollare - l'industria automobilistica
   per come la conosciamo oggi.
 inLanguage: null
-inNav: false
 starred: false
 url: perche-il-futuro-dellindustria-automobilistica-e-segnato-e/index.html
 _type: Article
