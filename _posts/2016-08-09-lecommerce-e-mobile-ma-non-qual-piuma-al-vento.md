@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T20:17:20.385Z'
+datePublished: '2016-10-02T16:12:06.738Z'
 sourcePath: _posts/2016-08-09-lecommerce-e-mobile-ma-non-qual-piuma-al-vento.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T20:17:19.635Z'
+dateModified: '2016-10-02T16:12:06.174Z'
 title: 'L''ecommerce è Mobile, ma non qual piuma al vento'
 publisher: {}
 description: >-
@@ -19,7 +19,6 @@ description: >-
   dedicando loro, quando si parla di ecommerce mobile si parla solo di una
   parte, cioè tutte quelle transazioni che si concludono online.
 inLanguage: null
-inNav: false
 starred: false
 url: lecommerce-e-mobile-ma-non-qual-piuma-al-vento/index.html
 _type: Article
