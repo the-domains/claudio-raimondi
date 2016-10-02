@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:18:27.508Z'
+datePublished: '2016-10-02T16:23:35.303Z'
 sourcePath: _posts/2016-08-09-lei-non-sa-chi-sono-io-ma-netflix-si.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:18:26.942Z'
+dateModified: '2016-10-02T16:23:34.781Z'
 title: Lei non sa chi sono io... ma Netflix sì
 publisher: {}
 description: >-
@@ -45,4 +45,4 @@ Tutte le informazioni di profilazione che possiede Netflix e che sono una manna 
 
 **Claudio Raimondi**
 
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js??????????????????????????????????????????????#pubid=ra-57a713d36b8b127f"></script>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNUsFO4zAQvecrRr0k0WLnvqRdLbTSFiFYiUockWNPyKwSO8STsmjh33eStghxwgfLnhm_92aeS0d7ILdcOIpPY3zgZkDjFquykMQqKaMdqOdVkuzNAMcaG3xNj7CEevSWKXjIcviXgCxuKOrePKIeh1Yq0oa5_14UtjWjozAY6oJ3pG3oihZJ-eBVNMo2pGLwQVFQnVEeuW7pr4qUnn-CJYeeqSYcJvSvYrydJ0l2UjuJhaKA9e1NuoPNeruDi8317T3sfm3v4Hp7s5k554aFxAU7dkJ6BnG6aSsDYty0OAWz9DCgND8IjToOdlb2uWUlLevDAOfusavQ6T8xfX-I_JN5oGpkzFJn2CimDiObrk_P4JvHZ1gLc5YfuTKnG_EKXl9FVRXcS65N36N3lw21LotS9pZnspfFycXSh-Pxd4smIqA3VYtwZfbmbk4AB9iTUHGDUBqQ71AvF5OLUWz8oP-HJB5OcIuVhKZ5ROjDMw7ooHqB9aG6LIx8p3fm_wP1z3U" height="244" style=""></iframe>
