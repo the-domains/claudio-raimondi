@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:14:21.898Z'
+datePublished: '2016-10-02T16:15:24.481Z'
 sourcePath: _posts/2016-08-09-lecommerce-e-mobile-ma-non-qual-piuma-al-vento.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:14:21.361Z'
+dateModified: '2016-10-02T16:15:23.889Z'
 title: 'L''ecommerce è Mobile, ma non qual piuma al vento'
 publisher: {}
 description: >-
