@@ -4,9 +4,9 @@
         <description><![CDATA[BLOG]]></description>
         <link>http://claudioraimondi.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 02 Oct 2016 16:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2016 16:16:19 GMT</lastBuildDate>
         <atom:link href="http://claudioraimondi.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Oct 2016 16:15:54 GMT</pubDate>
+        <pubDate>Sun, 02 Oct 2016 16:16:18 GMT</pubDate>
         <item>
             <title><![CDATA[Lei non sa chi sono io... ma Netflix sì]]></title>
             <description><![CDATA[<article><h1>Lei non sa chi sono io... ma Netflix sì</h1><p>In questi giorni si parla tanto dello sbarco in Italia di Netflix, una libreria video che raccoglie migliaia di ore di film e serie TV fruibile tramite internet su qualsiasi device. Netflix è uno dei principali responsabili mondiali del binge-watching (l'abitudine di guardare ininterrottamente molte puntate di una serie TV), una rivoluzione che, per alcuni, potrebbe cambiare il panorama televisivo italiano.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fc64082-fac8-47ff-bac0-3354cdf07901.jpg"></article>]]></description>
@@ -34,13 +34,6 @@
             <link>http://claudioraimondi.com/svegliatitalia/index.html</link>
             <guid isPermaLink="false">b6024748-d9a8-48b6-9283-dab713b73b68</guid>
             <pubDate>Sun, 02 Oct 2016 16:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[L'ecommerce è Mobile, ma non qual piuma al vento]]></title>
-            <description><![CDATA[<article><h1>L'ecommerce è Mobile, ma non qual piuma al vento</h1><p>L'ecommerce è sempre più mobile in Italia. Lo vive ognuno di noi, tutti i giorni, quando prende in mano lo smartphone per controllare il prezzo di questo o quel prodotto, cercarne maggiori informazioni o comprarlo. Nonostante l'intero ciclo di acquisto (che si concluda online o offline, la cosiddetta omnicanalità) meriti più attenzione di quanto le imprese italiane stiano dedicando loro, quando si parla di ecommerce mobile si parla solo di una parte, cioè tutte quelle transazioni che si concludono online.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf21896d-6a1c-42e9-abb6-1562df902ea5.jpg"></article>]]></description>
-            <link>http://claudioraimondi.com/lecommerce-e-mobile-ma-non-qual-piuma-al-vento/index.html</link>
-            <guid isPermaLink="false">947cb0b4-f96b-4d59-8629-c6cd5e73ea60</guid>
-            <pubDate>Sun, 02 Oct 2016 16:15:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Perché il futuro dell'industria automobilistica è segnato e come hanno vinto Apple e Google]]></title>
@@ -76,6 +69,13 @@
             <link>http://claudioraimondi.com/la-rivoluzione-apple-di-cui-nessuno-parla/index.html</link>
             <guid isPermaLink="false">29f3c592-a5b1-41d0-b1dc-3bb2b612c75b</guid>
             <pubDate>Sun, 02 Oct 2016 16:15:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[L'ecommerce è Mobile, ma non qual piuma al vento]]></title>
+            <description><![CDATA[<article><h1>L'ecommerce è Mobile, ma non qual piuma al vento</h1><p>L'ecommerce è sempre più mobile in Italia. Lo vive ognuno di noi, tutti i giorni, quando prende in mano lo smartphone per controllare il prezzo di questo o quel prodotto, cercarne maggiori informazioni o comprarlo. Nonostante l'intero ciclo di acquisto (che si concluda online o offline, la cosiddetta omnicanalità) meriti più attenzione di quanto le imprese italiane stiano dedicando loro, quando si parla di ecommerce mobile si parla solo di una parte, cioè tutte quelle transazioni che si concludono online.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf21896d-6a1c-42e9-abb6-1562df902ea5.jpg"></article>]]></description>
+            <link>http://claudioraimondi.com/lecommerce-e-mobile-ma-non-qual-piuma-al-vento/index.html</link>
+            <guid isPermaLink="false">947cb0b4-f96b-4d59-8629-c6cd5e73ea60</guid>
+            <pubDate>Sun, 02 Oct 2016 16:16:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
