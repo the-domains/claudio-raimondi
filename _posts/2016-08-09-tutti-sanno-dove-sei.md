@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T20:34:03.914Z'
+datePublished: '2016-10-02T16:11:48.382Z'
 sourcePath: _posts/2016-08-09-tutti-sanno-dove-sei.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T20:34:02.866Z'
+dateModified: '2016-10-02T16:11:47.889Z'
 title: Tutti sanno dove sei
 publisher: {}
 description: >-
@@ -19,7 +19,6 @@ description: >-
   latitudine, longitudine e altezza ci troviamo. Tutto questo in maniera
   passiva, chiedendo all'utente lo sforzo minimo possibile, cioè nulla.
 inLanguage: null
-inNav: false
 starred: false
 url: tutti-sanno-dove-sei/index.html
 _type: Article
