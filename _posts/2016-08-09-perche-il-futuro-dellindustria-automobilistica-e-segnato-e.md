@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:22:26.030Z'
+datePublished: '2016-10-02T16:32:10.530Z'
 sourcePath: >-
   _posts/2016-08-09-perche-il-futuro-dellindustria-automobilistica-e-segnato-e.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:22:25.546Z'
+dateModified: '2016-10-02T16:32:09.727Z'
 title: >-
   Perché il futuro dell'industria automobilistica è segnato e come hanno vinto
   Apple e Google
@@ -55,7 +55,7 @@ Se anche Apple o Google non dovessero lanciare sul mercato un'automobile tutta l
 
 **Claudio Raimondi**
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJylUsFu2zAMvfsriFzsYLV9X50M7RJgGYp2QAPsWMgSHXOQJU-iUhRr_320kxRDr9NBkEiK7_E9NYaOQGa1MBR_p_jEfUBlFuumlsQ6a6IONPI6y44qwLlGe9fRAVbQJaeZvINiCX8ykMU9xWpUB6xSsFKR98zj57rWViVDPigavDNUaT_UIwbdY0m27BKn4EuD1pIzKXIgVarEfvAtWYpMWpVYRjw4xb7E_PoDGBl0TB1hmDD_r_PbdZYVl8mmwaCuYfNwn-9hu9nt4XZ79_AT9t92j3C3u9_OTGZxBNp4nQahcgVxulVaxGTcWpyCRX4SM1-e6McqBj3z_ShPKfJUJ7FnpXBo0VS_Yv7-EPmGZZY2MRa5UaxKpgEjq2HMr-CTw2fYCHKxPGMVpurFV3h9FVatNy_LSo0jOvO1J2uKKGVvy0L2pr443jh_Pv6wqCICOtVahO_qqB7nBLCHIwkU9wiNAvk63WoxOR7F8n_4f5HE06XdYi2hSY8Io3_GgAbaF9icqptaydd7R_4LVRbiXQ" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJylUtFq2zAUffdXXNIH26y2HweNk7ItgWWUdtDAHossXcd3kyVPukoJa_59suOW0dfZYGTdI51zz7m155PGddJYdYI_CcSnEfLXwdlgVCGttu4GrtqP47tMzkldzQeSWtERSK0Wivzv4J-4cyjUYl1XsbBOai8dDRyBR-FgxkhrWjrACtpgJJM1kOUzK3fky0EcsAxOR0TaMQ83VSW1CIqsE9Rbo6iUtq8GdLLDgnTRBg7OFgq1JqOCZ0eiEIFtbxvS5JmkKLDweDCCbYHp8h0ZKTRMLaEbOf_v5vMySbLXzsbGoKpg83Cf7mG72e3h8_bu4Qfsv-4e4W53v52UTOZEamVl6KOUa_DjXymjmYxbjeNmll7MTPOLfF96Jye97-2JifXlxezJKewbVOVPn74dRP7EsZcmMGapEiwKph49i35Ir-GDwWfYROYsn7kyVXYxV3h5iarGKclLMQxo1JeOtMp8hJ3zLH7jZMyJ18bOy-8ahUdAIxqN8E0cxeNUALZwpEjFHUItII5Ou1qMifsY-T_6b2Ph6fW6xTpujX54GOwzOlTQnGBzQdeViKP3xvwXouz0Xw" height="244" style=""></iframe>
 
 
 
