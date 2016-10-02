@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T21:02:16.478Z'
+datePublished: '2016-10-02T16:11:03.827Z'
 sourcePath: _posts/2016-08-09-svegliatitalia.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T21:02:15.907Z'
+dateModified: '2016-10-02T16:11:03.386Z'
 title: '#svegliatitalia'
 publisher: {}
 description: >-
@@ -17,7 +17,6 @@ description: >-
   italiane si coloreranno di manifestazioni a sostegno dei diritti della
   comunità LGBT, al grido di #Svegliatitalia.
 inLanguage: null
-inNav: false
 starred: false
 url: svegliatitalia/index.html
 _type: Article
