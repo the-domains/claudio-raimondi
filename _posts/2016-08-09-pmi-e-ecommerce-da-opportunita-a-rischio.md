@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T20:13:43.429Z'
+datePublished: '2016-10-02T16:12:06.743Z'
 sourcePath: _posts/2016-08-09-pmi-e-ecommerce-da-opportunita-a-rischio.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T20:13:42.695Z'
+dateModified: '2016-10-02T16:12:06.174Z'
 title: 'PMI e ecommerce: da opportunità a rischio'
 publisher: {}
 description: >-
@@ -15,7 +15,6 @@ description: >-
   lieve contrazione. L'ultimo dato ISTAT disponibile, settembre, mostra una
   contrazione di 0.1% rispetto ad agosto e di 0.5% verso l'anno precedente.
 inLanguage: null
-inNav: false
 starred: false
 url: pmi-e-ecommerce-da-opportunita-a-rischio/index.html
 _type: Article
