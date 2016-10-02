@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:15:24.482Z'
+datePublished: '2016-10-02T16:24:34.085Z'
 sourcePath: _posts/2016-08-09-lamorevole-guerra-fratricida-tra-apple-google-e-samsung.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:15:23.889Z'
+dateModified: '2016-10-02T16:24:33.450Z'
 title: 'L''amorevole guerra fratricida tra Apple, Google e Samsung'
 publisher: {}
 description: >-
@@ -49,7 +49,7 @@ Con buona pace di clienti-utenti, fan, drawiniani e darwinisti.
 
 **Claudio Raimondi**
 
-    <br/>&nbsp;<div class="addthis_native_toolbox"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js?????????????????????????????????????#pubid=ra-57a713d36b8b127f"></script>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJylksFunDAQhu88xWgvgBrg3rBbJd2VslWURMpKPUaDPcBUYBPbEEVJ3r0DuxtVudYHjD1j__9841LzBKzXK83-efRPoXWEerUpCwlsotIrx0PYRNGEDk45ypqaG1hDPRoV2BpIUniLQEZo2ecDNpSPrpOMuA1h-F4UqsNRs3XIvTWac2X7osPeOppsR1kzknOY1Q6DY8UasyBLHIY5Zm0jE2Ueez-aJr78osSaTOCayc2C_3Htx2UUJeea5pKgKGB7fxcfYLfdH-B6d3v_Gw43-0e43d_tFhsLFtHVVo29-LgAP69yJRgD7TqaN5P4iDFOj9597p1azH4FkwmY_Ih5YUR9RTr_4-PPgxSuglRTjYGSWGOQmrgnH7Af4gv4ZugFtqKcpCetROetdBTe38VVZfVrmgsAMvpny51OvKR9pIl8y-Lc69LY0-9DR-gJyGDVEfzCCR-XAAQLE4tUaAlKBHk09Xo199pLs__x_0MCT-frVhvZmnl4GOwLOdJQvcL2mF0WKI_uU_kvvkHfpw" height="244" style=""></iframe>
 
 
 
