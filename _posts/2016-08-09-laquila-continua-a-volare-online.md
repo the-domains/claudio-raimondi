@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T18:38:00.075Z'
+datePublished: '2016-10-02T18:44:21.059Z'
 sourcePath: _posts/2016-08-09-laquila-continua-a-volare-online.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T18:37:59.348Z'
+dateModified: '2016-10-02T18:44:20.468Z'
 title: L'Aquila continua a volare. Online.
 publisher: {}
 description: >-
