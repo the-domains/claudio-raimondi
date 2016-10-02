@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T20:49:06.095Z'
+datePublished: '2016-10-02T16:11:32.012Z'
 sourcePath: _posts/2016-08-09-lei-non-sa-chi-sono-io-ma-netflix-si.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T20:49:05.534Z'
+dateModified: '2016-10-02T16:11:31.639Z'
 title: Lei non sa chi sono io... ma Netflix sì
 publisher: {}
 description: >-
@@ -18,7 +18,6 @@ description: >-
   ininterrottamente molte puntate di una serie TV), una rivoluzione che, per
   alcuni, potrebbe cambiare il panorama televisivo italiano.
 inLanguage: null
-inNav: false
 starred: false
 url: lei-non-sa-chi-sono-io-ma-netflix-si/index.html
 _type: Article
