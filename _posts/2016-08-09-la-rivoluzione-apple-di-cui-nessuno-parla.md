@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:32:53.508Z'
+datePublished: '2016-10-02T18:47:20.062Z'
 sourcePath: _posts/2016-08-09-la-rivoluzione-apple-di-cui-nessuno-parla.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:32:52.381Z'
+dateModified: '2016-10-02T18:47:19.441Z'
 title: La rivoluzione Apple di cui nessuno parla
 publisher: {}
 description: >-
@@ -60,7 +60,7 @@ E se una volta si pensava che il vero rischio per le Telco fosse il WiFi pubblic
 
 **Claudio Raimondi**
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUl1r20AQfNevWNwHyTSSHgux7NLWhrqEpBBDH8PpbmVte7pT70PBbfzfu5KVUPJSegIh3c7tzM1s5cNJ4yaprTrB7wR41UL-ODobjcql1dZdw5vm3fisknNSlfOBpFI0AKn1QpH_Gf1DaB0KtdhUJRc2SeWloz4wcBAOZoy0pqEjrKGJRgayBrLlzBpa8kUvjlhEpxmRtiH012UptYiKrBPUWaOokLYrtcgdDVbHX9wCc9H3GnNFuYyUG_Q-Gpv3wmmRrl71JoUmUEPoRor_anReJUn2rHuUDWUJ27vb9AC77f4AH3c3d9_g8Hl_Dzf7291EPF2dmZSVsWPmK_DjXyHZqoA7jeNmll6sSpcXtb7wTk7yXl-e8-iKi5WTD9jVqIrvPn05iOFDCI7qGDBLlQgiD9ShD6Lr0yt4a_ARtsycLWeuTBUtpwZPT6xqnIFlwSagUZ9a0irzDDsvM35z7nOelbHz51eNwiOgEbVG-CIGcT8VIFgYiKlCi1AJ4MFo1osxT8-B_qX_PRcentstNrw1-uGht4_oUEF9gu0FXZWCB-uFedL-r_UHhd7rWQ" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJylUsFu2zAMvfsrCO9gG6vt44DGSdEtAZYhaAc0wI6FLNExN1nyJDlFtvbfRztuUfSyQyVAsEXqPfLxVT6cNK6i2qoT_I2AVy3kr4Ozg1G5tNq6S_jQfBr3InqKqnJ-EFWKjkBqGSvyvwd_H1qHQsWrquTAKqq8dNQHTjwKB3OOtKahAyyhGYwMZA2k2cwaWvJFLw5YDE5zRtKG0F-WpdRiUGSdoM4aRYW0XalF7uho9fCHITAXfa8xV5TLgXKD3g_G5r1wWiSLN9ik0ARqCN1I8Q6gQEEjY8Q7Aa8g4HqE4HaBIWCGgAkiZvkWUZQ-tz52DmUJ69ubZA-b9XYPnze72x-w_7q9g932ZjNRTuoxkbJy6Lj4C_DjXyFZ7YAbjeNlmpzVTrJznb7wTk4dvtWPR9oV52lMUmJXoyp--uTlIYbrEBzVQ8A0USKIPFCHPoiuTy7go8EHWDNzms1cqSpaHjw8PnJVo42ygnVEo760pFXqOe0pS_lk68yWqIydP79rFB4BjahZtm_iKO6mAAQLR2Kq0CJUAthbzTIeLeHZE6_qv-LA_TNcvOKrUQ8PvX1AhwrqE6zP2VUp2JsvzFPt_1v_AGB1Ag8" height="244" style=""></iframe>
 
 
 
