@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T22:25:11.445Z'
+datePublished: '2016-10-02T16:25:05.893Z'
 sourcePath: _posts/2016-08-09-laquila-continua-a-volare-online.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T22:25:10.895Z'
+dateModified: '2016-10-02T16:25:05.365Z'
 title: L'Aquila continua a volare. Online.
 publisher: {}
 description: >-
@@ -19,7 +19,6 @@ description: >-
   crescere a tassi floridi, altre a causa di eventi esterni che non hanno fatto
   altro che complicare una situazione già non facile.
 inLanguage: null
-inNav: false
 starred: false
 url: laquila-continua-a-volare-online/index.html
 _type: Article
@@ -39,5 +38,9 @@ Credo fortemente che l'online non si debba sostituire ma, anzi, affiancare al co
 Credo fermamente che ci sia ancora molto da fare per la digitalizzazione e la diffusione dell'e-commerce, ma sono altrettanto convinto che questa iniziativa potrà costituire un volàno importante per l'economia aquilana così come già lo è per oltre 30 mila imprese italiane che ci onorano ogni giorno di aver scelto eBay. Una convinzione che, ancora una volta, arriva dalla voce e lo sguardo dei tanti imprenditori aquilani che hanno già sposato con entusiasmo questa iniziativa e che mi ospiteranno nel loro territorio venerdì. A loro va il mio accorato ringraziamento per essersi messi in gioco ancora una volta e il mio più sincero _n'bocca à ju lupe \[in bocca al lupo\]_.
 
 **Claudio Raimondi**
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNUk1P4zAQvedXjHpJoiXOfUmLgFaiKwQrUYkjmsRTMsixg-0EoYX_vpO0RStO64Nlz7yZ9-aj0jwC6-VCc3gdwlNsPaFerKpSHKukCo3nPq6SZEQPR0zj7J6fYQn7wTaRnYUshz8JyIktB9XjM6nBG0GkbYz9z7JsDA6anUfunNWsGteVBl8HNlhIush2wAKL0Rn0VDhr2FJ6_i0laxLknslPmf8n_vM8SbKTykkklCWs7-_SHWzW2x1cbW7vH2F3s32A2-3dZuabCxUC7ZqhE8IzCNNPNdKYSBtDkzFLD41J84PIoIJvZlXfSxV5nTo0bq6aupq0egnpVyDFyxg910OkLNUYsYjcUYjY9ekZ_LD0BmthzvIjV6ZVKzOCjw9RVTv9nivse7L6umWjsyCwzzyTuypP06usOz5_G8JAQBZrQ_ALR3yYHRAdjCxUsSWoEGQN9svFNL0g4_tH_4U4nk7pFisxTf0I0Ls38qShfof1AV2VKGv0xfwXgwrN7w" height="244" style=""></iframe>
+
+
 
 [0]: http://www.ebay.it/laquila
