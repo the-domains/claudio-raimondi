@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:23:35.303Z'
+datePublished: '2016-10-02T16:32:23.627Z'
 sourcePath: _posts/2016-08-09-lei-non-sa-chi-sono-io-ma-netflix-si.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:23:34.781Z'
+dateModified: '2016-10-02T16:32:18.419Z'
 title: Lei non sa chi sono io... ma Netflix sì
 publisher: {}
 description: >-
@@ -45,4 +45,4 @@ Tutte le informazioni di profilazione che possiede Netflix e che sono una manna 
 
 **Claudio Raimondi**
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNUsFO4zAQvecrRr0k0WLnvqRdLbTSFiFYiUockWNPyKwSO8STsmjh33eStghxwgfLnhm_92aeS0d7ILdcOIpPY3zgZkDjFquykMQqKaMdqOdVkuzNAMcaG3xNj7CEevSWKXjIcviXgCxuKOrePKIeh1Yq0oa5_14UtjWjozAY6oJ3pG3oihZJ-eBVNMo2pGLwQVFQnVEeuW7pr4qUnn-CJYeeqSYcJvSvYrydJ0l2UjuJhaKA9e1NuoPNeruDi8317T3sfm3v4Hp7s5k554aFxAU7dkJ6BnG6aSsDYty0OAWz9DCgND8IjToOdlb2uWUlLevDAOfusavQ6T8xfX-I_JN5oGpkzFJn2CimDiObrk_P4JvHZ1gLc5YfuTKnG_EKXl9FVRXcS65N36N3lw21LotS9pZnspfFycXSh-Pxd4smIqA3VYtwZfbmbk4AB9iTUHGDUBqQ71AvF5OLUWz8oP-HJB5OcIuVhKZ5ROjDMw7ooHqB9aG6LIx8p3fm_wP1z3U" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNUlFr2zAQfvevOLIH26yyHweNk7EtgWWUdtDAHossnePbZMmT5HRhzX_v2XHL6NMkEJLu033f3acqxJPBdVI7fYK_CfCopfp18G6wWihnnL-Gd82HcS6Tc1KV84Ok0nQE0quFpvB7CA-x9Sj1Yl2VHFgnVVCe-sjAo_QwY5SzDR1gBc1gVSRnIctn1thSKHp5wGLwhhFpG2N_XZbKyEGT85I6ZzUVynWlQRLWWRGkUC2J4KwT5EQnhcXYGPojAqXLN2lJo43UEPox-__mOC-TJHtRO4qFsoTN3W26h-1mt4fP25u7H7D_uruHm93tduKcCmYS7dTQMekVhPFUKG5QxK3B8TJLLw1K84vQUASvJmVvS2YXuuLSwKl67GrUxc-Qvj7E-ClGT_UQMUu1jFJE6jBE2fXpFby3-AgbZs7ymSvTRctewdMTqxqdzwvZ92j1l5aMzgLDznnGK7s9u1hZN2-_G5QBAa2sDcI3eZT3UwCigyMxVWwRKgn8HZrVYnQxsI3_6P_IgYeXdIs1X439CNC7R_SooT7B5oKuSsnf6ZX5GTlG4Xc" height="244" style=""></iframe>
