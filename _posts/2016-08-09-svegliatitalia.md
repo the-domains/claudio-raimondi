@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:19:55.812Z'
+datePublished: '2016-10-02T16:20:34.322Z'
 sourcePath: _posts/2016-08-09-svegliatitalia.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:19:55.268Z'
+dateModified: '2016-10-02T16:20:33.702Z'
 title: '#svegliatitalia'
 publisher: {}
 description: >-
@@ -37,7 +37,7 @@ Stamattina, come e più di ogni giorno, sono orgoglioso di far parte della grand
 
 **Claudio Raimondi**
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyFUk1v2zAMvftXELnYxlr5vjoptiXAMhTtgAbosaAtJuZgS55EuyjW_vfRTlIM3aE66ItPj--RKi2PwHa5sBx_D_FRmkBoF6uy0MAqKWMduJdVkowY4ISpvdvzAZawH1wt7B1kOfxJQIc0HE2PBzJDaBWRNiL956KoWxws-4DceWfZ1L4r4kiHllFYUJf06h0BW3LCe6Yw8fyPfr1KkuysYBIARQHru9t0B5v1dgdfNzd3D7D7vr2Hm-3tZmafTSid9fXQKf0FxOlkajUttGlpuszSo-k0P0qKJoZ61vDexqXaMMeizI6oq8iaXzF9e0jyRSRwNQhlqUXBS-GOomDXpxfwydETrDVzlp9yZdY0Wn94eVFVlbfPucG-J2e_NdzaLCrsNc90LotzZ0rnT9ufLWEkIIdVS_ADR7yfAyAeRtZU0hCUCNri_XIxdSZqa_7Rf62BxzPdYqVXUz0i9P6JAlmonmF9RJcF6hd5yzxr_2j8BT11xUU" height="244" style=""></iframe>
 
 
 
