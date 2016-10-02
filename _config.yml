@@ -33,12 +33,12 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: press
-    url: 'http://press.ClaudioRaimondi.com'
-    type: external
   - name: Claudio Raimondi
     id: 0ddfb149-be62-49bb-a17c-56a2dc5c6417
     type: content
+  - name: press
+    url: 'http://press.ClaudioRaimondi.com'
+    type: external
   - name: on Twitter
     url: 'http://www.twitter.com/ClaudioRaimondi'
     type: external
