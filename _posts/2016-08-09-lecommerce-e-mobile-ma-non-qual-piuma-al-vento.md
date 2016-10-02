@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-02T16:26:46.549Z'
+datePublished: '2016-10-02T16:33:00.114Z'
 sourcePath: _posts/2016-08-09-lecommerce-e-mobile-ma-non-qual-piuma-al-vento.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-02T16:26:46.006Z'
+dateModified: '2016-10-02T16:32:59.345Z'
 title: 'L''ecommerce è Mobile, ma non qual piuma al vento'
 publisher: {}
 description: >-
@@ -43,7 +43,7 @@ L'm-commerce italiano da smartphone e tablet rappresenta già oggi il 20% dell'e
 
 **Claudio Raimondi**
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUk1P4zAQvedXjHpJoiXOfUmL2G2l7QoBEpU4IseeklkldrAnQQj47ztJW4S4rNYHf8143vN7U1kagexyYSk-DfGBm4DaLlZVKYFVUkUTqOdVkow6wDHHeLenR1jCfnCGyTvIcnhNQAY3FFWvH1ENoZWMtGHuv5elafVgyQdNnXeWlPFd2aLMHQaDBRadr6mVRRfOu-Jp0G3R0yBH2Yzo2KfnXwDIyjXtCcOE8__V3s-TJDv9YPoAlCWsb67THWzW2x382Fzd3MPu1_YOrrbXmxl9FkHgrDdDJ3XOIE4nZUQ0xk2L02WWHkRL8wPlqGIwM8evMhRCWR1EnRXBrkar_sT04yHyJXOgemDMUqtZF0wdRtZdn57BN4fPsBbkLD9iZVY14h-8vQmr2tuXXOm-R2d_NtTaLErae57JXJUnZyvnj9vbFnVEQKfrFuG3HvXdHAD2MJJAcYNQaZAW2S8Xk7NRrP3E_0ICD6dyi9VsiOMIvX_GgBbqF1gfsqtSS4t9IM_c_zX-AuVK3CM" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUlFr2zAQfvevONIH27S2HweNk9EtgWWUdtDAHossnWNtsuRKZ5ew5r_v7Lhl9KVMBlnSfbrv9H1XBjoaXEeVU0f4EwGPSsjfB-96qzLpjPPXcFF_Gr9ldIrKYr4QlUoPoNVqoXR46sMjNR6FWqzLggPrqAzS644YOAgPM0Y6W-sDrKDurSTtLCTpzEqNDnknDpj33jAiboi666KQRvRKOy9066zSuXRtYZDnFr3EDLPWVdrwT2TW2eypFybrdM9bXgxoycXLdwRa8bGuNfqR5_-znZZRlLy-YHwAFAVs7u_iPWw3uz182d7e_4T9t90D3O7uthP7JALTKSf7lvNcQRh3uWTRCLcGx8MkPosWp-eSQx68nGp8LwM70-ZnUSdFsK1Q5b9C_HYR6YbI66onTGIlSGSkWwwk2i6-gkuLz7Bh5iSduRKVN-wfvLxwVWM3pLnoOrTqa6ONSgLDTmnCM3fA7Gxp3bz8YVAEBLSiMgjfxSAepgCQg0EzFTUIpQBukXq1GJ0NbO0_9X_mwONrusV6MsRSgM49o0cF1RE2Z3RZCG6xN-ap9o_GXx1Y7iU" height="244" style=""></iframe>
 
 
 
