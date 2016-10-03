@@ -33,6 +33,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: home
+    url: 'http://www.claudioraimondi.com'
+    type: external
   - name: press
     url: 'http://press.ClaudioRaimondi.com'
     type: external
@@ -44,9 +47,6 @@ navigation:
     type: external
   - name: Claudio Raimondi
     url: 'http://claudioraimondi.com/claudio-raimondi'
-    type: external
-  - name: home
-    url: 'http://www.claudioraimondi.com'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e9da336-8579-432a-adcc-304b541551c5.jpg
