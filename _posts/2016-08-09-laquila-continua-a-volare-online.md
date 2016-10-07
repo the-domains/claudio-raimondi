@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-07T18:01:57.998Z'
+datePublished: '2016-10-07T18:02:02.720Z'
 sourcePath: _posts/2016-08-09-laquila-continua-a-volare-online.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-07T17:54:07.343Z'
+dateModified: '2016-10-07T18:02:02.095Z'
 title: L'Aquila continua a volare. Online.
 publisher: {}
 description: >-
@@ -41,7 +41,7 @@ Credo fermamente che ci sia ancora molto da fare per la digitalizzazione e la di
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUsFum0AQvfMVI3oA1LAcK8XYVVpbqisrrhRLPUYDOzbbLrtkdyGymvx7B4yjKreChJad9-bNvJnSh7OmVVRZeYY_EfBTYf375GxvZF5bbd0tfDh-Gt9F9BqVxUyISqkGUHIZS-Wfev8YGkco41VZcGAVlb52qgsMHNDBjKmtOaoTLOHYmzooayDNZtXQKC86PJHonWZE0oTQ3RZFrbGXyjpUrTVSidq2hcanXmnk8kxQpscc88FqdJRbo5WhZPEupZLEyKMiN2b-f35QQRNT411yN1HhSgWEC1XAfuKKmG1aRFF6bXHsEIoC1vv75ACb9fYAXza7_U84fNs-wG57v5nEJpdYQtq6b7naG_Djn6jZ1UAbTeNlmlxcTbJLhV54V08tvfeJe2vFxfXJMmorkuKXT96IFO5CcKrqA6WJxIB5UC35gG2X3MBHQ8-wZuU0m7VSKRoeMLy8cFXjumQCu46M_NooLVPPsNcs5S-vyDz60tj5-EMTegIyWLGR33HAhykAwcKgWCo0BCUC79BxGY-j9zz7f-r_zIHHa7p4xVejHx46-0yOJFRnWF_QZYG8g2_KfwGWNfOm" height="244" style=""></iframe>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzFkk1OwzAQhfc5ReQtJRYsq1IhEAskVmwRqhzbJFP5T_ZEoUK5C2fhZGTyQ9NdWXVle-Z7b0ZP3iQZIWCOh6DvmAjBgBQI3nGjrvbJO7bNvrKf75zdS-9QfyJb56xGDGvOk6y1FYWPFVuNDNkQ8BC1UDI2tnyBhFMXUFt6PhlttSOjN6oP9idqgp57eNRRK_gEtFXfvfkrkl9fmPWDBajFfm3bFo9GNAr8qwDrnYJC-qMtKZyww8yJy2fwBAIrKr0wBlXIkY8LXx5qjz5xcAkBG9pXGP7hoxXmeuJ3s2CnS3Eo9qFixznddO1W_8zk9vxMSuOrs0Mh-KJBjOd7l3XZho9fdfsLlJf_Hg" height="1" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzFkk1OwzAQhfc5ReQtJRYsq1IhEAskVmwRqhzbJFPZHst2FCqUu3AWTkYmPzTdlVVXtme-92b05E2UAXzK08HrOya8NyBFAnTcqKt9RMe22Vf2852ze4ku6c_E1jmrU_JrzqOstRUFhoqtRoZsCHgIWigZGlu-QExTF5K29Hwy2mpHRm9UH-xP1AQ99_Coo5bHCLRV3735K5JfX5j1gwWoxX5t2xaPRjQK8FWARaegkHi0JYUTdpg5cfkMnkBgRaUXxqAKOfJh4ct9jQkjBxcTpIb2FYZ_YLDCXE_8bhbsdCkOxd5X7Dinm67d6p-Z3J6fSWmwOjsUgi8axHi-Z1224eNP3f4Ck13-oQ" height="1" style=""></iframe>
 
 
 
