@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-07T17:55:20.770Z'
+datePublished: '2016-10-07T18:02:28.615Z'
 sourcePath: _posts/2016-08-09-lei-non-sa-chi-sono-io-ma-netflix-si.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-07T17:55:20.113Z'
+dateModified: '2016-10-07T18:02:27.892Z'
 title: Lei non sa chi sono io... ma Netflix sì
 publisher: {}
 description: >-
@@ -47,4 +47,4 @@ Tutte le informazioni di profilazione che possiede Netflix e che sono una manna 
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydUsFum0AQvfMVI3oA1LAcK8XYVVtbqivLqRRLPUbL7mCmhV26uzi1mvxR_qI_1sGQqMqxIKFlZ968mTev9OHc4iqqrD7D7wj4qaT6cXR2MDpXtrXuGt7U78Z3ET1GZTEDolLTCUgvY03-5-DvQuNQ6nhVFhxYRaVXjvrAiSfpYM5R1tR0hCXUg1GBrIE0m1lDQ1708ohicC1nJE0I_XVRqFYOmqyT1FmjSSjbFS1SbqzJvcxVQ7m3xuZk807mBkPd0q_cU7J4VZY0mkA1oRur_1-NQKFFhsc7JGA0eAmMhhENZIUQ0EnYTwXA_3mKWbNFFKXP847jQlHA-mafHGCz3h7g42Z38w0On7e3sNvuNxfGi2TMo60aOm77Cvz4JxRLHHDT4niZJpPESTa16YV36jLba9F4j52YVnDRD7sKtfjukxcghg8hOKqGgGmiZZB5oA59kF2fXMFbg_ewZuY0m7lSLRreNjw8cFejdzIh-x6N_tRQq1PPaY9Zyl_2y-yD0tj5-LVF6RHQyIrV_CJP8vYSgGDhREwVGoRSAhuqXsajDzwb4Z_-33Pg7rlcvOKrUQ8Pvb1HhxqqM6yn7LKQbMgX5r_vEPbo" height="244" style=""></iframe>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzFkk1OwzAQhfc5ReQtJRYsq1IhEAskVmwRqhzbJFP5T_ZEoUK5C2fhZGTyQ9NdWXVle-Z7b0ZP3iQZIWCOh6DvmAjBgBQI3nGjrvbJO7bNvrKf75zdS-9QfyJb56xGDGvOk6y1FYWPFVuNDNkQ8BC1UDI2tnyBhFMXUFt6PhlttSOjN6oP9idqgp57eNRRK_gEtFXfvfkrkl9fmPWDBajFfm3bFo9GNAr8qwDrnYJC-qMtKZyww8yJy2fwBAIrKr0wBlXIkY8LXx5qjz5xcAkBG9pXGP7hoxXmeuJ3s2CnS3Eo9qFixznddO1W_8zk9vxMSuOrs0Mh-KJBjOd7l3XZho9fdfsLlJf_Hg" height="1" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzFkk1OwzAQhfc5ReQtJRYsq1IhEAskVmwRqhzbJFPZHst2FCqUu3AWTkYmPzTdlVVXtme-92b05E2UAXzK08HrOya8NyBFAnTcqKt9RMe22Vf2852ze4ku6c_E1jmrU_JrzqOstRUFhoqtRoZsCHgIWigZGlu-QExTF5K29Hwy2mpHRm9UH-xP1AQ99_Coo5bHCLRV3735K5JfX5j1gwWoxX5t2xaPRjQK8FWARaegkHi0JYUTdpg5cfkMnkBgRaUXxqAKOfJh4ct9jQkjBxcTpIb2FYZ_YLDCXE_8bhbsdCkOxd5X7Dinm67d6p-Z3J6fSWmwOjsUgi8axHi-Z1224eNP3f4Ck13-oQ" height="1" style=""></iframe>
