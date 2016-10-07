@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-07T18:05:38.004Z'
+datePublished: '2016-10-07T18:16:02.213Z'
 sourcePath: >-
   _posts/2016-08-09-perche-il-futuro-dellindustria-automobilistica-e-segnato-e.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-07T18:05:37.370Z'
+dateModified: '2016-10-07T18:16:01.694Z'
 title: >-
   Perché il futuro dell'industria automobilistica è segnato e come hanno vinto
   Apple e Google
@@ -57,7 +57,7 @@ Se anche Apple o Google non dovessero lanciare sul mercato un'automobile tutta l
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytUkFu2zAQvOsVC_cgGY2kY4FYdpHWRusiSALEQI8BJa6sbSlSJVcOjCb_Sd-Rj3VlK0bhcyVAoMjlzO7MFIH3BhdR6fQefkcgT6mqn1vveqvTyhnnL-Fd_WF4Z9FzVOTjhajQtAPS84mm8KsPD9x4VHqyKHI5WERFqDx1LIU75WGsqZytaQtzqHtbMTkLyXRk5YZC1qktZr03UhE3zN1lnldG9ZqcV9Q6qymrXJt36KsGUzJp3XPvXarRGLK6D-xJpapn17qSDAWmSqWYBtxaxS7FeHZGRhotU03oB87_iczEBgV0cjdgvv4BMnAEhQE0PqHCGSq8vsAICwgyL0KjrHWwIytbV10nuAhfnNsanIgpsyhK3gQd9IQ8h-XtTbyB1XK9gU-r69vvsPm6vofr9c3q0ObBE2lOu6pvRYELCMNfVomHjCuDw2YSHz2Mp8fZQhZ8dZDp3BUJSpsdPT4YhG2JOvsR4tNF5CuWYcueMYm1YpUytRhYtV18Ae8tPsJSmJPpyJXorJE4wdOTdDWEc5qprkOrPzdkdBKk7HmayFcCOQatsG5c3hlUQTSyqhSpvqmduj8cAA8iChU3CIUCSWw9nwxBC5K0f_r_KAcPb3CThWwNegTo3CN61FDuYXmsLnIliT8x_wXiMB-A" height="244" style=""></iframe>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzFkk1OwzAQhfc5ReQtJRYsq1IhEAskVmwRqhzbJFP5T_ZEoUK5C2fhZGTyQ9NdWXVle-Z7b0ZP3iQZIWCOh6DvmAjBgBQI3nGjrvbJO7bNvrKf75zdS-9QfyJb56xGDGvOk6y1FYWPFVuNDNkQ8BC1UDI2tnyBhFMXUFt6PhlttSOjN6oP9idqgp57eNRRK_gEtFXfvfkrkl9fmPWDBajFfm3bFo9GNAr8qwDrnYJC-qMtKZyww8yJy2fwBAIrKr0wBlXIkY8LXx5qjz5xcAkBG9pXGP7hoxXmeuJ3s2CnS3Eo9qFixznddO1W_8zk9vxMSuOrs0Mh-KJBjOd7l3XZho9fdfsLlJf_Hg" height="1" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzFkk1OwzAQhfc5ReQtJRYsq1IhEAskVmwRqhzbJFPZHst2FCqUu3AWTkYmPzTdlVVXtme-92b05E2UAXzK08HrOya8NyBFAnTcqKt9RMe22Vf2852ze4ku6c_E1jmrU_JrzqOstRUFhoqtRoZsCHgIWigZGlu-QExTF5K29Hwy2mpHRm9UH-xP1AQ99_Coo5bHCLRV3735K5JfX5j1gwWoxX5t2xaPRjQK8FWARaegkHi0JYUTdpg5cfkMnkBgRaUXxqAKOfJh4ct9jQkjBxcTpIb2FYZ_YLDCXE_8bhbsdCkOxd5X7Dinm67d6p-Z3J6fSWmwOjsUgi8axHi-Z1224eNP3f4Ck13-oQ" height="1" style=""></iframe>
 
 
 
