@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-09T16:50:55.821Z'
+datePublished: '2016-10-09T16:52:07.540Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-09T16:50:54.934Z'
+dateModified: '2016-10-09T16:52:06.877Z'
 title: Apple sta costruendo un motore di ricerca in gran segreto
 publisher: {}
 description: >-
@@ -27,7 +27,7 @@ _type: Article
 ---
 # Apple sta costruendo un motore di ricerca in gran segreto
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytkcFOwzAMhu99CtNdyTIYaNJYJ3HiMVCaZJ1HFleOszEQ705KixAnLiS3P8732783SS7Bb6uW3AXeKyinNfalY8rRKUuBeA2z3Wq4D9VHtdHTh82VUvBEIATn83lunJM9prmlo3Ym7Vsy7IZHm5PQEd88XChzUSgkUKoAkmXsBeTS-6YW_yr6YE5mVGtIbJta67T6hT4kvVws9CQ9n9F1XuaHNOtzi65ho-5XO7NaLpa393e7G7u7qbel5S_mX5bb6mQYvtFpb9hDM2aSOayh3ov0a63bQN3cBpMdEhs8UnT41Zzp--BVElNyS8LZR0cqR3UkIfbKoWK0nq1RGFXHJqrkO_ZCur4eXAQl-OLzOHCgcOCHAznCyAGHMHEAIwwcmDj1uKBp2n9YkcMTlElTaurvXDAGjH6M53kobel1yLiUbj8BjwTLqQ" height="64" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytkcFOwzAMhu99CtNdyTIYaNJYJ3HiMVCaZJ1HFleOszEQ705KixAnLiS3P8732783SS7Bb6uW3AXeKyinNfalY8rRKUuBeA2z3Wq4D9VHtdHTh82VUvBEIATn83lunJM9prmlo3Ym7Vsy7IZHm5PQEd88XChzUSgkUKoAkmXsBeTS-6YW_yr6YE5mVGtIbJta67T6hT4kvVws9CQ9n9F1XuaHNOtzi65ho-5XO7NaLpa393e7G7u7qbel5S_mX5bb6mQYvtFpb9hDM2aSOayh3ov0a63bQN3cBpMdEhs8UnT41Zzp--BVElNyS8LZR0cqR3UkIfbKoWK0nq1RGFXHJqrkO_ZCur4eXAQl-OLzOHCgcOCHAznCyAGHMHEAIwwcmDj1uKBp2n9YkcMTlElTaurvXDAGjH6M53kobel1yLiUbj8BjwTLqQ" height="100" style=""></iframe>
 
 Da sempre, o quasi, Apple e Google sono al contempo partner e competitor. Il loro ricorda il rapporto tra la rana e lo scorpione nella favola di Esopo: uno scorpione deve attraversare un fiume e chiede un passaggio ad una rana, lì vicina. La rana, controvoglia e impaurita, offre un passaggio allo scorpione persuasa dal fatto che sarebbe stato contro lo stesso interesse dello scorpione pungerla ma, a metà strada tra le due rive, lo scorpione la attacca condannando entrambi a morte. La rana chiede allo scorpione il perché di tale gesto e l'animale, con una semplicità aberrante, risponde: "È la mia natura"
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33c69b9d-5c87-496d-bdc4-551231b49c9c.jpg)
