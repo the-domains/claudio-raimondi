@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-09T16:46:31.116Z'
+datePublished: '2016-10-09T16:47:00.623Z'
 sourcePath: _posts/2016-08-06-apple-sta-costruendo-un-motore-di-ricerca-in-gran-segreto.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-09T16:46:30.418Z'
+dateModified: '2016-10-09T16:47:00.051Z'
 title: Apple sta costruendo un motore di ricerca in gran segreto
 publisher: {}
 description: >-
@@ -27,7 +27,7 @@ _type: Article
 ---
 # Apple sta costruendo un motore di ricerca in gran segreto
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtzEsOgjAQBuC9pxi7L1wAuiNqworgmgxtkzYpTNIZrHp6IbL9_kdz1RpuBEJQSqnQOQmRK0tL7ZDDTJjdEdqNhZb49fChLe9CiUFrc2lcfIFNyNyqcz3FNcXVTxww--mozvRW4FBQbzm1arx38Bz6kyRK8n8cH2PfKdPU-6n5AYIUNSQ" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxFz0FuhDAMBdB9T-GyN-wrQOqqx0AmjsBSiJHjDG1PPzBF6tb-_1nu3xHhS8EVjuNoidlXKW3QrWMq66xkfC1DLa6b_Eb40WrnRFMBxPGtZ3lASFTK0NztSXKSHKeyksXpis763QCTE1ZLQ7O67x9dNydd2rNaWdRINs0sr8u07yliOeNBi1uNmRVrxk1dLSILmoRogVAyLkYZS1wsunb3FRdPcWg-LwdOB_4dqBn-HGCB2wHJcDlwO83Yd-df4xP5O2fZ" height="244" style=""></iframe>
 
 Da sempre, o quasi, Apple e Google sono al contempo partner e competitor. Il loro ricorda il rapporto tra la rana e lo scorpione nella favola di Esopo: uno scorpione deve attraversare un fiume e chiede un passaggio ad una rana, lì vicina. La rana, controvoglia e impaurita, offre un passaggio allo scorpione persuasa dal fatto che sarebbe stato contro lo stesso interesse dello scorpione pungerla ma, a metà strada tra le due rive, lo scorpione la attacca condannando entrambi a morte. La rana chiede allo scorpione il perché di tale gesto e l'animale, con una semplicità aberrante, risponde: "È la mia natura"
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33c69b9d-5c87-496d-bdc4-551231b49c9c.jpg)
